@@ -9,6 +9,7 @@ import base64
 import html
 import random
 import re
+from functools import partial
 from datetime import date
 from pathlib import Path
 
@@ -152,10 +153,46 @@ def card_page(leader, countries):
             for i in st.session_state.quote_idx:
                 show(f'<div class="card-quote">“{masked(leader["quotes"][i])}”</div>')
         codes = sorted(countries, key=lambda c: countries[c].name)
-        st.selectbox("Which country does this leader run? Start typing:", codes, index=None, key="guess",
-                     format_func=lambda c: countries[c].name, placeholder="e.g. Kenya")
-        st.button("Submit guess", on_click=submit_guess, args=(countries,),
-                  disabled=st.session_state.get("guess") is None, width="stretch")
+        guess = st.session_state.get("guess")
+        show('<span class="quote-label">Click the country on the map</span>')
+        st.plotly_chart(pick_map(codes, guess), key="pick_map", on_select=partial(on_map_pick, codes),
+                        selection_mode="points", width="stretch", theme=None,
+                        config={"displayModeBar": False, "scrollZoom": True})
+        st.selectbox("…or type it (handy for tiny states):", codes, key="guess",
+                     index=None, format_func=lambda c: countries[c].name, placeholder="e.g. Monaco")
+        label = f"Submit guess: {countries[guess].name}" if guess else "Pick a country first"
+        st.button(label, on_click=submit_guess, args=(countries,), disabled=guess is None, width="stretch")
+
+
+def on_map_pick(codes):
+    """A click on the map selects one country: copy it into the guess."""
+    points = st.session_state.pick_map.selection.point_indices
+    if points:
+        st.session_state.guess = codes[points[0]]
+
+
+def style_geo(fig, height):
+    """Old-paper look shared by both maps."""
+    fig.update_geos(projection_type="natural earth", showframe=False, showcoastlines=False,
+                    showland=True, landcolor="#e6d9b8", showocean=True, oceancolor="#d6e2e4",
+                    showcountries=True, countrycolor="#b3a585", bgcolor="rgba(0,0,0,0)",
+                    lataxis_range=[-58, 85], lonaxis_range=[-180, 180])
+    fig.update_layout(height=height, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)",
+                      showlegend=False, dragmode=False)
+    return fig
+
+
+def pick_map(codes, guess):
+    """Clickable world map: every country is one point; the picked one turns pink."""
+    countries = load_data()[1]
+    fig = go.Figure(go.Choropleth(
+        locations=codes, z=[1 if c == guess else 0 for c in codes],
+        text=[countries[c].name for c in codes], hovertemplate="%{text}<extra></extra>",
+        colorscale=[[0, "#efe3c4"], [1, "#e08f7c"]], zmin=0, zmax=1, showscale=False,
+        marker_line_color="#a89a80", marker_line_width=0.6,
+        selected=dict(marker=dict(opacity=1)), unselected=dict(marker=dict(opacity=1)),
+    ))
+    return style_geo(fig, 420)
 
 
 def verdict(result):
@@ -201,13 +238,7 @@ def answer_map(guess_code, answer_code, countries):
         fig.add_trace(go.Scattergeo(lat=[guess.lat, answer.lat], lon=[guess.lon, answer.lon], mode="lines+markers",
                                     line=dict(color="#2b2420", width=2, dash="dash"),
                                     marker=dict(size=9, color=["#c0604c", "#4f7a45"]), hoverinfo="skip"))
-    fig.update_geos(projection_type="natural earth", showframe=False, showcoastlines=False,
-                    showland=True, landcolor="#e6d9b8", showocean=True, oceancolor="#d6e2e4",
-                    showcountries=True, countrycolor="#b3a585", bgcolor="rgba(0,0,0,0)",
-                    lataxis_range=[-58, 85], lonaxis_range=[-180, 180])
-    fig.update_layout(height=330, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)",
-                      showlegend=False)
-    return fig
+    return style_geo(fig, 330)
 
 
 def final_page():
