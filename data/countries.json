@@ -1,0 +1,1381 @@
+[
+ {
+  "code3": "AFG",
+  "name": "Afghanistan",
+  "lat": 33.0,
+  "lon": 66.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "ALB",
+  "name": "Albania",
+  "lat": 41.0,
+  "lon": 20.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "DZA",
+  "name": "Algeria",
+  "lat": 28.0,
+  "lon": 1.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "AND",
+  "name": "Andorra",
+  "lat": 42.542,
+  "lon": 1.6,
+  "continent": "Europe"
+ },
+ {
+  "code3": "AGO",
+  "name": "Angola",
+  "lat": -12.35,
+  "lon": 17.35,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ATG",
+  "name": "Antigua and Barbuda",
+  "lat": 17.117,
+  "lon": -61.85,
+  "continent": "North America"
+ },
+ {
+  "code3": "ARG",
+  "name": "Argentina",
+  "lat": -34.0,
+  "lon": -64.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "ARM",
+  "name": "Armenia",
+  "lat": 40.383,
+  "lon": 44.95,
+  "continent": "Asia"
+ },
+ {
+  "code3": "AUS",
+  "name": "Australia",
+  "lat": -25.0,
+  "lon": 133.0,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "AUT",
+  "name": "Austria",
+  "lat": 48.0,
+  "lon": 14.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "AZE",
+  "name": "Azerbaijan",
+  "lat": 40.3,
+  "lon": 47.7,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BHR",
+  "name": "Bahrain",
+  "lat": 26.067,
+  "lon": 50.551,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BGD",
+  "name": "Bangladesh",
+  "lat": 24.017,
+  "lon": 89.867,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BRB",
+  "name": "Barbados",
+  "lat": 13.17,
+  "lon": -59.553,
+  "continent": "North America"
+ },
+ {
+  "code3": "BLR",
+  "name": "Belarus",
+  "lat": 53.528,
+  "lon": 28.047,
+  "continent": "Europe"
+ },
+ {
+  "code3": "BEL",
+  "name": "Belgium",
+  "lat": 50.641,
+  "lon": 4.668,
+  "continent": "Europe"
+ },
+ {
+  "code3": "BLZ",
+  "name": "Belize",
+  "lat": 17.067,
+  "lon": -88.7,
+  "continent": "North America"
+ },
+ {
+  "code3": "BEN",
+  "name": "Benin",
+  "lat": 8.833,
+  "lon": 2.183,
+  "continent": "Africa"
+ },
+ {
+  "code3": "BTN",
+  "name": "Bhutan",
+  "lat": 27.45,
+  "lon": 90.5,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BOL",
+  "name": "Bolivia",
+  "lat": -17.057,
+  "lon": -64.991,
+  "continent": "South America"
+ },
+ {
+  "code3": "BIH",
+  "name": "Bosnia and Herzegovina",
+  "lat": 44.0,
+  "lon": 18.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "BWA",
+  "name": "Botswana",
+  "lat": -22.2,
+  "lon": 23.7,
+  "continent": "Africa"
+ },
+ {
+  "code3": "BRA",
+  "name": "Brazil",
+  "lat": -14.0,
+  "lon": -53.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "BRN",
+  "name": "Brunei",
+  "lat": 4.4,
+  "lon": 114.567,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BGR",
+  "name": "Bulgaria",
+  "lat": 42.75,
+  "lon": 25.5,
+  "continent": "Europe"
+ },
+ {
+  "code3": "BFA",
+  "name": "Burkina Faso",
+  "lat": 12.267,
+  "lon": -2.067,
+  "continent": "Africa"
+ },
+ {
+  "code3": "BDI",
+  "name": "Burundi",
+  "lat": -3.667,
+  "lon": 29.817,
+  "continent": "Africa"
+ },
+ {
+  "code3": "KHM",
+  "name": "Cambodia",
+  "lat": 12.5,
+  "lon": 105.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "CMR",
+  "name": "Cameroon",
+  "lat": 5.133,
+  "lon": 12.65,
+  "continent": "Africa"
+ },
+ {
+  "code3": "CAN",
+  "name": "Canada",
+  "lat": 56.0,
+  "lon": -109.0,
+  "continent": "North America"
+ },
+ {
+  "code3": "CPV",
+  "name": "Cape Verde",
+  "lat": 15.3,
+  "lon": -23.7,
+  "continent": "Africa"
+ },
+ {
+  "code3": "CAF",
+  "name": "Central African Republic",
+  "lat": 6.7,
+  "lon": 20.9,
+  "continent": "Africa"
+ },
+ {
+  "code3": "TCD",
+  "name": "Chad",
+  "lat": 15.467,
+  "lon": 19.4,
+  "continent": "Africa"
+ },
+ {
+  "code3": "CHL",
+  "name": "Chile",
+  "lat": -33.0,
+  "lon": -71.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "COL",
+  "name": "Colombia",
+  "lat": 4.0,
+  "lon": -73.25,
+  "continent": "South America"
+ },
+ {
+  "code3": "COM",
+  "name": "Comoros",
+  "lat": -12.3,
+  "lon": 43.7,
+  "continent": "Africa"
+ },
+ {
+  "code3": "CRI",
+  "name": "Costa Rica",
+  "lat": 10.0,
+  "lon": -84.0,
+  "continent": "North America"
+ },
+ {
+  "code3": "HRV",
+  "name": "Croatia",
+  "lat": 45.25,
+  "lon": 15.467,
+  "continent": "Europe"
+ },
+ {
+  "code3": "CUB",
+  "name": "Cuba",
+  "lat": 22.0,
+  "lon": -79.5,
+  "continent": "North America"
+ },
+ {
+  "code3": "CYP",
+  "name": "Cyprus",
+  "lat": 35.0,
+  "lon": 33.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "CZE",
+  "name": "Czech Republic",
+  "lat": 50.0,
+  "lon": 15.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "COD",
+  "name": "Democratic Republic of the Congo",
+  "lat": -2.88,
+  "lon": 23.656,
+  "continent": "Africa"
+ },
+ {
+  "code3": "DNK",
+  "name": "Denmark",
+  "lat": 56.0,
+  "lon": 10.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "DJI",
+  "name": "Djibouti",
+  "lat": 11.8,
+  "lon": 42.433,
+  "continent": "Africa"
+ },
+ {
+  "code3": "DMA",
+  "name": "Dominica",
+  "lat": 15.417,
+  "lon": -61.333,
+  "continent": "North America"
+ },
+ {
+  "code3": "DOM",
+  "name": "Dominican Republic",
+  "lat": 18.8,
+  "lon": -70.2,
+  "continent": "North America"
+ },
+ {
+  "code3": "ECU",
+  "name": "Ecuador",
+  "lat": -1.0,
+  "lon": -78.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "EGY",
+  "name": "Egypt",
+  "lat": 27.0,
+  "lon": 29.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "SLV",
+  "name": "El Salvador",
+  "lat": 13.669,
+  "lon": -88.866,
+  "continent": "North America"
+ },
+ {
+  "code3": "GNQ",
+  "name": "Equatorial Guinea",
+  "lat": 1.5,
+  "lon": 10.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ERI",
+  "name": "Eritrea",
+  "lat": 15.483,
+  "lon": 38.25,
+  "continent": "Africa"
+ },
+ {
+  "code3": "EST",
+  "name": "Estonia",
+  "lat": 59.0,
+  "lon": 26.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SWZ",
+  "name": "Eswatini",
+  "lat": -26.483,
+  "lon": 31.433,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ETH",
+  "name": "Ethiopia",
+  "lat": 9.0,
+  "lon": 40.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "FSM",
+  "name": "Federated States of Micronesia",
+  "lat": 6.917,
+  "lon": 158.183,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "FJI",
+  "name": "Fiji",
+  "lat": -18.0,
+  "lon": 178.0,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "FIN",
+  "name": "Finland",
+  "lat": 65.0,
+  "lon": 27.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "FRA",
+  "name": "France",
+  "lat": 47.0,
+  "lon": 2.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "GAB",
+  "name": "Gabon",
+  "lat": -0.683,
+  "lon": 11.5,
+  "continent": "Africa"
+ },
+ {
+  "code3": "GEO",
+  "name": "Georgia",
+  "lat": 42.0,
+  "lon": 44.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "DEU",
+  "name": "Germany",
+  "lat": 51.0,
+  "lon": 10.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "GHA",
+  "name": "Ghana",
+  "lat": 7.947,
+  "lon": -1.023,
+  "continent": "Africa"
+ },
+ {
+  "code3": "GRC",
+  "name": "Greece",
+  "lat": 38.5,
+  "lon": 23.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "GRD",
+  "name": "Grenada",
+  "lat": 12.1,
+  "lon": -61.7,
+  "continent": "North America"
+ },
+ {
+  "code3": "GTM",
+  "name": "Guatemala",
+  "lat": 15.5,
+  "lon": -90.25,
+  "continent": "North America"
+ },
+ {
+  "code3": "GIN",
+  "name": "Guinea",
+  "lat": 10.0,
+  "lon": -11.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "GNB",
+  "name": "Guinea-Bissau",
+  "lat": 12.0,
+  "lon": -15.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "GUY",
+  "name": "Guyana",
+  "lat": 5.733,
+  "lon": -59.317,
+  "continent": "South America"
+ },
+ {
+  "code3": "HTI",
+  "name": "Haiti",
+  "lat": 19.0,
+  "lon": -72.8,
+  "continent": "North America"
+ },
+ {
+  "code3": "HND",
+  "name": "Honduras",
+  "lat": 14.633,
+  "lon": -86.817,
+  "continent": "North America"
+ },
+ {
+  "code3": "HUN",
+  "name": "Hungary",
+  "lat": 47.0,
+  "lon": 19.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "ISL",
+  "name": "Iceland",
+  "lat": 65.0,
+  "lon": -19.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "IND",
+  "name": "India",
+  "lat": 22.8,
+  "lon": 83.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "IDN",
+  "name": "Indonesia",
+  "lat": -2.0,
+  "lon": 118.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "IRN",
+  "name": "Iran",
+  "lat": 32.0,
+  "lon": 53.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "IRQ",
+  "name": "Iraq",
+  "lat": 33.0,
+  "lon": 43.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "IRL",
+  "name": "Ireland",
+  "lat": 53.0,
+  "lon": -8.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "ISR",
+  "name": "Israel",
+  "lat": 31.0,
+  "lon": 35.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "ITA",
+  "name": "Italy",
+  "lat": 42.5,
+  "lon": 12.5,
+  "continent": "Europe"
+ },
+ {
+  "code3": "CIV",
+  "name": "Ivory Coast",
+  "lat": 8.0,
+  "lon": -6.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "JAM",
+  "name": "Jamaica",
+  "lat": 18.18,
+  "lon": -77.4,
+  "continent": "North America"
+ },
+ {
+  "code3": "JPN",
+  "name": "Japan",
+  "lat": 35.0,
+  "lon": 136.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "JOR",
+  "name": "Jordan",
+  "lat": 31.2,
+  "lon": 36.5,
+  "continent": "Asia"
+ },
+ {
+  "code3": "KAZ",
+  "name": "Kazakhstan",
+  "lat": 48.0,
+  "lon": 68.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "KEN",
+  "name": "Kenya",
+  "lat": 0.1,
+  "lon": 38.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "NLD",
+  "name": "Kingdom of the Netherlands",
+  "lat": 52.367,
+  "lon": 4.883,
+  "continent": "Europe"
+ },
+ {
+  "code3": "KIR",
+  "name": "Kiribati",
+  "lat": 1.467,
+  "lon": 173.033,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "XKS",
+  "name": "Kosovo",
+  "lat": 42.55,
+  "lon": 20.833,
+  "continent": "Europe"
+ },
+ {
+  "code3": "KWT",
+  "name": "Kuwait",
+  "lat": 29.167,
+  "lon": 47.6,
+  "continent": "Asia"
+ },
+ {
+  "code3": "KGZ",
+  "name": "Kyrgyzstan",
+  "lat": 41.0,
+  "lon": 75.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "LAO",
+  "name": "Laos",
+  "lat": 18.2,
+  "lon": 104.1,
+  "continent": "Asia"
+ },
+ {
+  "code3": "LVA",
+  "name": "Latvia",
+  "lat": 57.0,
+  "lon": 25.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "LBN",
+  "name": "Lebanon",
+  "lat": 33.833,
+  "lon": 35.767,
+  "continent": "Asia"
+ },
+ {
+  "code3": "LSO",
+  "name": "Lesotho",
+  "lat": -29.55,
+  "lon": 28.25,
+  "continent": "Africa"
+ },
+ {
+  "code3": "LBR",
+  "name": "Liberia",
+  "lat": 6.533,
+  "lon": -9.75,
+  "continent": "Africa"
+ },
+ {
+  "code3": "LBY",
+  "name": "Libya",
+  "lat": 27.0,
+  "lon": 17.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "LIE",
+  "name": "Liechtenstein",
+  "lat": 47.145,
+  "lon": 9.554,
+  "continent": "Europe"
+ },
+ {
+  "code3": "LTU",
+  "name": "Lithuania",
+  "lat": 55.2,
+  "lon": 24.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "LUX",
+  "name": "Luxembourg",
+  "lat": 49.77,
+  "lon": 6.13,
+  "continent": "Europe"
+ },
+ {
+  "code3": "MDG",
+  "name": "Madagascar",
+  "lat": -20.0,
+  "lon": 47.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MWI",
+  "name": "Malawi",
+  "lat": -13.0,
+  "lon": 34.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MYS",
+  "name": "Malaysia",
+  "lat": 3.781,
+  "lon": 102.314,
+  "continent": "Asia"
+ },
+ {
+  "code3": "MDV",
+  "name": "Maldives",
+  "lat": 4.18,
+  "lon": 73.51,
+  "continent": "Asia"
+ },
+ {
+  "code3": "MLI",
+  "name": "Mali",
+  "lat": 17.0,
+  "lon": -4.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MLT",
+  "name": "Malta",
+  "lat": 35.9,
+  "lon": 14.4,
+  "continent": "Europe"
+ },
+ {
+  "code3": "MHL",
+  "name": "Marshall Islands",
+  "lat": 9.82,
+  "lon": 169.29,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "MRT",
+  "name": "Mauritania",
+  "lat": 21.0,
+  "lon": -11.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MUS",
+  "name": "Mauritius",
+  "lat": -20.2,
+  "lon": 57.5,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MEX",
+  "name": "Mexico",
+  "lat": 23.0,
+  "lon": -102.0,
+  "continent": "North America"
+ },
+ {
+  "code3": "MDA",
+  "name": "Moldova",
+  "lat": 47.25,
+  "lon": 28.517,
+  "continent": "Europe"
+ },
+ {
+  "code3": "MCO",
+  "name": "Monaco",
+  "lat": 43.731,
+  "lon": 7.42,
+  "continent": "Europe"
+ },
+ {
+  "code3": "MNG",
+  "name": "Mongolia",
+  "lat": 46.0,
+  "lon": 105.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "MNE",
+  "name": "Montenegro",
+  "lat": 42.767,
+  "lon": 19.217,
+  "continent": "Europe"
+ },
+ {
+  "code3": "MAR",
+  "name": "Morocco",
+  "lat": 32.0,
+  "lon": -6.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MOZ",
+  "name": "Mozambique",
+  "lat": -19.0,
+  "lon": 35.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "MMR",
+  "name": "Myanmar",
+  "lat": 22.0,
+  "lon": 96.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "NAM",
+  "name": "Namibia",
+  "lat": -23.0,
+  "lon": 17.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "NRU",
+  "name": "Nauru",
+  "lat": -0.527,
+  "lon": 166.935,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "NPL",
+  "name": "Nepal",
+  "lat": 28.0,
+  "lon": 84.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "NZL",
+  "name": "New Zealand",
+  "lat": -41.2,
+  "lon": 174.0,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "NIC",
+  "name": "Nicaragua",
+  "lat": 13.0,
+  "lon": -85.0,
+  "continent": "North America"
+ },
+ {
+  "code3": "NER",
+  "name": "Niger",
+  "lat": 17.0,
+  "lon": 10.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "NGA",
+  "name": "Nigeria",
+  "lat": 9.0,
+  "lon": 8.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "PRK",
+  "name": "North Korea",
+  "lat": 40.0,
+  "lon": 127.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "MKD",
+  "name": "North Macedonia",
+  "lat": 41.65,
+  "lon": 21.717,
+  "continent": "Europe"
+ },
+ {
+  "code3": "NOR",
+  "name": "Norway",
+  "lat": 59.933,
+  "lon": 10.683,
+  "continent": "Europe"
+ },
+ {
+  "code3": "OMN",
+  "name": "Oman",
+  "lat": 21.0,
+  "lon": 57.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "PAK",
+  "name": "Pakistan",
+  "lat": 30.0,
+  "lon": 71.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "PLW",
+  "name": "Palau",
+  "lat": 7.467,
+  "lon": 134.55,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "PSE",
+  "name": "Palestine",
+  "lat": 32.0,
+  "lon": 35.25,
+  "continent": "Asia"
+ },
+ {
+  "code3": "PAN",
+  "name": "Panama",
+  "lat": 8.617,
+  "lon": -80.367,
+  "continent": "North America"
+ },
+ {
+  "code3": "PNG",
+  "name": "Papua New Guinea",
+  "lat": -6.3,
+  "lon": 147.0,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "PRY",
+  "name": "Paraguay",
+  "lat": -23.5,
+  "lon": -58.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "CHN",
+  "name": "People's Republic of China",
+  "lat": 35.845,
+  "lon": 103.452,
+  "continent": "Asia"
+ },
+ {
+  "code3": "PER",
+  "name": "Peru",
+  "lat": -9.4,
+  "lon": -76.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "PHL",
+  "name": "Philippines",
+  "lat": 12.0,
+  "lon": 123.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "POL",
+  "name": "Poland",
+  "lat": 52.0,
+  "lon": 19.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "PRT",
+  "name": "Portugal",
+  "lat": 38.7,
+  "lon": -9.183,
+  "continent": "Europe"
+ },
+ {
+  "code3": "QAT",
+  "name": "Qatar",
+  "lat": 25.27,
+  "lon": 51.213,
+  "continent": "Asia"
+ },
+ {
+  "code3": "COG",
+  "name": "Republic of the Congo",
+  "lat": -0.75,
+  "lon": 15.383,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ROU",
+  "name": "Romania",
+  "lat": 46.0,
+  "lon": 25.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "RUS",
+  "name": "Russia",
+  "lat": 66.417,
+  "lon": 94.25,
+  "continent": "Europe"
+ },
+ {
+  "code3": "RWA",
+  "name": "Rwanda",
+  "lat": -2.0,
+  "lon": 30.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "KNA",
+  "name": "Saint Kitts and Nevis",
+  "lat": 17.272,
+  "lon": -62.667,
+  "continent": "North America"
+ },
+ {
+  "code3": "LCA",
+  "name": "Saint Lucia",
+  "lat": 13.883,
+  "lon": -60.967,
+  "continent": "North America"
+ },
+ {
+  "code3": "VCT",
+  "name": "Saint Vincent and the Grenadines",
+  "lat": 13.25,
+  "lon": -61.2,
+  "continent": "North America"
+ },
+ {
+  "code3": "WSM",
+  "name": "Samoa",
+  "lat": -13.745,
+  "lon": -172.218,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "SMR",
+  "name": "San Marino",
+  "lat": 43.933,
+  "lon": 12.467,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SAU",
+  "name": "Saudi Arabia",
+  "lat": 23.717,
+  "lon": 44.117,
+  "continent": "Asia"
+ },
+ {
+  "code3": "SEN",
+  "name": "Senegal",
+  "lat": 14.367,
+  "lon": -14.283,
+  "continent": "Africa"
+ },
+ {
+  "code3": "SRB",
+  "name": "Serbia",
+  "lat": 43.95,
+  "lon": 20.933,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SYC",
+  "name": "Seychelles",
+  "lat": -7.1,
+  "lon": 52.767,
+  "continent": "Africa"
+ },
+ {
+  "code3": "SLE",
+  "name": "Sierra Leone",
+  "lat": 8.5,
+  "lon": -12.1,
+  "continent": "Africa"
+ },
+ {
+  "code3": "SGP",
+  "name": "Singapore",
+  "lat": 1.3,
+  "lon": 103.8,
+  "continent": "Asia"
+ },
+ {
+  "code3": "SVK",
+  "name": "Slovakia",
+  "lat": 48.7,
+  "lon": 19.7,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SVN",
+  "name": "Slovenia",
+  "lat": 46.0,
+  "lon": 15.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SLB",
+  "name": "Solomon Islands",
+  "lat": -9.467,
+  "lon": 159.817,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "SOM",
+  "name": "Somalia",
+  "lat": 6.0,
+  "lon": 47.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ZAF",
+  "name": "South Africa",
+  "lat": -29.0,
+  "lon": 24.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "KOR",
+  "name": "South Korea",
+  "lat": 36.0,
+  "lon": 128.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "SSD",
+  "name": "South Sudan",
+  "lat": 7.0,
+  "lon": 30.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ESP",
+  "name": "Spain",
+  "lat": 40.2,
+  "lon": -3.5,
+  "continent": "Europe"
+ },
+ {
+  "code3": "LKA",
+  "name": "Sri Lanka",
+  "lat": 7.0,
+  "lon": 81.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "SDN",
+  "name": "Sudan",
+  "lat": 15.0,
+  "lon": 32.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "SUR",
+  "name": "Suriname",
+  "lat": 4.0,
+  "lon": -56.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "SWE",
+  "name": "Sweden",
+  "lat": 61.0,
+  "lon": 15.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "CHE",
+  "name": "Switzerland",
+  "lat": 46.799,
+  "lon": 8.232,
+  "continent": "Europe"
+ },
+ {
+  "code3": "SYR",
+  "name": "Syria",
+  "lat": 35.217,
+  "lon": 38.583,
+  "continent": "Asia"
+ },
+ {
+  "code3": "STP",
+  "name": "São Tomé and Príncipe",
+  "lat": 0.317,
+  "lon": 6.6,
+  "continent": "Africa"
+ },
+ {
+  "code3": "TWN",
+  "name": "Taiwan",
+  "lat": 24.0,
+  "lon": 121.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "TJK",
+  "name": "Tajikistan",
+  "lat": 38.583,
+  "lon": 71.367,
+  "continent": "Asia"
+ },
+ {
+  "code3": "TZA",
+  "name": "Tanzania",
+  "lat": -6.307,
+  "lon": 34.854,
+  "continent": "Africa"
+ },
+ {
+  "code3": "THA",
+  "name": "Thailand",
+  "lat": 14.0,
+  "lon": 101.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "BHS",
+  "name": "The Bahamas",
+  "lat": 25.0,
+  "lon": -77.4,
+  "continent": "North America"
+ },
+ {
+  "code3": "GMB",
+  "name": "The Gambia",
+  "lat": 13.5,
+  "lon": -15.5,
+  "continent": "Africa"
+ },
+ {
+  "code3": "TLS",
+  "name": "Timor-Leste",
+  "lat": -8.967,
+  "lon": 125.75,
+  "continent": "Asia"
+ },
+ {
+  "code3": "TGO",
+  "name": "Togo",
+  "lat": 8.25,
+  "lon": 1.183,
+  "continent": "Africa"
+ },
+ {
+  "code3": "TON",
+  "name": "Tonga",
+  "lat": -20.588,
+  "lon": -174.81,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "TTO",
+  "name": "Trinidad and Tobago",
+  "lat": 10.667,
+  "lon": -61.517,
+  "continent": "North America"
+ },
+ {
+  "code3": "TUN",
+  "name": "Tunisia",
+  "lat": 34.0,
+  "lon": 10.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "TUR",
+  "name": "Turkey",
+  "lat": 39.0,
+  "lon": 36.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "TKM",
+  "name": "Turkmenistan",
+  "lat": 39.0,
+  "lon": 60.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "TUV",
+  "name": "Tuvalu",
+  "lat": -7.475,
+  "lon": 178.006,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "UGA",
+  "name": "Uganda",
+  "lat": 1.28,
+  "lon": 32.39,
+  "continent": "Africa"
+ },
+ {
+  "code3": "UKR",
+  "name": "Ukraine",
+  "lat": 49.0,
+  "lon": 32.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "ARE",
+  "name": "United Arab Emirates",
+  "lat": 24.4,
+  "lon": 54.3,
+  "continent": "Asia"
+ },
+ {
+  "code3": "GBR",
+  "name": "United Kingdom",
+  "lat": 54.6,
+  "lon": -2.0,
+  "continent": "Europe"
+ },
+ {
+  "code3": "USA",
+  "name": "United States",
+  "lat": 39.828,
+  "lon": -98.579,
+  "continent": "North America"
+ },
+ {
+  "code3": "URY",
+  "name": "Uruguay",
+  "lat": -33.0,
+  "lon": -56.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "UZB",
+  "name": "Uzbekistan",
+  "lat": 41.0,
+  "lon": 66.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "VUT",
+  "name": "Vanuatu",
+  "lat": -16.633,
+  "lon": 168.017,
+  "continent": "Oceania"
+ },
+ {
+  "code3": "VAT",
+  "name": "Vatican City",
+  "lat": 41.904,
+  "lon": 12.453,
+  "continent": "Europe"
+ },
+ {
+  "code3": "VEN",
+  "name": "Venezuela",
+  "lat": 8.0,
+  "lon": -67.0,
+  "continent": "South America"
+ },
+ {
+  "code3": "VNM",
+  "name": "Vietnam",
+  "lat": 16.0,
+  "lon": 108.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "YEM",
+  "name": "Yemen",
+  "lat": 15.5,
+  "lon": 48.0,
+  "continent": "Asia"
+ },
+ {
+  "code3": "ZMB",
+  "name": "Zambia",
+  "lat": -14.0,
+  "lon": 28.0,
+  "continent": "Africa"
+ },
+ {
+  "code3": "ZWE",
+  "name": "Zimbabwe",
+  "lat": -19.0,
+  "lon": 30.0,
+  "continent": "Africa"
+ }
+]
