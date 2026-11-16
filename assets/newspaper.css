@@ -1,0 +1,121 @@
+/* Vintage newspaper theme for Politician Guesser. Pastel inks on old paper. */
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&family=Oswald:wght@500;700&family=Playfair+Display:ital,wght@0,700;0,900;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+:root {
+  --paper: #f3ead3;
+  --paper-dark: #e6d9b8;
+  --ink: #2b2420;
+  --ink-soft: #5b5047;
+  --rose: #e8b4a6;
+  --sage: #b5c9a7;
+  --sky: #b4cbe0;
+  --butter: #f2dc9d;
+  --rule: #3a312b;
+}
+
+/* ---------- page ---------- */
+[data-testid="stApp"] {
+  background-color: var(--paper);
+  background-image:
+    radial-gradient(ellipse at 20% 10%, rgba(255,255,255,.45), transparent 55%),
+    radial-gradient(ellipse at 85% 90%, rgba(160,120,60,.16), transparent 60%),
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .35 0 0 0 0 .27 0 0 0 0 .15 0 0 0 .09 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  color: var(--ink);
+  font-family: 'Old Standard TT', Georgia, serif !important;
+}
+header[data-testid="stHeader"], #MainMenu, footer, [data-testid="stToolbar"] { display: none !important; }
+.block-container { max-width: 980px; padding-top: 1.2rem; padding-bottom: 3rem; }
+[data-testid="stApp"] p, [data-testid="stApp"] label { color: var(--ink); font-family: 'Old Standard TT', Georgia, serif !important; }
+
+/* ---------- masthead ---------- */
+.masthead { border-bottom: 4px double var(--rule); margin-bottom: .6rem; }
+.mast-row { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.ear {
+  border: 2px solid var(--rule); padding: 6px 10px; min-width: 120px; text-align: center;
+  font-family: 'Oswald', sans-serif !important; text-transform: uppercase; letter-spacing: .05em; font-size: .8rem; line-height: 1.2;
+}
+.ear b { display: block; font-size: 1.35rem; }
+.ear.left { background: var(--rose); }
+.ear.right { background: var(--sky); }
+.paper-title, h1.paper-title {
+  padding: 0 !important; font-weight: 400 !important;
+  font-family: 'UnifrakturMaguntia', 'Old English Text MT', serif !important; font-size: clamp(2.2rem, 6vw, 4.2rem);
+  text-align: center; line-height: 1; margin: 0; color: var(--ink); flex: 1;
+}
+.dateline {
+  display: flex; justify-content: space-between; border-top: 1px solid var(--rule); border-bottom: 1px solid var(--rule);
+  margin-top: 8px; padding: 3px 2px; font-size: .78rem; text-transform: uppercase; letter-spacing: .06em;
+}
+
+/* ---------- headlines and articles ---------- */
+.headline {
+  font-family: 'Oswald', sans-serif !important; font-weight: 700; text-transform: uppercase; text-align: center;
+  font-size: clamp(2rem, 6.5vw, 4rem); line-height: 1; margin: .5rem 0 .2rem; letter-spacing: .01em;
+}
+.headline.boxed { background: var(--ink); color: var(--paper); padding: .2em .3em; }
+.subhead { font-family: 'Playfair Display', serif !important; font-style: italic; text-align: center; font-size: 1.15rem; margin-bottom: .8rem; }
+.photo-frame { border: 1px solid var(--rule); padding: 6px; background: var(--paper-dark); }
+.photo-frame img { width: 100%; display: block; filter: grayscale(1) sepia(.35) contrast(1.1); }
+.caption { font-size: .72rem; font-style: italic; color: var(--ink-soft); margin-top: 4px; }
+.caption a { color: var(--ink-soft); }
+.quote {
+  font-size: 1.12rem; line-height: 1.5; text-align: justify; padding: .4rem 0 .8rem; border-bottom: 1px solid var(--rule);
+  margin-bottom: .8rem;
+}
+.quote::first-letter {
+  font-family: 'Playfair Display', serif !important; font-weight: 900; float: left; font-size: 3.3rem; line-height: .85;
+  padding: 4px 6px 0 0;
+}
+.quote-label { font-family: 'Oswald', sans-serif !important; text-transform: uppercase; font-size: .78rem; letter-spacing: .1em; background: var(--butter); display: inline-block; padding: 1px 6px; }
+.mask { background: var(--ink); color: var(--paper); padding: 0 .25em; font-family: 'Oswald', sans-serif !important; font-size: .8em; letter-spacing: .05em; }
+
+/* ---------- politician card (st.container(key="card")) ---------- */
+.st-key-card {
+  background: #fbf6e9; border: 2px solid var(--rule); box-shadow: 6px 6px 0 var(--sage);
+  padding: 1.2rem 1.4rem;  /* no rotate here: it breaks plotly hover labels on the map */
+}
+.card-name { font-family: 'Playfair Display', serif !important; font-weight: 900; font-size: 2.1rem !important; line-height: 1.05; margin: 0; }
+.card-role { font-family: 'Oswald', sans-serif !important; text-transform: uppercase; letter-spacing: .12em; background: var(--sage); display: inline-block; padding: 2px 8px; margin: 6px 0 10px; }
+.card-quote { font-style: italic; font-size: .98rem; border-left: 3px solid var(--rose); padding-left: 10px; margin: 8px 0; }
+
+/* ---------- torn paper reveal ---------- */
+.torn-wrap { filter: drop-shadow(0 6px 8px rgba(60,40,20,.35)); margin: .6rem 0 1rem; animation: drop-in .55s cubic-bezier(.2,1.4,.4,1) both; }
+.torn {
+  padding: 2.4rem 2rem; text-align: center;
+  background-color: #f8f1df;
+  background-image: repeating-linear-gradient(0deg, rgba(0,0,0,.025) 0 1px, transparent 1px 4px);
+}
+.torn.good { background-color: #e3eedb; }
+.torn.close { background-color: #f6ead0; }
+.torn.far { background-color: #f4ddd6; }
+.torn .kicker { font-family: 'Oswald', sans-serif !important; letter-spacing: .3em; text-transform: uppercase; font-size: .9rem; }
+.torn .answer { font-family: 'Oswald', sans-serif !important; font-weight: 700; text-transform: uppercase; font-size: clamp(2.4rem, 7vw, 4.4rem); line-height: 1; margin: .2rem 0; }
+.torn .detail { font-family: 'Playfair Display', serif !important; font-style: italic; font-size: 1.15rem; }
+.stamp {
+  display: inline-block; margin-top: .8rem; border: 3px solid currentColor; padding: 2px 14px; transform: rotate(-6deg);
+  font-family: 'Oswald', sans-serif !important; font-weight: 700; font-size: 1.6rem; letter-spacing: .08em; opacity: .85;
+  animation: stamp .4s .35s ease-out both;
+}
+.stamp.good { color: #4f7a45; } .stamp.close { color: #9a7a24; } .stamp.far { color: #a1493a; }
+@keyframes drop-in { from { opacity: 0; transform: translateY(-30px) rotate(-2deg); } to { opacity: 1; transform: none; } }
+@keyframes stamp { from { opacity: 0; transform: scale(2.4) rotate(-6deg); } to { opacity: .85; transform: scale(1) rotate(-6deg); } }
+
+/* ---------- final edition ---------- */
+.big-score { font-family: 'Oswald', sans-serif !important; font-size: 4rem; text-align: center; font-weight: 700; line-height: 1; }
+.bar-row { display: grid; grid-template-columns: 140px 1fr 70px; gap: 10px; align-items: center; margin: 6px 0; font-family: 'Oswald', sans-serif !important; text-transform: uppercase; }
+.bar { height: 22px; border: 1px solid var(--rule); background: var(--paper-dark); }
+.bar > span { display: block; height: 100%; }
+
+/* ---------- Streamlit widgets ---------- */
+.stButton > button, .stFormSubmitButton > button {
+  font-family: 'Oswald', sans-serif !important; text-transform: uppercase; letter-spacing: .12em; font-size: 1rem;
+  background: var(--ink) !important; color: var(--paper) !important; border: 2px solid var(--ink) !important; border-radius: 0 !important;
+  padding: .5rem 1.4rem; box-shadow: 4px 4px 0 var(--rose);
+}
+.stButton > button:hover { background: #4a3f37 !important; transform: translate(-1px,-1px); box-shadow: 5px 5px 0 var(--rose); }
+.stButton > button:disabled { opacity: .45; }
+.stButton > button p { color: var(--paper) !important; font-family: 'Oswald', sans-serif !important; }
+[data-baseweb="select"] > div { background: #fffaf0 !important; border: 2px solid var(--rule) !important; border-radius: 0 !important; font-family: 'Old Standard TT', serif !important; font-size: 1.1rem; }
+hr { border-color: var(--rule) !important; }
+.quote, .card-quote, .bar-row span:first-child { font-family: 'Old Standard TT', Georgia, serif !important; }
+.card-quote { font-size: 1.05rem; }
