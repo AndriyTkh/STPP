@@ -100,6 +100,12 @@ def torn_polygon(seed, teeth=34, depth=4.0):
     return "polygon(" + ", ".join(top + bottom) + ")"
 
 
+def hidden_name(leader):
+    """Drop titles that give the country away: 'Albert II, Prince of Monaco' -> 'Albert II'."""
+    name = re.split(r",| of ", leader["name"])[0].strip()
+    return name.replace(leader["country"], "[COUNTRY]")
+
+
 def photo_html(leader):
     path = game.image_path(leader)
     img = f'<img src="{photo_data_uri(str(path))}" alt="portrait">' if path else "<p><i>Photo unavailable</i></p>"
@@ -148,7 +154,7 @@ def card_page(leader, countries):
         with left:
             show(photo_html(leader))
         with right:
-            show(f'<p class="card-name">{html.escape(leader["name"])}</p>'
+            show(f'<p class="card-name">{html.escape(hidden_name(leader))}</p>'
                  f'<span class="card-role">{html.escape(leader["role"])}</span>')
             for i in st.session_state.quote_idx:
                 show(f'<div class="card-quote">“{masked(leader["quotes"][i])}”</div>')
