@@ -1,0 +1,140 @@
+[
+ {
+  "id": "Q22686",
+  "name": "Donald Trump",
+  "role": "head of state",
+  "country": "United States",
+  "country_code": "US",
+  "country_code3": "USA",
+  "continent": "North America",
+  "image": "img/Q22686.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Daniel Torok",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4).jpg",
+  "quotes": [
+   "Some people have an ability to negotiate. It's an art you're basically born with. You either have it or you don't.",
+   "I'm not big on compromise. I understand compromise. Sometimes compromise is the right answer, but oftentimes compromise is the equivalent of defeat, and I don't like being defeated.",
+   "I look at things for the art sake and the beauty sake and for the deal sake."
+  ],
+  "quotes_original": [
+   "Some people have an ability to negotiate. It's an art you're basically born with. You either have it or you don't.",
+   "I'm not big on compromise. I understand compromise. Sometimes compromise is the right answer, but oftentimes compromise is the equivalent of defeat, and I don't like being defeated.",
+   "I look at things for the art sake and the beauty sake and for the deal sake."
+  ]
+ },
+ {
+  "id": "Q52395487",
+  "name": "Javier Milei",
+  "role": "head of state",
+  "country": "Argentina",
+  "country_code": "AR",
+  "country_code3": "ARG",
+  "continent": "South America",
+  "image": "img/Q52395487.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Quirinale",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mattarella_Milei_2024_(cropped).jpg",
+  "quotes": [
+   "The state does not create wealth; the state destroys it. The state can give you nothing because it produces nothing, and when it attempts it, it does so poorly.",
+   "If printing money would end poverty, printing diplomas would end stupidity.",
+   "But if the state punishes capitalists when they’re successful and gets in the way of the discovery process, they will destroy their incentives, and the consequence is that they will produce less."
+  ],
+  "quotes_original": [
+   "The state does not create wealth; the state destroys it. The state can give you nothing because it produces nothing, and when it attempts it, it does so poorly.",
+   "If printing money would end poverty, printing diplomas would end stupidity.",
+   "But if the state punishes capitalists when they’re successful and gets in the way of the discovery process, they will destroy their incentives, and the consequence is that they will produce less."
+  ]
+ },
+ {
+  "id": "Q335697",
+  "name": "Anthony Albanese",
+  "role": "head of government",
+  "country": "Australia",
+  "country_code": "AU",
+  "country_code3": "AUS",
+  "continent": "Oceania",
+  "image": "img/Q335697.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Australian Government",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg",
+  "quotes": [
+   "I want to unite the country. I think people have had enough of division, what they want is to come together as a nation and I intend to lead that.",
+   "I will work every day to bring [PEOPLE] together. And I will lead a government worthy of the people of [COUNTRY]. I can promise all [PEOPLE] this no matter how you voted today, the government I lead will respect every one of you every day.",
+   "I was in fact there and I was very proud to march in solidarity with those gay and lesbian members of my community."
+  ],
+  "quotes_original": [
+   "I want to unite the country. I think people have had enough of division, what they want is to come together as a nation and I intend to lead that.",
+   "I will work every day to bring Australians together. And I will lead a government worthy of the people of Australia. I can promise all Australians this no matter how you voted today, the government I lead will respect every one of you every day.",
+   "I was in fact there and I was very proud to march in solidarity with those gay and lesbian members of my community."
+  ]
+ },
+ {
+  "id": "Q3510872",
+  "name": "Bola Tinubu",
+  "role": "head of state",
+  "country": "Nigeria",
+  "country_code": "NG",
+  "country_code3": "NGA",
+  "continent": "Africa",
+  "image": "img/Q3510872.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Nosa Asemota",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Bola_Tinubu_portrait.jpg",
+  "quotes": [
+   "Over six decades ago, our founding fathers gave bravely of themselves to place [COUNTRY] on the map as an independent nation.",
+   "The hallmark of a leader is to do what must be done when it should be done.",
+   "We must promote unity and stability for all. Whether you voted for me during the elections, or not, I am your President. I will work on your behalf to ensure a turning point of prosperity."
+  ],
+  "quotes_original": [
+   "Over six decades ago, our founding fathers gave bravely of themselves to place Nigeria on the map as an independent nation.",
+   "The hallmark of a leader is to do what must be done when it should be done.",
+   "We must promote unity and stability for all. Whether you voted for me during the elections, or not, I am your President. I will work on your behalf to ensure a turning point of prosperity."
+  ]
+ },
+ {
+  "id": "Q3874799",
+  "name": "Volodymyr Zelenskyy",
+  "role": "head of state",
+  "country": "Ukraine",
+  "country_code": "UA",
+  "country_code3": "UKR",
+  "continent": "Europe",
+  "image": "img/Q3874799.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of Ukraine",
+  "image_page": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg",
+  "quotes": [
+   "The fight is here; I need ammunition, not a ride.",
+   "Unless we make these difficult and unpopular decisions, there will be no economic growth or job creation.",
+   "There are no tyrannies that would not try to limit art because they can see the power of art. Art can tell the world things that cannot be shared otherwise."
+  ],
+  "quotes_original": [
+   "The fight is here; I need ammunition, not a ride.",
+   "Unless we make these difficult and unpopular decisions, there will be no economic growth or job creation.",
+   "There are no tyrannies that would not try to limit art because they can see the power of art. Art can tell the world things that cannot be shared otherwise."
+  ]
+ },
+ {
+  "id": "Q1058",
+  "name": "Narendra Modi",
+  "role": "head of government",
+  "country": "India",
+  "country_code": "IN",
+  "country_code3": "IND",
+  "continent": "Asia",
+  "image": "img/Q1058.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg",
+  "quotes": [
+   "Participation of all, for the development of all.",
+   "I have the ability to pick stones thrown at me to build a staircase to climb up.",
+   "I have allowed the media to behave as it wants. [...] I am not worried. The truth will certainly be known."
+  ],
+  "quotes_original": [
+   "Participation of all, for the development of all.",
+   "I have the ability to pick stones thrown at me to build a staircase to climb up.",
+   "I have allowed the media to behave as it wants. [...] I am not worried. The truth will certainly be known."
+  ]
+ }
+]
