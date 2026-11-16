@@ -72,7 +72,7 @@ header[data-testid="stHeader"], #MainMenu, footer, [data-testid="stToolbar"] { d
 /* ---------- politician card (st.container(key="card")) ---------- */
 .st-key-card {
   background: #fbf6e9; border: 2px solid var(--rule); box-shadow: 6px 6px 0 var(--sage);
-  padding: 1.2rem 1.4rem; transform: rotate(-.4deg);
+  padding: 1.2rem 1.4rem;  /* no rotate here: it breaks plotly hover labels on the map */
 }
 .card-name { font-family: 'Playfair Display', serif !important; font-weight: 900; font-size: 2.1rem !important; line-height: 1.05; margin: 0; }
 .card-role { font-family: 'Oswald', sans-serif !important; text-transform: uppercase; letter-spacing: .12em; background: var(--sage); display: inline-block; padding: 2px 8px; margin: 6px 0 10px; }

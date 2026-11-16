@@ -176,9 +176,13 @@ def style_geo(fig, height):
     fig.update_geos(projection_type="natural earth", showframe=False, showcoastlines=False,
                     showland=True, landcolor="#e6d9b8", showocean=True, oceancolor="#d6e2e4",
                     showcountries=True, countrycolor="#b3a585", bgcolor="rgba(0,0,0,0)",
-                    lataxis_range=[-58, 85], lonaxis_range=[-180, 180])
+                    lataxis_range=[-58, 85], lonaxis_range=[-180, 180],
+                    projection_minscale=1, projection_maxscale=8)   # no zooming out past the whole world
     fig.update_layout(height=height, margin=dict(l=0, r=0, t=0, b=0), paper_bgcolor="rgba(0,0,0,0)",
-                      showlegend=False, dragmode=False)
+                      showlegend=False, dragmode="pan",
+                      # explicit font so plotly measures the label correctly (it was drawn off-centre)
+                      hoverlabel=dict(bgcolor="#fbf6e9", bordercolor="#2b2420",
+                                      font=dict(family="Georgia, serif", size=15, color="#2b2420")))
     return fig
 
 
