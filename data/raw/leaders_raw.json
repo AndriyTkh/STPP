@@ -1,0 +1,7430 @@
+[
+ {
+  "id": "Q108444479",
+  "name": "Mohammad Hasan Akhund",
+  "role": "head of government",
+  "birth_year": 2000,
+  "sitelinks": 49,
+  "country": "Afghanistan",
+  "country_code": "AF",
+  "country_code3": "AFG",
+  "continent": "Asia",
+  "capital": "Kabul",
+  "demonyms": [
+   "Afghan"
+  ],
+  "country_aliases": [
+   "Afghanistan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q108444479.png",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Uranus TV Kunduz",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hasan_Akhund.png"
+ },
+ {
+  "id": "Q316901",
+  "name": "Edi Rama",
+  "role": "head of government",
+  "birth_year": 1964,
+  "sitelinks": 83,
+  "country": "Albania",
+  "country_code": "AL",
+  "country_code3": "ALB",
+  "continent": "Europe",
+  "capital": "Tirana",
+  "demonyms": [
+   "Albanian",
+   "Albanians"
+  ],
+  "country_aliases": [
+   "Albania"
+  ],
+  "wikiquote_title": "Edi Rama",
+  "image": "img/Q316901.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Eriona Çami - European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Edi_Rama_(2024-02-29).jpg"
+ },
+ {
+  "id": "Q107422711",
+  "name": "Bajram Begaj",
+  "role": "head of state",
+  "birth_year": 1967,
+  "sitelinks": 54,
+  "country": "Albania",
+  "country_code": "AL",
+  "country_code3": "ALB",
+  "continent": "Europe",
+  "capital": "Tirana",
+  "demonyms": [
+   "Albanian",
+   "Albanians"
+  ],
+  "country_aliases": [
+   "Albania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q107422711.jpg",
+  "image_license": "OGL 3",
+  "image_artist": "Number 10",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Albania_President_Bajram_Begaj_(54521430145)_(cropped).jpg"
+ },
+ {
+  "id": "Q133540883",
+  "name": "Sifi Ghrieb",
+  "role": "head of government",
+  "birth_year": 1971,
+  "sitelinks": 17,
+  "country": "Algeria",
+  "country_code": "DZ",
+  "country_code3": "DZA",
+  "continent": "Africa",
+  "capital": "Algiers",
+  "demonyms": [
+   "Algerian"
+  ],
+  "country_aliases": [
+   "Algeria"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q133540883.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Russian Presidential Executive Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sifi_Ghrieb_Moscow_2026.jpg"
+ },
+ {
+  "id": "Q2821166",
+  "name": "Abdelmadjid Tebboune",
+  "role": "head of state",
+  "birth_year": 1945,
+  "sitelinks": 79,
+  "country": "Algeria",
+  "country_code": "DZ",
+  "country_code3": "DZA",
+  "continent": "Africa",
+  "capital": "Algiers",
+  "demonyms": [
+   "Algerian"
+  ],
+  "country_aliases": [
+   "Algeria"
+  ],
+  "wikiquote_title": "Abdelmadjid Tebboune",
+  "image": "img/Q2821166.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "State Duma of the Russian Federation",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Abdelmadjid_Tebboune_(2023)_(cropped).jpg"
+ },
+ {
+  "id": "Q21001195",
+  "name": "Xavier Espot Zamora",
+  "role": "head of government",
+  "birth_year": 1979,
+  "sitelinks": 45,
+  "country": "Andorra",
+  "country_code": "AD",
+  "country_code3": "AND",
+  "continent": "Europe",
+  "capital": "Andorra la Vella",
+  "demonyms": [
+   "Andorran"
+  ],
+  "country_aliases": [
+   "Andorra"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q21001195.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Nebojša Tejić",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Xavier_Espot_Zamora_in_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q93244592",
+  "name": "Josep-Lluís Serrano Pentinat",
+  "role": "head of state",
+  "birth_year": 1977,
+  "sitelinks": 34,
+  "country": "Andorra",
+  "country_code": "AD",
+  "country_code3": "AND",
+  "continent": "Europe",
+  "capital": "Andorra la Vella",
+  "demonyms": [
+   "Andorran"
+  ],
+  "country_aliases": [
+   "Andorra"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q93244592.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "CEE",
+  "image_page": "https://commons.wikimedia.org/wiki/File:JLSerranoP.jpg"
+ },
+ {
+  "id": "Q28650390",
+  "name": "João Lourenço",
+  "role": "head of state",
+  "birth_year": 1954,
+  "sitelinks": 63,
+  "country": "Angola",
+  "country_code": "AO",
+  "country_code3": "AGO",
+  "continent": "Africa",
+  "capital": "Luanda",
+  "demonyms": [
+   "Angolan"
+  ],
+  "country_aliases": [
+   "Angola"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q28650390.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_of_Angola_Jo%C3%A3o_Louren%C3%A7o_during_a_bilateral_exchange_at_the_Angola_presidential_palace_in_Luanda,_Angola,_September_27,_2023_-_230927-D-PM193-1914_(cropped).jpg"
+ },
+ {
+  "id": "Q17177542",
+  "name": "Gaston Browne",
+  "role": "head of government",
+  "birth_year": 1967,
+  "sitelinks": 40,
+  "country": "Antigua and Barbuda",
+  "country_code": "AG",
+  "country_code3": "ATG",
+  "continent": "North America",
+  "capital": null,
+  "demonyms": [
+   "Antigua and Barbuda",
+   "Antiguan",
+   "Barbudan"
+  ],
+  "country_aliases": [
+   "Antigua and Barbuda",
+   "AG"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q17177542.jpg",
+  "image_license": "PDM-owner",
+  "image_artist": "Roosevelt Skerrit from Vieille Case, Dominica",
+  "image_page": "https://commons.wikimedia.org/wiki/File:PM_Gaston_Browne_(36764147103).jpg"
+ },
+ {
+  "id": "Q52395487",
+  "name": "Javier Milei",
+  "role": "head of state",
+  "birth_year": 1970,
+  "sitelinks": 90,
+  "country": "Argentina",
+  "country_code": "AR",
+  "country_code3": "ARG",
+  "continent": "South America",
+  "capital": "Buenos Aires",
+  "demonyms": [
+   "Argentine",
+   "Argentinian"
+  ],
+  "country_aliases": [
+   "Argentina"
+  ],
+  "wikiquote_title": "Javier Milei",
+  "image": "img/Q52395487.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Quirinale",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mattarella_Milei_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q7035479",
+  "name": "Nikol Pashinyan",
+  "role": "head of government",
+  "birth_year": 1975,
+  "sitelinks": 83,
+  "country": "Armenia",
+  "country_code": "AM",
+  "country_code3": "ARM",
+  "continent": "Asia",
+  "capital": "Yerevan",
+  "demonyms": [
+   "Armenian"
+  ],
+  "country_aliases": [
+   "Armenia"
+  ],
+  "wikiquote_title": "Nikol Pashinyan",
+  "image": "img/Q7035479.png",
+  "image_license": "CC BY 4.0",
+  "image_artist": "kremlin.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nikol_Pashinyan_2026-04-01.png"
+ },
+ {
+  "id": "Q3553274",
+  "name": "Vahagn Khachatryan",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 59,
+  "country": "Armenia",
+  "country_code": "AM",
+  "country_code3": "ARM",
+  "continent": "Asia",
+  "capital": "Yerevan",
+  "demonyms": [
+   "Armenian"
+  ],
+  "country_aliases": [
+   "Armenia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3553274.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Пресс-служба Президента Армении",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_of_the_Republic_of_Armenia_Vahagn_Khachaturyan_2_(alt-crop).jpg"
+ },
+ {
+  "id": "Q335697",
+  "name": "Anthony Albanese",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 88,
+  "country": "Australia",
+  "country_code": "AU",
+  "country_code3": "AUS",
+  "continent": "Oceania",
+  "capital": "Canberra",
+  "demonyms": [
+   "Aussie",
+   "Aussies",
+   "Australian",
+   "Australians"
+  ],
+  "country_aliases": [
+   "Australia",
+   "AUS"
+  ],
+  "wikiquote_title": "Anthony Albanese",
+  "image": "img/Q335697.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Australian Government",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg"
+ },
+ {
+  "id": "Q976974",
+  "name": "Peter Cosgrove",
+  "role": "head of state",
+  "birth_year": 1947,
+  "sitelinks": 37,
+  "country": "Australia",
+  "country_code": "AU",
+  "country_code3": "AUS",
+  "continent": "Oceania",
+  "capital": "Canberra",
+  "demonyms": [
+   "Aussie",
+   "Aussies",
+   "Australian",
+   "Australians"
+  ],
+  "country_aliases": [
+   "Australia",
+   "AUS"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q976974.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Office of the Official Secretary to the Governor-General",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Peter_Cosgrove_2017_(1)_crop.jpg"
+ },
+ {
+  "id": "Q64576653",
+  "name": "Christian Stocker",
+  "role": "head of government",
+  "birth_year": 1960,
+  "sitelinks": 43,
+  "country": "Austria",
+  "country_code": "AT",
+  "country_code3": "AUT",
+  "continent": "Europe",
+  "capital": "Vienna",
+  "demonyms": [
+   "Austrian"
+  ],
+  "country_aliases": [
+   "Austria"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q64576653.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Frédéric Sierakowski / European Council",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Christian_Stocker_EuCo_2026.jpg"
+ },
+ {
+  "id": "Q78869",
+  "name": "Alexander Van der Bellen",
+  "role": "head of state",
+  "birth_year": 1944,
+  "sitelinks": 90,
+  "country": "Austria",
+  "country_code": "AT",
+  "country_code3": "AUT",
+  "continent": "Europe",
+  "capital": "Vienna",
+  "demonyms": [
+   "Austrian"
+  ],
+  "country_aliases": [
+   "Austria"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q78869.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Christophe Licoppe / European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Alexander_Van_der_Bellen_(13-07-2021)_(cropped).jpg"
+ },
+ {
+  "id": "Q12850075",
+  "name": "Ali Asadov",
+  "role": "head of government",
+  "birth_year": 1956,
+  "sitelinks": 52,
+  "country": "Azerbaijan",
+  "country_code": "AZ",
+  "country_code3": "AZE",
+  "continent": "Asia",
+  "capital": "Baku",
+  "demonyms": [
+   "Azerbaijani",
+   "Azerbaijanis",
+   "Azeri",
+   "Azeris"
+  ],
+  "country_aliases": [
+   "Azerbaijan",
+   "AZE"
+  ],
+  "wikiquote_title": "Ali Asadov",
+  "image": "img/Q12850075.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Пресс-служба Правительства РФ",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B8_%D0%90%D1%81%D0%B0%D0%B4%D0%BE%D0%B2_(25-08-2022).jpg"
+ },
+ {
+  "id": "Q57371",
+  "name": "Ilham Aliyev",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 130,
+  "country": "Azerbaijan",
+  "country_code": "AZ",
+  "country_code3": "AZE",
+  "continent": "Asia",
+  "capital": "Baku",
+  "demonyms": [
+   "Azerbaijani",
+   "Azerbaijanis",
+   "Azeri",
+   "Azeris"
+  ],
+  "country_aliases": [
+   "Azerbaijan",
+   "AZE"
+  ],
+  "wikiquote_title": "Ilham Aliyev",
+  "image": "img/Q57371.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ilham_Aliyev,_December_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q58140",
+  "name": "Salman bin Hamad, Crown Prince of Bahrain",
+  "role": "head of government",
+  "birth_year": 1969,
+  "sitelinks": 39,
+  "country": "Bahrain",
+  "country_code": "BH",
+  "country_code3": "BHR",
+  "continent": "Asia",
+  "capital": "Manama",
+  "demonyms": [
+   "Bahraini"
+  ],
+  "country_aliases": [
+   "Bahrain"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q58140.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Bahrain_Crown_Prince_and_Prime_Minister,_His_Royal_Highness_Salman_bin_Hamad_Al_Khalifa_(Salman_bin_Hamad_bin_Isa_Al_Khalifa)_participates_in_a_bilateral_exchange_at_the_Pentagon_on_September_14,_2023_(cropped).jpg"
+ },
+ {
+  "id": "Q57352",
+  "name": "Hamad II of Bahrain",
+  "role": "head of state",
+  "birth_year": 1950,
+  "sitelinks": 78,
+  "country": "Bahrain",
+  "country_code": "BH",
+  "country_code3": "BHR",
+  "continent": "Asia",
+  "capital": "Manama",
+  "demonyms": [
+   "Bahraini"
+  ],
+  "country_aliases": [
+   "Bahrain"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57352.jpg",
+  "image_license": "Public domain",
+  "image_artist": "DHSgov",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hamad_bin_Isa_Al_Khalifa_May_2025.jpg"
+ },
+ {
+  "id": "Q7686199",
+  "name": "Tarique Rahman",
+  "role": "head of government",
+  "birth_year": 1968,
+  "sitelinks": 38,
+  "country": "Bangladesh",
+  "country_code": "BD",
+  "country_code3": "BGD",
+  "continent": "Asia",
+  "capital": "Dhaka",
+  "demonyms": [
+   "Bangladeshi"
+  ],
+  "country_aliases": [
+   "Bangladesh"
+  ],
+  "wikiquote_title": "Tarique Rahman",
+  "image": "img/Q7686199.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Press Information Department",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Tarique_Rahman_addressing_13th_National_Parliament,_Dhaka,_2026-03-12_(cropped).jpg"
+ },
+ {
+  "id": "Q116763154",
+  "name": "Mohammad Shahabuddin",
+  "role": "head of state",
+  "birth_year": 1949,
+  "sitelinks": 48,
+  "country": "Bangladesh",
+  "country_code": "BD",
+  "country_code3": "BGD",
+  "continent": "Asia",
+  "capital": "Dhaka",
+  "demonyms": [
+   "Bangladeshi"
+  ],
+  "country_aliases": [
+   "Bangladesh"
+  ],
+  "wikiquote_title": "Mohammed Shahabuddin",
+  "image": "img/Q116763154.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Press Information Department",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shahabuddin_official_portrait.jpg"
+ },
+ {
+  "id": "Q6827147",
+  "name": "Mia Mottley",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 64,
+  "country": "Barbados",
+  "country_code": "BB",
+  "country_code3": "BRB",
+  "continent": "North America",
+  "capital": "Bridgetown",
+  "demonyms": [
+   "Barbadian"
+  ],
+  "country_aliases": [
+   "Barbados"
+  ],
+  "wikiquote_title": "Mia Mottley",
+  "image": "img/Q6827147.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_(54906293485)_(Mia_Mottley).jpg"
+ },
+ {
+  "id": "Q9333540",
+  "name": "Sandra Mason",
+  "role": "head of state",
+  "birth_year": 1949,
+  "sitelinks": 58,
+  "country": "Barbados",
+  "country_code": "BB",
+  "country_code3": "BRB",
+  "continent": "North America",
+  "capital": "Bridgetown",
+  "demonyms": [
+   "Barbadian"
+  ],
+  "country_aliases": [
+   "Barbados"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q9333540.jpg",
+  "image_license": "PDM-owner",
+  "image_artist": "PMO Barbados from Bridgetown, Barbados",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sandra_of_Barbados.jpg"
+ },
+ {
+  "id": "Q56235580",
+  "name": "Alexander Turchyn",
+  "role": "head of government",
+  "birth_year": 1975,
+  "sitelinks": 26,
+  "country": "Belarus",
+  "country_code": "BY",
+  "country_code3": "BLR",
+  "continent": "Europe",
+  "capital": "Minsk",
+  "demonyms": [
+   "Belarusian"
+  ],
+  "country_aliases": [
+   "Belarus"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q56235580.png",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Белорусское телеграфное агентство (БелТА)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Aliaksandr_Tur%C4%8Dyn.png"
+ },
+ {
+  "id": "Q2866",
+  "name": "Alexander Lukashenka",
+  "role": "head of state",
+  "birth_year": 1954,
+  "sitelinks": 158,
+  "country": "Belarus",
+  "country_code": "BY",
+  "country_code3": "BLR",
+  "continent": "Europe",
+  "capital": "Minsk",
+  "demonyms": [
+   "Belarusian"
+  ],
+  "country_aliases": [
+   "Belarus"
+  ],
+  "wikiquote_title": "Alexander Lukashenko",
+  "image": "img/Q2866.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Пресс-служба Раиса Республики Татарстан",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%9B%D1%83%D0%BA%D0%B0%D1%88%D0%B5%D0%BD%D0%BA%D0%BE_(13-04-2023)_(cropped).jpg"
+ },
+ {
+  "id": "Q336599",
+  "name": "Bart De Wever",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 56,
+  "country": "Belgium",
+  "country_code": "BE",
+  "country_code3": "BEL",
+  "continent": "Europe",
+  "capital": "Brussels",
+  "demonyms": [
+   "Belgian"
+  ],
+  "country_aliases": [
+   "Belgium"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q336599.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Dati Bendo",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Belgian_Prime_Minister_Bart_De_Wever_(head_%2B_shoulders).jpg"
+ },
+ {
+  "id": "Q155004",
+  "name": "Philippe of Belgium",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 95,
+  "country": "Belgium",
+  "country_code": "BE",
+  "country_code3": "BEL",
+  "continent": "Europe",
+  "capital": "Brussels",
+  "demonyms": [
+   "Belgian"
+  ],
+  "country_aliases": [
+   "Belgium"
+  ],
+  "wikiquote_title": "Philippe of Belgium",
+  "image": "img/Q155004.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Belgian Presidency of the Council of the EU 2024 from Belgium",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Visit_of_King_Philippe_I_of_Belgium_to_Ghent_European_Youth_Capital_on_25_April_2024_-_EU2024BE_240425_Visit_of_His_Majesty_the_King_to_Ghent_European_Youth_Capital_Ghent_JNZT_0038_(53678212165).jpg"
+ },
+ {
+  "id": "Q6266369",
+  "name": "Johnny Briceño",
+  "role": "head of government",
+  "birth_year": 1960,
+  "sitelinks": 36,
+  "country": "Belize",
+  "country_code": "BZ",
+  "country_code3": "BLZ",
+  "continent": "North America",
+  "capital": "Belmopan",
+  "demonyms": [
+   "Belizean"
+  ],
+  "country_aliases": [
+   "Belize"
+  ],
+  "wikiquote_title": "Johnny Briceño",
+  "image": "img/Q6266369.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Palácio do Planalto from Brasilia, Brasil",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Johnny_Brice%C3%B1o_(52135383761)_(cropped).jpg"
+ },
+ {
+  "id": "Q16669148",
+  "name": "Patrice Talon",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 66,
+  "country": "Benin",
+  "country_code": "BJ",
+  "country_code3": "BEN",
+  "continent": "Africa",
+  "capital": "Porto-Novo",
+  "demonyms": [
+   "Beninese"
+  ],
+  "country_aliases": [
+   "Benin"
+  ],
+  "wikiquote_title": "Patrice Talon",
+  "image": "img/Q16669148.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Office of USAID Administrator",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Patrice_Talon_at_USAID_HQ_(4)_(cropped).jpg"
+ },
+ {
+  "id": "Q24951128",
+  "name": "Romuald Wadagni",
+  "role": "head of state",
+  "birth_year": 1976,
+  "sitelinks": 29,
+  "country": "Benin",
+  "country_code": "BJ",
+  "country_code3": "BEN",
+  "continent": "Africa",
+  "capital": "Porto-Novo",
+  "demonyms": [
+   "Beninese"
+  ],
+  "country_aliases": [
+   "Benin"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q24951128.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Bibamad",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Romuald_Wadagni_March_2026.jpg"
+ },
+ {
+  "id": "Q7849613",
+  "name": "Tshering Tobgay",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 41,
+  "country": "Bhutan",
+  "country_code": "BT",
+  "country_code3": "BTN",
+  "continent": "Asia",
+  "capital": "Thimphu",
+  "demonyms": [
+   "Bhutanese"
+  ],
+  "country_aliases": [
+   "Bhutan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q7849613.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Tshering Tobgay",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Tshering_Tobgay.jpg"
+ },
+ {
+  "id": "Q57376",
+  "name": "Jigme Khesar Namgyel Wangchuck",
+  "role": "head of state",
+  "birth_year": 1980,
+  "sitelinks": 96,
+  "country": "Bhutan",
+  "country_code": "BT",
+  "country_code3": "BTN",
+  "continent": "Asia",
+  "capital": "Thimphu",
+  "demonyms": [
+   "Bhutanese"
+  ],
+  "country_aliases": [
+   "Bhutan"
+  ],
+  "wikiquote_title": "Jigme Khesar Namgyel Wangchuck",
+  "image": "img/Q57376.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Bharat_Shri_Narendra_Damodardas_Modi_with_Jigme_Khesar_Namgyel_Wangchuck_and_Jetsun_Pema_(cropped).jpg"
+ },
+ {
+  "id": "Q110520817",
+  "name": "Rodrigo Paz",
+  "role": "head of state",
+  "birth_year": 1967,
+  "sitelinks": 35,
+  "country": "Bolivia",
+  "country_code": "BO",
+  "country_code3": "BOL",
+  "continent": "South America",
+  "capital": "La Paz",
+  "demonyms": [
+   "Bolivian"
+  ],
+  "country_aliases": [
+   "Bolivia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q110520817.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Rodrigo_Paz_enero_2026.jpg"
+ },
+ {
+  "id": "Q387491",
+  "name": "Borjana Krišto",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 39,
+  "country": "Bosnia and Herzegovina",
+  "country_code": "BA",
+  "country_code3": "BIH",
+  "continent": "Europe",
+  "capital": "Sarajevo",
+  "demonyms": [
+   "Bosnian",
+   "Herzegovinian"
+  ],
+  "country_aliases": [
+   "Bosnia and Herzegovina",
+   "B&H"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q387491.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Lukasz Kobus - European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Borjana_Kri%C5%A1to_(2025-06-11).jpg"
+ },
+ {
+  "id": "Q297825",
+  "name": "Željko Komšić",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 49,
+  "country": "Bosnia and Herzegovina",
+  "country_code": "BA",
+  "country_code3": "BIH",
+  "continent": "Europe",
+  "capital": "Sarajevo",
+  "demonyms": [
+   "Bosnian",
+   "Herzegovinian"
+  ],
+  "country_aliases": [
+   "Bosnia and Herzegovina",
+   "B&H"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q297825.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%C5%BDeljko_Kom%C5%A1i%C4%87_(2025-12-17)_(cropped).jpg"
+ },
+ {
+  "id": "Q18618881",
+  "name": "Duma Boko",
+  "role": "head of state",
+  "birth_year": 1969,
+  "sitelinks": 34,
+  "country": "Botswana",
+  "country_code": "BW",
+  "country_code3": "BWA",
+  "continent": "Africa",
+  "capital": "Gaborone",
+  "demonyms": [
+   "Batswana",
+   "Botswanan",
+   "Botswanans",
+   "Motswana"
+  ],
+  "country_aliases": [
+   "Botswana"
+  ],
+  "wikiquote_title": "Duma Boko",
+  "image": "img/Q18618881.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Duma_Boko_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q37181",
+  "name": "Luiz Inácio Lula da Silva",
+  "role": "head of state",
+  "birth_year": 1945,
+  "sitelinks": 156,
+  "country": "Brazil",
+  "country_code": "BR",
+  "country_code3": "BRA",
+  "continent": "South America",
+  "capital": "Brasília",
+  "demonyms": [
+   "Brazilian",
+   "Brazilians"
+  ],
+  "country_aliases": [
+   "Brazil"
+  ],
+  "wikiquote_title": "Luiz Inácio Lula da Silva",
+  "image": "img/Q37181.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Palácio do Planalto from Brasilia, Brasil",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Foto_oficial_de_Luiz_In%C3%A1cio_Lula_da_Silva_(estreita).jpg"
+ },
+ {
+  "id": "Q57327",
+  "name": "Hassanal Bolkiah I of Brunei",
+  "role": "head of state",
+  "birth_year": 1946,
+  "sitelinks": 93,
+  "country": "Brunei",
+  "country_code": "BN",
+  "country_code3": "BRN",
+  "continent": "Asia",
+  "capital": "Bandar Seri Begawan",
+  "demonyms": [],
+  "country_aliases": [
+   "Brunei"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57327.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Cancillería del Perú",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Visita_de_Estado_del_Sult%C3%A1n_de_Brun%C3%A9i_Darussalam,_Hassanal_Bolkiah_(cropped).jpg"
+ },
+ {
+  "id": "Q26257557",
+  "name": "Rumen Radev",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 80,
+  "country": "Bulgaria",
+  "country_code": "BG",
+  "country_code3": "BGR",
+  "continent": "Europe",
+  "capital": "Sofia",
+  "demonyms": [
+   "Bulgarian"
+  ],
+  "country_aliases": [
+   "Bulgaria"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q26257557.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Unknown author Unknown author",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_Portrait_of_Rumen_Radev_v2_(2026).jpg"
+ },
+ {
+  "id": "Q433338",
+  "name": "Iliana Iotova",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 58,
+  "country": "Bulgaria",
+  "country_code": "BG",
+  "country_code3": "BGR",
+  "continent": "Europe",
+  "capital": "Sofia",
+  "demonyms": [
+   "Bulgarian"
+  ],
+  "country_aliases": [
+   "Bulgaria"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q433338.jpg",
+  "image_license": "CC BY 2.5 bg",
+  "image_artist": "Unknown author Unknown author",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Iliana_Iotova_(close_crop).jpg"
+ },
+ {
+  "id": "Q114835874",
+  "name": "Apollinaire Joachim Kyélem de Tambèla",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 24,
+  "country": "Burkina Faso",
+  "country_code": "BF",
+  "country_code3": "BFA",
+  "continent": "Africa",
+  "capital": "Ouagadougou",
+  "demonyms": [
+   "Burkinabe",
+   "Burkinabè",
+   "Burkinabé"
+  ],
+  "country_aliases": [
+   "Burkina Faso"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q114835874.png",
+  "image_license": "Public domain",
+  "image_artist": "Lamine Traoré (VOA)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Apollinaire_Kyelem_de_Tamb%C3%A8la_(cropped).png"
+ },
+ {
+  "id": "Q114341246",
+  "name": "Ibrahim Traoré",
+  "role": "head of state",
+  "birth_year": 1988,
+  "sitelinks": 65,
+  "country": "Burkina Faso",
+  "country_code": "BF",
+  "country_code3": "BFA",
+  "continent": "Africa",
+  "capital": "Ouagadougou",
+  "demonyms": [
+   "Burkinabe",
+   "Burkinabè",
+   "Burkinabé"
+  ],
+  "country_aliases": [
+   "Burkina Faso"
+  ],
+  "wikiquote_title": "Ibrahim Traoré",
+  "image": "img/Q114341246.jpg",
+  "image_license": "CC0",
+  "image_artist": "Bamjo226",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Capitaine_Ibrahim_Traor%C3%A9.jpg"
+ },
+ {
+  "id": "Q27329764",
+  "name": "Évariste Ndayishimiye",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 45,
+  "country": "Burundi",
+  "country_code": "BI",
+  "country_code3": "BDI",
+  "continent": "Africa",
+  "capital": "Gitega",
+  "demonyms": [
+   "Burundian"
+  ],
+  "country_aliases": [
+   "Burundi"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q27329764.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Lukasz Kobus / European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D0%AD%D0%B2%D0%B0%D1%80%D0%B8%D1%81%D1%82_%D0%9D%D0%B4%D0%B0%D0%B9%D0%B8%D1%88%D0%B8%D0%BC%D0%B8%D0%B5_(18-02-2022)_(cropped).jpg"
+ },
+ {
+  "id": "Q13024351",
+  "name": "Hun Manet",
+  "role": "head of government",
+  "birth_year": 1977,
+  "sitelinks": 45,
+  "country": "Cambodia",
+  "country_code": "KH",
+  "country_code3": "KHM",
+  "continent": "Asia",
+  "capital": "Phnom Penh",
+  "demonyms": [
+   "Cambodian"
+  ],
+  "country_aliases": [
+   "Cambodia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q13024351.jpg",
+  "image_license": "Public domain",
+  "image_artist": "BPMI Setpres/Muchlis Jr",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hun_Manet_in_Australia_on_March_5,_2024.jpg"
+ },
+ {
+  "id": "Q57319",
+  "name": "Norodom Sihamoni",
+  "role": "head of state",
+  "birth_year": 1953,
+  "sitelinks": 87,
+  "country": "Cambodia",
+  "country_code": "KH",
+  "country_code3": "KHM",
+  "continent": "Asia",
+  "capital": "Phnom Penh",
+  "demonyms": [
+   "Cambodian"
+  ],
+  "country_aliases": [
+   "Cambodia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57319.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ceremonial_Reception_of_the_King_of_Cambodia,_Norodom_Sihamoni_on_May_30,_2023_(3x4_cropped).jpg"
+ },
+ {
+  "id": "Q60441515",
+  "name": "Joseph Ngute",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 31,
+  "country": "Cameroon",
+  "country_code": "CM",
+  "country_code3": "CMR",
+  "continent": "Africa",
+  "capital": "Yaoundé",
+  "demonyms": [
+   "Cameroonian"
+  ],
+  "country_aliases": [
+   "Cameroon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q60441515.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Foreign Commonwealth and Development Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:BOOK_OF_CONDOLENCE_(52364883717)_(cropped).jpg"
+ },
+ {
+  "id": "Q57272",
+  "name": "Paul Biya",
+  "role": "head of state",
+  "birth_year": 1933,
+  "sitelinks": 81,
+  "country": "Cameroon",
+  "country_code": "CM",
+  "country_code3": "CMR",
+  "continent": "Africa",
+  "capital": "Yaoundé",
+  "demonyms": [
+   "Cameroonian"
+  ],
+  "country_aliases": [
+   "Cameroon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57272.jpg",
+  "image_license": "Public domain",
+  "image_artist": "United States Department of State Africa U.S.-Africa Leaders Summit: Photos and Videos",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Paul_Biya_in_December_14th,_2022.jpg"
+ },
+ {
+  "id": "Q192533",
+  "name": "Mark Carney",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 90,
+  "country": "Canada",
+  "country_code": "CA",
+  "country_code3": "CAN",
+  "continent": "North America",
+  "capital": "Ottawa",
+  "demonyms": [
+   "Canadian",
+   "Canadians"
+  ],
+  "country_aliases": [
+   "Canada"
+  ],
+  "wikiquote_title": "Mark Carney",
+  "image": "img/Q192533.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Bryan Berlin",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mark_Carney_Argentina_v_Spain_19_July_2026-303_(3x4_close_up_cropped).jpg"
+ },
+ {
+  "id": "Q139594211",
+  "name": "Francisco Carvalho",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 21,
+  "country": "Cape Verde",
+  "country_code": "CV",
+  "country_code3": "CPV",
+  "continent": "Africa",
+  "capital": "Praia",
+  "demonyms": [
+   "Cabo Verdean",
+   "Cape Verdean"
+  ],
+  "country_aliases": [
+   "Cape Verde"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q139594211.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Nha Terra Nha Cretcheu",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Francisco_Carvalho_06072026.jpg"
+ },
+ {
+  "id": "Q57649",
+  "name": "José Maria Neves",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 51,
+  "country": "Cape Verde",
+  "country_code": "CV",
+  "country_code3": "CPV",
+  "continent": "Africa",
+  "capital": "Praia",
+  "demonyms": [
+   "Cabo Verdean",
+   "Cape Verdean"
+  ],
+  "country_aliases": [
+   "Cape Verde"
+  ],
+  "wikiquote_title": "José Maria Neves",
+  "image": "img/Q57649.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Ricardo Stuckert of Palácio do Planalto (Palace of Planalto, workplace of Brazilian president)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Maria_Neves,_2023.jpg"
+ },
+ {
+  "id": "Q88310768",
+  "name": "Félix Moloua",
+  "role": "head of government",
+  "birth_year": 1957,
+  "sitelinks": 21,
+  "country": "Central African Republic",
+  "country_code": "CF",
+  "country_code3": "CAF",
+  "continent": "Africa",
+  "capital": "Bangui",
+  "demonyms": [
+   "Central African"
+  ],
+  "country_aliases": [
+   "Central African Republic",
+   "CAR"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q88310768.png",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Embassy Bangui",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Felix_Moloua.png"
+ },
+ {
+  "id": "Q57758",
+  "name": "Faustin-Archange Touadéra",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 64,
+  "country": "Central African Republic",
+  "country_code": "CF",
+  "country_code3": "CAF",
+  "continent": "Africa",
+  "capital": "Bangui",
+  "demonyms": [
+   "Central African"
+  ],
+  "country_aliases": [
+   "Central African Republic",
+   "CAR"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57758.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Christophe Licoppe / European Communities, 2025 / EC - Audiovisual Service",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Visit_of_Faustin-Archange_Touad%C3%A9ra,_President_of_the_Central_African_Republic,_to_the_European_Commission_(P067074-430913,_cropped).jpg"
+ },
+ {
+  "id": "Q16206405",
+  "name": "Mahamat Déby",
+  "role": "head of state",
+  "birth_year": 1984,
+  "sitelinks": 44,
+  "country": "Chad",
+  "country_code": "TD",
+  "country_code3": "TCD",
+  "continent": "Africa",
+  "capital": "N'Djamena",
+  "demonyms": [
+   "Chadian"
+  ],
+  "country_aliases": [
+   "Chad"
+  ],
+  "wikiquote_title": "Mahamat Déby Itno",
+  "image": "img/Q16206405.jpg",
+  "image_license": "Public domain",
+  "image_artist": "United States Department of State Africa U.S.-Africa Leaders Summit: Photos and Videos",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mahamat_D%C3%A9by.jpg"
+ },
+ {
+  "id": "Q5937916",
+  "name": "José Antonio Kast",
+  "role": "head of state",
+  "birth_year": 1966,
+  "sitelinks": 58,
+  "country": "Chile",
+  "country_code": "CL",
+  "country_code3": "CHL",
+  "continent": "South America",
+  "capital": "Santiago",
+  "demonyms": [
+   "Chilean"
+  ],
+  "country_aliases": [
+   "Chile"
+  ],
+  "wikiquote_title": "José Antonio Kast",
+  "image": "img/Q5937916.png",
+  "image_license": "CC BY 3.0 cl",
+  "image_artist": "Unknown author Unknown author",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Retrato_Presidente_Jos%C3%A9_Antonio_Kast.png"
+ },
+ {
+  "id": "Q137204778",
+  "name": "Abelardo de la Espriella",
+  "role": "head of state",
+  "birth_year": 1978,
+  "sitelinks": 39,
+  "country": "Colombia",
+  "country_code": "CO",
+  "country_code3": "COL",
+  "continent": "South America",
+  "capital": "Bogotá",
+  "demonyms": [
+   "Colombian"
+  ],
+  "country_aliases": [
+   "Colombia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q137204778.jpg",
+  "image_license": "CC0",
+  "image_artist": "Abelardo de la Espriella",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Colombian_Presidential_Candidate_Abelardo_de_la_Espriella_(cropped).jpg"
+ },
+ {
+  "id": "Q515602",
+  "name": "Azali Assoumani",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 46,
+  "country": "Comoros",
+  "country_code": "KM",
+  "country_code3": "COM",
+  "continent": "Africa",
+  "capital": "Moroni",
+  "demonyms": [
+   "Comoran",
+   "Comorans",
+   "Comorian",
+   "Comorians"
+  ],
+  "country_aliases": [
+   "Comoros"
+  ],
+  "wikiquote_title": "Azali Assoumani",
+  "image": "img/Q515602.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Azali_Assoumani_in_New_York_City_on_September_19,_2023_-_53199606411_(cropped).jpg"
+ },
+ {
+  "id": "Q114705150",
+  "name": "Laura Fernández Delgado",
+  "role": "head of state",
+  "birth_year": 1986,
+  "sitelinks": 41,
+  "country": "Costa Rica",
+  "country_code": "CR",
+  "country_code3": "CRI",
+  "continent": "North America",
+  "capital": "San José",
+  "demonyms": [
+   "Costa Rican",
+   "Costa Ricans"
+  ],
+  "country_aliases": [
+   "Costa Rica"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q114705150.jpg",
+  "image_license": "Public domain",
+  "image_artist": "DHSgov",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Laura_Fern%C3%A1ndez_March_2026.jpg"
+ },
+ {
+  "id": "Q11685764",
+  "name": "Andrej Plenković",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 64,
+  "country": "Croatia",
+  "country_code": "HR",
+  "country_code3": "HRV",
+  "continent": "Europe",
+  "capital": "Zagreb",
+  "demonyms": [
+   "Croatian"
+  ],
+  "country_aliases": [
+   "Croatia"
+  ],
+  "wikiquote_title": "Andrej Plenković",
+  "image": "img/Q11685764.jpg",
+  "image_license": "Attribution",
+  "image_artist": "© European Union 2024 - Source : European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Andrej_Plenkovi%C4%87.jpg"
+ },
+ {
+  "id": "Q57687",
+  "name": "Zoran Milanović",
+  "role": "head of state",
+  "birth_year": 1966,
+  "sitelinks": 73,
+  "country": "Croatia",
+  "country_code": "HR",
+  "country_code3": "HRV",
+  "continent": "Europe",
+  "capital": "Zagreb",
+  "demonyms": [
+   "Croatian"
+  ],
+  "country_aliases": [
+   "Croatia"
+  ],
+  "wikiquote_title": "Zoran Milanović",
+  "image": "img/Q57687.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Presidenza della Repubblica",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Zoran_Milanovi%C4%87_(2021).jpg"
+ },
+ {
+  "id": "Q79358625",
+  "name": "Manuel Marrero Cruz",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 34,
+  "country": "Cuba",
+  "country_code": "CU",
+  "country_code3": "CUB",
+  "continent": "North America",
+  "capital": "Havana",
+  "demonyms": [
+   "Cuban"
+  ],
+  "country_aliases": [
+   "Cuba"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q79358625.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "内閣官房内閣広報室",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Manuel_Marrero_Cruz_before_the_funeral_of_Shinzo_Abe.jpg"
+ },
+ {
+  "id": "Q1932603",
+  "name": "Miguel Díaz-Canel",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 84,
+  "country": "Cuba",
+  "country_code": "CU",
+  "country_code3": "CUB",
+  "continent": "North America",
+  "capital": "Havana",
+  "demonyms": [
+   "Cuban"
+  ],
+  "country_aliases": [
+   "Cuba"
+  ],
+  "wikiquote_title": "Miguel Díaz-Canel",
+  "image": "img/Q1932603.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Kremlin.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Miguel_D%C3%ADaz-Canel_2025.jpg"
+ },
+ {
+  "id": "Q48905549",
+  "name": "Nicos Christodoulides",
+  "role": "head of state",
+  "birth_year": 1973,
+  "sitelinks": 49,
+  "country": "Cyprus",
+  "country_code": "CY",
+  "country_code3": "CYP",
+  "continent": "Europe",
+  "capital": "Nicosia",
+  "demonyms": [
+   "Cypriot"
+  ],
+  "country_aliases": [
+   "Cyprus"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q48905549.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nikos_CHRISTODOULIDES_(cropped).jpg"
+ },
+ {
+  "id": "Q10819807",
+  "name": "Andrej Babiš",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 68,
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "country_code3": "CZE",
+  "continent": "Europe",
+  "capital": "Prague",
+  "demonyms": [
+   "Czech"
+  ],
+  "country_aliases": [
+   "Czech Republic"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q10819807.jpg",
+  "image_license": "CC0",
+  "image_artist": "Vox España",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Andrej_Babi%C5%A1_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q2080040",
+  "name": "Petr Pavel",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 71,
+  "country": "Czech Republic",
+  "country_code": "CZ",
+  "country_code3": "CZE",
+  "continent": "Europe",
+  "capital": "Prague",
+  "demonyms": [
+   "Czech"
+  ],
+  "country_aliases": [
+   "Czech Republic"
+  ],
+  "wikiquote_title": "Petr Pavel",
+  "image": "img/Q2080040.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Jana Jabůrková, Jiří Turek (J3T)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Petr_Pavel.jpg"
+ },
+ {
+  "id": "Q63967715",
+  "name": "Ilunga Ilunkamba Sylvestre",
+  "role": "head of government",
+  "birth_year": 1947,
+  "sitelinks": 27,
+  "country": "Democratic Republic of the Congo",
+  "country_code": "CD",
+  "country_code3": "COD",
+  "continent": "Africa",
+  "capital": "Kinshasa",
+  "demonyms": [
+   "Congolese"
+  ],
+  "country_aliases": [
+   "Democratic Republic of the Congo",
+   "DRC"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q63967715.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "MONUSCO Photos",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sylvestre_Ilunga_Ilunkamba_(cropped).jpg"
+ },
+ {
+  "id": "Q29032770",
+  "name": "Félix Tshisekedi",
+  "role": "head of state",
+  "birth_year": 1963,
+  "sitelinks": 69,
+  "country": "Democratic Republic of the Congo",
+  "country_code": "CD",
+  "country_code3": "COD",
+  "continent": "Africa",
+  "capital": "Kinshasa",
+  "demonyms": [
+   "Congolese"
+  ],
+  "country_aliases": [
+   "Democratic Republic of the Congo",
+   "DRC"
+  ],
+  "wikiquote_title": "Félix Tshisekedi",
+  "image": "img/Q29032770.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Felix_Tshisekedi,_President_of_the_Democratic_Republic_of_the_Congo_(55078564106)_(cropped).jpg"
+ },
+ {
+  "id": "Q10522744",
+  "name": "Abdoulkader Kamil Mohamed",
+  "role": "head of government",
+  "birth_year": 1952,
+  "sitelinks": 36,
+  "country": "Djibouti",
+  "country_code": "DJ",
+  "country_code3": "DJI",
+  "continent": "Africa",
+  "capital": "Djibouti",
+  "demonyms": [
+   "Djiboutian"
+  ],
+  "country_aliases": [
+   "Djibouti"
+  ],
+  "wikiquote_title": "Abdoulkader Kamil Mohamed",
+  "image": "img/Q10522744.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "防衛省・自衛隊",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Djiboutian_PM_Mohamed_at_the_MOD_2019_(1)_(cropped).jpg"
+ },
+ {
+  "id": "Q57390",
+  "name": "Ismail Omar Guelleh",
+  "role": "head of state",
+  "birth_year": 1947,
+  "sitelinks": 61,
+  "country": "Djibouti",
+  "country_code": "DJ",
+  "country_code3": "DJI",
+  "continent": "Africa",
+  "capital": "Djibouti",
+  "demonyms": [
+   "Djiboutian"
+  ],
+  "country_aliases": [
+   "Djibouti"
+  ],
+  "wikiquote_title": "Ismaïl Omar Guelleh",
+  "image": "img/Q57390.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Djiboutian_President_Ismail_Omar_Guelleh_at_the_presidential_palace_in_Djibouti,_Republic_of_Djibouti,_September_24,_2023_-_(cropped).jpg"
+ },
+ {
+  "id": "Q57823",
+  "name": "Roosevelt Skerrit",
+  "role": "head of government",
+  "birth_year": 1972,
+  "sitelinks": 44,
+  "country": "Dominica",
+  "country_code": "DM",
+  "country_code3": "DMA",
+  "continent": "North America",
+  "capital": "Roseau",
+  "demonyms": [
+   "Dominican"
+  ],
+  "country_aliases": [
+   "Dominica"
+  ],
+  "wikiquote_title": "Roosevelt Skerrit",
+  "image": "img/Q57823.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "[mjones]",
+  "image_page": "https://commons.wikimedia.org/wiki/File:RooseveltSkerrit.jpg"
+ },
+ {
+  "id": "Q122208779",
+  "name": "Sylvanie Burton",
+  "role": "head of state",
+  "birth_year": 1956,
+  "sitelinks": 31,
+  "country": "Dominica",
+  "country_code": "DM",
+  "country_code3": "DMA",
+  "continent": "North America",
+  "capital": "Roseau",
+  "demonyms": [
+   "Dominican"
+  ],
+  "country_aliases": [
+   "Dominica"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q122208779.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Embassy Bridgetown",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sylvanie_Burton_(cropped).jpg"
+ },
+ {
+  "id": "Q16594097",
+  "name": "Luis Abinader",
+  "role": "head of state",
+  "birth_year": 1967,
+  "sitelinks": 42,
+  "country": "Dominican Republic",
+  "country_code": "DO",
+  "country_code3": "DOM",
+  "continent": "North America",
+  "capital": "Santo Domingo",
+  "demonyms": [
+   "Dominican"
+  ],
+  "country_aliases": [
+   "Dominican Republic"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16594097.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Chairman of the Joint Chiefs of Staff",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Luis_Abinader_at_the_National_Palace_of_the_Dominican_Republic_in_Santo_Domingo_on_April_25,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q112075625",
+  "name": "Daniel Noboa",
+  "role": "head of state",
+  "birth_year": 1987,
+  "sitelinks": 58,
+  "country": "Ecuador",
+  "country_code": "EC",
+  "country_code3": "ECU",
+  "continent": "South America",
+  "capital": "Quito",
+  "demonyms": [
+   "Ecuadoran",
+   "Ecuadorian"
+  ],
+  "country_aliases": [
+   "Ecuador",
+   "EC",
+   "ECU"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q112075625.jpg",
+  "image_license": "CC0",
+  "image_artist": "Juan Montenegro/Presidencia de la República",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Noboa_en_24_mayo_de_2026.jpg"
+ },
+ {
+  "id": "Q54901515",
+  "name": "Mostafa Madbouly",
+  "role": "head of government",
+  "birth_year": 1966,
+  "sitelinks": 47,
+  "country": "Egypt",
+  "country_code": "EG",
+  "country_code3": "EGY",
+  "continent": "Africa",
+  "capital": "Cairo",
+  "demonyms": [
+   "Egyptian"
+  ],
+  "country_aliases": [
+   "Egypt"
+  ],
+  "wikiquote_title": "Mostafa Madbouly",
+  "image": "img/Q54901515.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Office of the Prime Minister of Egypt",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mostafa_Madbouly_(cropped).jpg"
+ },
+ {
+  "id": "Q307871",
+  "name": "Abdel Fattah el-Sisi",
+  "role": "head of state",
+  "birth_year": 1954,
+  "sitelinks": 105,
+  "country": "Egypt",
+  "country_code": "EG",
+  "country_code3": "EGY",
+  "continent": "Africa",
+  "capital": "Cairo",
+  "demonyms": [
+   "Egyptian"
+  ],
+  "country_aliases": [
+   "Egypt"
+  ],
+  "wikiquote_title": "Abdel Fattah el-Sisi",
+  "image": "img/Q307871.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Ministry of Communications and Information Technology in Egypt",
+  "image_page": "https://commons.wikimedia.org/wiki/File:AbdelFattah_Elsisi_(cropped).jpg"
+ },
+ {
+  "id": "Q17712353",
+  "name": "Nayib Bukele",
+  "role": "head of state",
+  "birth_year": 1981,
+  "sitelinks": 81,
+  "country": "El Salvador",
+  "country_code": "SV",
+  "country_code3": "SLV",
+  "continent": "North America",
+  "capital": "San Salvador",
+  "demonyms": [
+   "Salvadoran"
+  ],
+  "country_aliases": [
+   "El Salvador"
+  ],
+  "wikiquote_title": "Nayib Bukele",
+  "image": "img/Q17712353.jpg",
+  "image_license": "Public domain",
+  "image_artist": "The White House",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nayib_Bukele_in_the_White_House,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q129263796",
+  "name": "Manuel Osa Nsue Nsua",
+  "role": "head of government",
+  "birth_year": 1976,
+  "sitelinks": 17,
+  "country": "Equatorial Guinea",
+  "country_code": "GQ",
+  "country_code3": "GNQ",
+  "continent": "Africa",
+  "capital": "Ciudad de la Paz",
+  "demonyms": [
+   "Equatoguinean",
+   "Equatorial Guinean"
+  ],
+  "country_aliases": [
+   "Equatorial Guinea"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q129263796.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Manuel_Osa_Nsue_Nsua_(cropped).jpg"
+ },
+ {
+  "id": "Q57385",
+  "name": "Teodoro Obiang",
+  "role": "head of state",
+  "birth_year": 1942,
+  "sitelinks": 79,
+  "country": "Equatorial Guinea",
+  "country_code": "GQ",
+  "country_code3": "GNQ",
+  "continent": "Africa",
+  "capital": "Ciudad de la Paz",
+  "demonyms": [
+   "Equatoguinean",
+   "Equatorial Guinean"
+  ],
+  "country_aliases": [
+   "Equatorial Guinea"
+  ],
+  "wikiquote_title": "Teodoro Obiang Nguema Mbasogo",
+  "image": "img/Q57385.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2026_Teodoro_Obiang_(cropped).jpg"
+ },
+ {
+  "id": "Q57348",
+  "name": "Isaias Afwerki",
+  "role": "head of state",
+  "birth_year": 1946,
+  "sitelinks": 71,
+  "country": "Eritrea",
+  "country_code": "ER",
+  "country_code3": "ERI",
+  "continent": "Africa",
+  "capital": "Asmara",
+  "demonyms": [
+   "Eritrean"
+  ],
+  "country_aliases": [
+   "Eritrea"
+  ],
+  "wikiquote_title": "Isaias Afwerki",
+  "image": "img/Q57348.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Kremlin.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Isaias_Afewerki_(2026-10-30).jpg"
+ },
+ {
+  "id": "Q1789192",
+  "name": "Kristen Michal",
+  "role": "head of government",
+  "birth_year": 1975,
+  "sitelinks": 52,
+  "country": "Estonia",
+  "country_code": "EE",
+  "country_code3": "EST",
+  "continent": "Europe",
+  "capital": "Tallinn",
+  "demonyms": [
+   "Estonian"
+  ],
+  "country_aliases": [
+   "Estonia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1789192.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "FinnishGovernment",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kristen_Michal_in_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q16407395",
+  "name": "Ülle Madise",
+  "role": "head of state",
+  "birth_year": 1974,
+  "sitelinks": 42,
+  "country": "Estonia",
+  "country_code": "EE",
+  "country_code3": "EST",
+  "continent": "Europe",
+  "capital": "Tallinn",
+  "demonyms": [
+   "Estonian"
+  ],
+  "country_aliases": [
+   "Estonia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16407395.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Saeima",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Visit_of_%C3%9Clle_Madise_to_Latvia,_13_October_2026_-_03_(cropped).jpg"
+ },
+ {
+  "id": "Q123342092",
+  "name": "Edeupa Yerimin",
+  "role": "head of government",
+  "birth_year": 1973,
+  "sitelinks": 21,
+  "country": "Eswatini",
+  "country_code": "SZ",
+  "country_code3": "SWZ",
+  "continent": "Africa",
+  "capital": "Lobamba",
+  "demonyms": [
+   "Swazi",
+   "Swazis",
+   "emaSwati",
+   "liSwati"
+  ],
+  "country_aliases": [
+   "Eswatini"
+  ],
+  "wikiquote_title": "Russell Dlamini",
+  "image": "img/Q123342092.jpg",
+  "image_license": "Attribution",
+  "image_artist": "總統府",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Russell_Dlamini_official_portrait.jpg"
+ },
+ {
+  "id": "Q57340",
+  "name": "Mswati III",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 82,
+  "country": "Eswatini",
+  "country_code": "SZ",
+  "country_code3": "SWZ",
+  "continent": "Africa",
+  "capital": "Lobamba",
+  "demonyms": [
+   "Swazi",
+   "Swazis",
+   "emaSwati",
+   "liSwati"
+  ],
+  "country_aliases": [
+   "Eswatini"
+  ],
+  "wikiquote_title": "Mswati III",
+  "image": "img/Q57340.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mswati_III_in_Yokohama_(cropped).jpg"
+ },
+ {
+  "id": "Q50365049",
+  "name": "Abiy Ahmed",
+  "role": "head of government",
+  "birth_year": 1976,
+  "sitelinks": 92,
+  "country": "Ethiopia",
+  "country_code": "ET",
+  "country_code3": "ETH",
+  "continent": "Africa",
+  "capital": "Addis Ababa",
+  "demonyms": [
+   "Ethiopian"
+  ],
+  "country_aliases": [
+   "Ethiopia"
+  ],
+  "wikiquote_title": "Abiy Ahmed",
+  "image": "img/Q50365049.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Ethiopia Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Ethiopia_Abiy_Ahmed_Ali_(cropped).jpg"
+ },
+ {
+  "id": "Q124831090",
+  "name": "Taye Atske Selassie",
+  "role": "head of state",
+  "birth_year": 1956,
+  "sitelinks": 34,
+  "country": "Ethiopia",
+  "country_code": "ET",
+  "country_code3": "ETH",
+  "continent": "Africa",
+  "capital": "Addis Ababa",
+  "demonyms": [
+   "Ethiopian"
+  ],
+  "country_aliases": [
+   "Ethiopia"
+  ],
+  "wikiquote_title": "Taye Atske Selassie",
+  "image": "img/Q124831090.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Ministry of Foreign Affairs of Ethiopia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Taye_Atske_Selassie_MFA_Portrait.jpg"
+ },
+ {
+  "id": "Q7984081",
+  "name": "Wesley Simina",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 24,
+  "country": "Federated States of Micronesia",
+  "country_code": "FM",
+  "country_code3": "FSM",
+  "continent": "Oceania",
+  "capital": "Palikir",
+  "demonyms": [
+   "Micronesian"
+  ],
+  "country_aliases": [
+   "Federated States of Micronesia",
+   "FM"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q7984081.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Wesley_Simina,_Federated_States_of_Micronesia_President,_at_the_Department_of_State_in_Washington,_D.C._on_March_18,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q981549",
+  "name": "Sitiveni Rabuka",
+  "role": "head of government",
+  "birth_year": 1948,
+  "sitelinks": 38,
+  "country": "Fiji",
+  "country_code": "FJ",
+  "country_code3": "FJI",
+  "continent": "Oceania",
+  "capital": "Suva",
+  "demonyms": [
+   "Fijian"
+  ],
+  "country_aliases": [
+   "Fiji"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q981549.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2025_Sitiveni_Rabuka_(cropped).jpg"
+ },
+ {
+  "id": "Q109012733",
+  "name": "Wiliame Katonivere",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 32,
+  "country": "Fiji",
+  "country_code": "FJ",
+  "country_code3": "FJI",
+  "continent": "Oceania",
+  "capital": "Suva",
+  "demonyms": [
+   "Fijian"
+  ],
+  "country_aliases": [
+   "Fiji"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q109012733.jpg",
+  "image_license": "Public domain",
+  "image_artist": "US Embassy Suva",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Wiliame_Katonivere_2022.jpg"
+ },
+ {
+  "id": "Q6029546",
+  "name": "Petteri Orpo",
+  "role": "head of government",
+  "birth_year": 1969,
+  "sitelinks": 56,
+  "country": "Finland",
+  "country_code": "FI",
+  "country_code3": "FIN",
+  "continent": "Europe",
+  "capital": "Helsinki",
+  "demonyms": [
+   "Finn",
+   "Finnish"
+  ],
+  "country_aliases": [
+   "Finland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q6029546.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Lauri Heikkinen, valtioneuvoston kanslia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Petteri-Orpo-01_(cropped).jpg"
+ },
+ {
+  "id": "Q503143",
+  "name": "Alexander Stubb",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 72,
+  "country": "Finland",
+  "country_code": "FI",
+  "country_code3": "FIN",
+  "continent": "Europe",
+  "capital": "Helsinki",
+  "demonyms": [
+   "Finn",
+   "Finnish"
+  ],
+  "country_aliases": [
+   "Finland"
+  ],
+  "wikiquote_title": "Alexander Stubb",
+  "image": "img/Q503143.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Kynnap",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Alexander_Stubb_in_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q20089181",
+  "name": "Sébastien Lecornu",
+  "role": "head of government",
+  "birth_year": 1986,
+  "sitelinks": 54,
+  "country": "France",
+  "country_code": "FR",
+  "country_code3": "FRA",
+  "continent": "Europe",
+  "capital": "Paris",
+  "demonyms": [
+   "French"
+  ],
+  "country_aliases": [
+   "France"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q20089181.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Lecornu_2024_(2x3_crop).jpg"
+ },
+ {
+  "id": "Q57856",
+  "name": "Raymond Ndong Sima",
+  "role": "head of government",
+  "birth_year": 1955,
+  "sitelinks": 25,
+  "country": "Gabon",
+  "country_code": "GA",
+  "country_code3": "GAB",
+  "continent": "Africa",
+  "capital": "Libreville",
+  "demonyms": [
+   "Gabonese"
+  ],
+  "country_aliases": [
+   "Gabon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57856.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Gabon 24",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Raymond_Ndong_Sima_2024.jpg"
+ },
+ {
+  "id": "Q122067521",
+  "name": "Brice Clotaire Oligui Nguema",
+  "role": "head of state",
+  "birth_year": 1975,
+  "sitelinks": 36,
+  "country": "Gabon",
+  "country_code": "GA",
+  "country_code3": "GAB",
+  "continent": "Africa",
+  "capital": "Libreville",
+  "demonyms": [
+   "Gabonese"
+  ],
+  "country_aliases": [
+   "Gabon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q122067521.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Lukasz Kobus / European Communities, 2024 / EC - Audiovisual Service",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Brice_Oligui_Nguema_on_November_26,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q27885302",
+  "name": "Irakli Kobakhidze",
+  "role": "head of government",
+  "birth_year": 1978,
+  "sitelinks": 53,
+  "country": "Georgia",
+  "country_code": "GE",
+  "country_code3": "GEO",
+  "continent": "Europe",
+  "capital": "Tbilisi",
+  "demonyms": [
+   "Georgian"
+  ],
+  "country_aliases": [
+   "Georgia"
+  ],
+  "wikiquote_title": "Irakli Kobakhidze",
+  "image": "img/Q27885302.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Jennifer Jacquemart / European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Irakli_Kobakhidze,_Georgian_Prime_Minister,_at_the_European_Commission.jpg"
+ },
+ {
+  "id": "Q711893",
+  "name": "Mikheil Kavelashvili",
+  "role": "head of state",
+  "birth_year": 1971,
+  "sitelinks": 43,
+  "country": "Georgia",
+  "country_code": "GE",
+  "country_code3": "GEO",
+  "continent": "Europe",
+  "capital": "Tbilisi",
+  "demonyms": [
+   "Georgian"
+  ],
+  "country_aliases": [
+   "Georgia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q711893.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Giorgi Abdaladze",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mikheil_Kavelashvili_-_President_of_Georgia.jpg"
+ },
+ {
+  "id": "Q566257",
+  "name": "Friedrich Merz",
+  "role": "head of government",
+  "birth_year": 1955,
+  "sitelinks": 102,
+  "country": "Germany",
+  "country_code": "DE",
+  "country_code3": "DEU",
+  "continent": "Europe",
+  "capital": "Berlin",
+  "demonyms": [
+   "German"
+  ],
+  "country_aliases": [
+   "Germany"
+  ],
+  "wikiquote_title": "Friedrich Merz",
+  "image": "img/Q566257.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Sandro Halank, Wikimedia Commons",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2025-02-23_Bundestagswahl_%E2%80%93_Wahlabend_CDU_by_Sandro_Halank%E2%80%93070.jpg"
+ },
+ {
+  "id": "Q76658",
+  "name": "Frank-Walter Steinmeier",
+  "role": "head of state",
+  "birth_year": 1956,
+  "sitelinks": 115,
+  "country": "Germany",
+  "country_code": "DE",
+  "country_code3": "DEU",
+  "continent": "Europe",
+  "capital": "Berlin",
+  "demonyms": [
+   "German"
+  ],
+  "country_aliases": [
+   "Germany"
+  ],
+  "wikiquote_title": "Frank-Walter Steinmeier",
+  "image": "img/Q76658.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Frank-Walter_Steinmeier_in_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q718601",
+  "name": "Nana Akufo-Addo",
+  "role": "head of government",
+  "birth_year": 1944,
+  "sitelinks": 78,
+  "country": "Ghana",
+  "country_code": "GH",
+  "country_code3": "GHA",
+  "continent": "Africa",
+  "capital": "Accra",
+  "demonyms": [
+   "Ghanaian"
+  ],
+  "country_aliases": [
+   "Ghana"
+  ],
+  "wikiquote_title": "Nana Akufo-Addo",
+  "image": "img/Q718601.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "DFID - UK Department for International Development Graham Carlow",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nana_Akufo_Addo,_Jan._2020.jpg"
+ },
+ {
+  "id": "Q50678",
+  "name": "John Mahama",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 78,
+  "country": "Ghana",
+  "country_code": "GH",
+  "country_code3": "GHA",
+  "continent": "Africa",
+  "capital": "Accra",
+  "demonyms": [
+   "Ghanaian"
+  ],
+  "country_aliases": [
+   "Ghana"
+  ],
+  "wikiquote_title": "John Mahama",
+  "image": "img/Q50678.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:John_Mahama_in_Yokohama_(cropped).jpg"
+ },
+ {
+  "id": "Q552751",
+  "name": "Kyriakos Mitsotakis",
+  "role": "head of government",
+  "birth_year": 1968,
+  "sitelinks": 82,
+  "country": "Greece",
+  "country_code": "GR",
+  "country_code3": "GRC",
+  "continent": "Europe",
+  "capital": "Athens",
+  "demonyms": [
+   "Greek"
+  ],
+  "country_aliases": [
+   "Greece"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q552751.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Yorgos Karahalis",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kyriakos_Mitsotakis_2026.jpg"
+ },
+ {
+  "id": "Q20995518",
+  "name": "Konstantinos Tasoulas",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 45,
+  "country": "Greece",
+  "country_code": "GR",
+  "country_code3": "GRC",
+  "continent": "Europe",
+  "capital": "Athens",
+  "demonyms": [
+   "Greek"
+  ],
+  "country_aliases": [
+   "Greece"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q20995518.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Kyriakos Samartzidis",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Konstantinos_Tasoulas_in_2025.jpg"
+ },
+ {
+  "id": "Q112679881",
+  "name": "Dickon Mitchell",
+  "role": "head of government",
+  "birth_year": 1978,
+  "sitelinks": 25,
+  "country": "Grenada",
+  "country_code": "GD",
+  "country_code3": "GRD",
+  "continent": "North America",
+  "capital": "St. George's",
+  "demonyms": [
+   "Grenadian"
+  ],
+  "country_aliases": [
+   "Grenada"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q112679881.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_of_Grenada_Mr._Dickon_Mitchell.jpg"
+ },
+ {
+  "id": "Q107254030",
+  "name": "Bernardo Arévalo de León",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 43,
+  "country": "Guatemala",
+  "country_code": "GT",
+  "country_code3": "GTM",
+  "continent": "North America",
+  "capital": "Guatemala City",
+  "demonyms": [
+   "Guatemalan"
+  ],
+  "country_aliases": [
+   "Guatemala"
+  ],
+  "wikiquote_title": "Bernardo Arévalo",
+  "image": "img/Q107254030.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Gobierno de Guatemala",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Retrato_oficial_de_Presidente_Bernardo_Ar%C3%A9valo_(cropped).jpg"
+ },
+ {
+  "id": "Q22209348",
+  "name": "Bah Oury",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 21,
+  "country": "Guinea",
+  "country_code": "GN",
+  "country_code3": "GIN",
+  "continent": "Africa",
+  "capital": "Conakry",
+  "demonyms": [
+   "Guinean"
+  ],
+  "country_aliases": [
+   "Guinea"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q22209348.jpg",
+  "image_license": "CC0",
+  "image_artist": "GdMrjess",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Bah_Oury.jpg"
+ },
+ {
+  "id": "Q108418519",
+  "name": "Mamadi Doumbouya",
+  "role": "head of state",
+  "birth_year": 1980,
+  "sitelinks": 40,
+  "country": "Guinea",
+  "country_code": "GN",
+  "country_code3": "GIN",
+  "continent": "Africa",
+  "capital": "Conakry",
+  "demonyms": [
+   "Guinean"
+  ],
+  "country_aliases": [
+   "Guinea"
+  ],
+  "wikiquote_title": "Mamadi Doumbouya",
+  "image": "img/Q108418519.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Ambassade des Etats-Unis Conakry, Guinée",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mamadi_Doumbouya_2022.jpg"
+ },
+ {
+  "id": "Q98053664",
+  "name": "Hugo Chávez",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 22,
+  "country": "Guyana",
+  "country_code": "GY",
+  "country_code3": "GUY",
+  "continent": "South America",
+  "capital": "Georgetown",
+  "demonyms": [
+   "Guyanese"
+  ],
+  "country_aliases": [
+   "Guyana"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q98053664.jpg",
+  "image_license": "Public domain",
+  "image_artist": "PMO Barbados",
+  "image_page": "https://commons.wikimedia.org/wiki/File:PM_Mark_Phillips_(cropped).jpg"
+ },
+ {
+  "id": "Q64840184",
+  "name": "Irfaan Ali",
+  "role": "head of state",
+  "birth_year": 1980,
+  "sitelinks": 45,
+  "country": "Guyana",
+  "country_code": "GY",
+  "country_code3": "GUY",
+  "continent": "South America",
+  "capital": "Georgetown",
+  "demonyms": [
+   "Guyanese"
+  ],
+  "country_aliases": [
+   "Guyana"
+  ],
+  "wikiquote_title": "Irfaan Ali",
+  "image": "img/Q64840184.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2025_Irfaan_Ali_(cropped).jpg"
+ },
+ {
+  "id": "Q131140314",
+  "name": "Alix Didier Fils-Aimé",
+  "role": "head of government",
+  "birth_year": 1971,
+  "sitelinks": 21,
+  "country": "Haiti",
+  "country_code": "HT",
+  "country_code3": "HTI",
+  "continent": "North America",
+  "capital": "Port-au-Prince",
+  "demonyms": [
+   "Haitian"
+  ],
+  "country_aliases": [
+   "Haiti"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q131140314.jpg",
+  "image_license": "CC0",
+  "image_artist": "Unknown author Unknown author",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Alix_Didier_Fils-Aim%C3%A9_-_Premier_ministre.jpg"
+ },
+ {
+  "id": "Q16146159",
+  "name": "Nasry Asfura",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 35,
+  "country": "Honduras",
+  "country_code": "HN",
+  "country_code3": "HND",
+  "continent": "North America",
+  "capital": "Tegucigalpa",
+  "demonyms": [
+   "Honduran"
+  ],
+  "country_aliases": [
+   "Honduras"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16146159.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Secretary_Rubio_Meets_with_Honduran_President-Elect_(55037313932)_(cropped).jpg"
+ },
+ {
+  "id": "Q124488292",
+  "name": "Péter Magyar",
+  "role": "head of government",
+  "birth_year": 1981,
+  "sitelinks": 70,
+  "country": "Hungary",
+  "country_code": "HU",
+  "country_code3": "HUN",
+  "continent": "Europe",
+  "capital": "Budapest",
+  "demonyms": [
+   "Hungarian"
+  ],
+  "country_aliases": [
+   "Hungary"
+  ],
+  "wikiquote_title": "Péter Magyar",
+  "image": "img/Q124488292.jpg",
+  "image_license": "European Parliament",
+  "image_artist": "© European Union 2024 - Source : EP",
+  "image_page": "https://commons.wikimedia.org/wiki/File:P%C3%A9ter_Magyar_MEP_(2024).jpg"
+ },
+ {
+  "id": "Q788903",
+  "name": "András Baka",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 39,
+  "country": "Hungary",
+  "country_code": "HU",
+  "country_code3": "HUN",
+  "continent": "Europe",
+  "capital": "Budapest",
+  "demonyms": [
+   "Hungarian"
+  ],
+  "country_aliases": [
+   "Hungary"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q788903.png",
+  "image_license": "CC BY 3.0",
+  "image_artist": "scienche ( https://www.youtube.com/@tudomam )",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Andr%C3%A1s_Baka_(cropped).png"
+ },
+ {
+  "id": "Q108856371",
+  "name": "Kristrún Mjöll Frostadóttir",
+  "role": "head of government",
+  "birth_year": 1988,
+  "sitelinks": 38,
+  "country": "Iceland",
+  "country_code": "IS",
+  "country_code3": "ISL",
+  "continent": "Europe",
+  "capital": "Reykjavík",
+  "demonyms": [],
+  "country_aliases": [
+   "Iceland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q108856371.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Xuthoria",
+  "image_page": "https://commons.wikimedia.org/wiki/File:NYCW_2026_-_Kristr%C3%BAn_Frostad%C3%B3ttir_09_(cropped).jpg"
+ },
+ {
+  "id": "Q24494577",
+  "name": "Halla Tómasdóttir",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 47,
+  "country": "Iceland",
+  "country_code": "IS",
+  "country_code3": "ISL",
+  "continent": "Europe",
+  "capital": "Reykjavík",
+  "demonyms": [],
+  "country_aliases": [
+   "Iceland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q24494577.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Published by the conference account on Flickr, photographer not named.",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Halla_T%C3%B3masd%C3%B3ttir_at_Arctic_Circle_2024_cropped.jpg"
+ },
+ {
+  "id": "Q1058",
+  "name": "Narendra Modi",
+  "role": "head of government",
+  "birth_year": 1950,
+  "sitelinks": 174,
+  "country": "India",
+  "country_code": "IN",
+  "country_code3": "IND",
+  "continent": "Asia",
+  "capital": "New Delhi",
+  "demonyms": [
+   "Indian"
+  ],
+  "country_aliases": [
+   "India"
+  ],
+  "wikiquote_title": "Narendra Modi",
+  "image": "img/Q1058.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi.jpg"
+ },
+ {
+  "id": "Q19901232",
+  "name": "Droupadi Murmu",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 95,
+  "country": "India",
+  "country_code": "IN",
+  "country_code3": "IND",
+  "continent": "Asia",
+  "capital": "New Delhi",
+  "demonyms": [
+   "Indian"
+  ],
+  "country_aliases": [
+   "India"
+  ],
+  "wikiquote_title": "Droupadi Murmu",
+  "image": "img/Q19901232.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "President's Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_of_India_Droupadi_Murmu_official_portrait_(cropped).jpg"
+ },
+ {
+  "id": "Q2107268",
+  "name": "Prabowo Subianto",
+  "role": "head of state",
+  "birth_year": 1951,
+  "sitelinks": 77,
+  "country": "Indonesia",
+  "country_code": "ID",
+  "country_code3": "IDN",
+  "continent": "Asia",
+  "capital": "Jakarta",
+  "demonyms": [
+   "Indonesian"
+  ],
+  "country_aliases": [
+   "Indonesia"
+  ],
+  "wikiquote_title": "Prabowo Subianto",
+  "image": "img/Q2107268.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Darwis Triadi & Ministry of State Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prabowo_Subianto_2024_official_portrait.jpg"
+ },
+ {
+  "id": "Q5933752",
+  "name": "Masoud Pezeshkian",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 90,
+  "country": "Iran",
+  "country_code": "IR",
+  "country_code3": "IRN",
+  "continent": "Asia",
+  "capital": "Tehran",
+  "demonyms": [
+   "Iranian",
+   "Persian"
+  ],
+  "country_aliases": [
+   "Iran"
+  ],
+  "wikiquote_title": "Masoud Pezeshkian",
+  "image": "img/Q5933752.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Autor: Sergey Bobylev/RIA Novosti",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Masoud_Pezeshkian_Moscow_2026.jpg"
+ },
+ {
+  "id": "Q2919350",
+  "name": "Mojtaba Khamenei",
+  "role": "head of state",
+  "birth_year": 1969,
+  "sitelinks": 91,
+  "country": "Iran",
+  "country_code": "IR",
+  "country_code3": "IRN",
+  "continent": "Asia",
+  "capital": "Tehran",
+  "demonyms": [
+   "Iranian",
+   "Persian"
+  ],
+  "country_aliases": [
+   "Iran"
+  ],
+  "wikiquote_title": "Mojtaba Khamenei",
+  "image": "img/Q2919350.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "khamenei.ir",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Mojtaba_Khamenei.jpg"
+ },
+ {
+  "id": "Q3700793",
+  "name": "Muhammad Shia' al-Sudani",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 38,
+  "country": "Iraq",
+  "country_code": "IQ",
+  "country_code3": "IRQ",
+  "continent": "Asia",
+  "capital": "Baghdad",
+  "demonyms": [
+   "Iraqi"
+  ],
+  "country_aliases": [
+   "Iraq"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3700793.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohammed_Shia%27_Al_Sudani,_Prime_Minister_of_Iraq,_at_the_Pentagon,_Virginia_on_15_April_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q115579547",
+  "name": "Nizar Amidi",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 25,
+  "country": "Iraq",
+  "country_code": "IQ",
+  "country_code3": "IRQ",
+  "continent": "Asia",
+  "capital": "Baghdad",
+  "demonyms": [
+   "Iraqi"
+  ],
+  "country_aliases": [
+   "Iraq"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q115579547.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "المكتب الإعلامي لرئيس الوزراء (يوتيوب)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D9%86%D8%B2%D8%A7%D8%B1_%D8%A2%D9%85%D9%8A%D8%AF%D9%8A_2026.jpg"
+ },
+ {
+  "id": "Q920403",
+  "name": "Micheál Martin",
+  "role": "head of government",
+  "birth_year": 1960,
+  "sitelinks": 57,
+  "country": "Ireland",
+  "country_code": "IE",
+  "country_code3": "IRL",
+  "continent": "Europe",
+  "capital": "Dublin",
+  "demonyms": [
+   "Irish"
+  ],
+  "country_aliases": [
+   "Ireland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q920403.jpg",
+  "image_license": "Public domain",
+  "image_artist": "The White House",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2026_Miche%C3%A1l_Martin_-_(cropped).jpg"
+ },
+ {
+  "id": "Q5052598",
+  "name": "Catherine Connolly",
+  "role": "head of state",
+  "birth_year": 1955,
+  "sitelinks": 50,
+  "country": "Ireland",
+  "country_code": "IE",
+  "country_code3": "IRL",
+  "continent": "Europe",
+  "capital": "Dublin",
+  "demonyms": [
+   "Irish"
+  ],
+  "country_aliases": [
+   "Ireland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q5052598.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Office of the President of Ireland",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Inauguration_of_Catherine_Connolly,_11_November_2025_15_(cropped).jpg"
+ },
+ {
+  "id": "Q43723",
+  "name": "Benjamin Netanyahu",
+  "role": "head of government",
+  "birth_year": 1949,
+  "sitelinks": 173,
+  "country": "Israel",
+  "country_code": "IL",
+  "country_code3": "ISR",
+  "continent": "Asia",
+  "capital": "Jerusalem",
+  "demonyms": [
+   "Israeli",
+   "Israelis"
+  ],
+  "country_aliases": [
+   "Israel"
+  ],
+  "wikiquote_title": "Benjamin Netanyahu",
+  "image": "img/Q43723.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Avi Ohayon",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023.jpg"
+ },
+ {
+  "id": "Q983258",
+  "name": "Isaac Herzog",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 77,
+  "country": "Israel",
+  "country_code": "IL",
+  "country_code3": "ISR",
+  "continent": "Asia",
+  "capital": "Jerusalem",
+  "demonyms": [
+   "Israeli",
+   "Israelis"
+  ],
+  "country_aliases": [
+   "Israel"
+  ],
+  "wikiquote_title": "Isaac Herzog",
+  "image": "img/Q983258.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Israeli_President_Isaac_Herzog_in_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q451791",
+  "name": "Giorgia Meloni",
+  "role": "head of government",
+  "birth_year": 1977,
+  "sitelinks": 128,
+  "country": "Italy",
+  "country_code": "IT",
+  "country_code3": "ITA",
+  "continent": "Europe",
+  "capital": "Rome",
+  "demonyms": [
+   "Italian"
+  ],
+  "country_aliases": [
+   "Italy"
+  ],
+  "wikiquote_title": "Giorgia Meloni",
+  "image": "img/Q451791.jpg",
+  "image_license": "CC BY 3.0 it",
+  "image_artist": "Governo Italiano",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Giorgia_Meloni_Official_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q3956186",
+  "name": "Sergio Mattarella",
+  "role": "head of state",
+  "birth_year": 1941,
+  "sitelinks": 117,
+  "country": "Italy",
+  "country_code": "IT",
+  "country_code3": "ITA",
+  "continent": "Europe",
+  "capital": "Rome",
+  "demonyms": [
+   "Italian"
+  ],
+  "country_aliases": [
+   "Italy"
+  ],
+  "wikiquote_title": "Sergio Mattarella",
+  "image": "img/Q3956186.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Official Photo",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sergio_Mattarella_Presidente_della_Repubblica_Italiana.jpg"
+ },
+ {
+  "id": "Q3434569",
+  "name": "Robert Beugré Mambé",
+  "role": "head of government",
+  "birth_year": 1952,
+  "sitelinks": 21,
+  "country": "Ivory Coast",
+  "country_code": "CI",
+  "country_code3": "CIV",
+  "continent": "Africa",
+  "capital": "Yamoussoukro",
+  "demonyms": [
+   "Ivoirian",
+   "Ivorian"
+  ],
+  "country_aliases": [
+   "Ivory Coast"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3434569.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Prisca diom",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robert_Beugr%C3%A9_Mamb%C3%A9_2.jpg"
+ },
+ {
+  "id": "Q57413",
+  "name": "Alassane Ouattara",
+  "role": "head of state",
+  "birth_year": 1942,
+  "sitelinks": 78,
+  "country": "Ivory Coast",
+  "country_code": "CI",
+  "country_code3": "CIV",
+  "continent": "Africa",
+  "capital": "Yamoussoukro",
+  "demonyms": [
+   "Ivoirian",
+   "Ivorian"
+  ],
+  "country_aliases": [
+   "Ivory Coast"
+  ],
+  "wikiquote_title": "Alassane Ouattara",
+  "image": "img/Q57413.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Dario Pignatelli / European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Alassane_Ouattara_-_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q505200",
+  "name": "Andrew Holness",
+  "role": "head of government",
+  "birth_year": 1972,
+  "sitelinks": 39,
+  "country": "Jamaica",
+  "country_code": "JM",
+  "country_code3": "JAM",
+  "continent": "North America",
+  "capital": "Kingston",
+  "demonyms": [
+   "Jamaican"
+  ],
+  "country_aliases": [
+   "Jamaica"
+  ],
+  "wikiquote_title": "Andrew Holness",
+  "image": "img/Q505200.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State from United States",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Andrew_Holness_Press_(cropped).jpg"
+ },
+ {
+  "id": "Q1705028",
+  "name": "Sanae Takaichi",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 97,
+  "country": "Japan",
+  "country_code": "JP",
+  "country_code3": "JPN",
+  "continent": "Asia",
+  "capital": "Tokyo",
+  "demonyms": [
+   "Japanese"
+  ],
+  "country_aliases": [
+   "Japan"
+  ],
+  "wikiquote_title": "Sanae Takaichi",
+  "image": "img/Q1705028.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Immediate source: MOFA/Japanese Embassy to South Africa, probable source: Cabinet Public Affairs Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Sanae_Takaichi,_Prime_Minister_of_Japan_(HD).jpg"
+ },
+ {
+  "id": "Q217096",
+  "name": "Naruhito",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 189,
+  "country": "Japan",
+  "country_code": "JP",
+  "country_code3": "JPN",
+  "continent": "Asia",
+  "capital": "Tokyo",
+  "demonyms": [
+   "Japanese"
+  ],
+  "country_aliases": [
+   "Japan"
+  ],
+  "wikiquote_title": "Naruhito",
+  "image": "img/Q217096.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Presidencia de Guatemala",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Emperor_Naruhito_20250611_(54582524056,_cropped).jpg"
+ },
+ {
+  "id": "Q97011032",
+  "name": "Jafar Hassan",
+  "role": "head of government",
+  "birth_year": 1968,
+  "sitelinks": 20,
+  "country": "Jordan",
+  "country_code": "JO",
+  "country_code3": "JOR",
+  "continent": "Asia",
+  "capital": "Amman",
+  "demonyms": [
+   "Jordanian"
+  ],
+  "country_aliases": [
+   "Jordan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q97011032.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "رئاسة الوزراء",
+  "image_page": "https://commons.wikimedia.org/wiki/File:HE_Jafar_Hassan_(cropped).jpg"
+ },
+ {
+  "id": "Q57464",
+  "name": "Abdullah II of Jordan",
+  "role": "head of state",
+  "birth_year": 1962,
+  "sitelinks": 112,
+  "country": "Jordan",
+  "country_code": "JO",
+  "country_code3": "JOR",
+  "continent": "Asia",
+  "capital": "Amman",
+  "demonyms": [
+   "Jordanian"
+  ],
+  "country_aliases": [
+   "Jordan"
+  ],
+  "wikiquote_title": "Abdullah II of Jordan",
+  "image": "img/Q57464.jpg",
+  "image_license": "OGL 3",
+  "image_artist": "Number 10",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Abdullah_II_portrait_at_10_Downing_Street_February_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q124436646",
+  "name": "Olzhas Bektenov",
+  "role": "head of government",
+  "birth_year": 1980,
+  "sitelinks": 31,
+  "country": "Kazakhstan",
+  "country_code": "KZ",
+  "country_code3": "KAZ",
+  "continent": "Asia",
+  "capital": "Astana",
+  "demonyms": [
+   "Kazakh",
+   "Kazakhstani"
+  ],
+  "country_aliases": [
+   "Kazakhstan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q124436646.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Шахай Шүкірәлі Өмірұлы",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Olzhas_Bektenov_(cropped).jpg"
+ },
+ {
+  "id": "Q200881",
+  "name": "Kassym-Jomart Tokayev",
+  "role": "head of state",
+  "birth_year": 1953,
+  "sitelinks": 90,
+  "country": "Kazakhstan",
+  "country_code": "KZ",
+  "country_code3": "KAZ",
+  "continent": "Asia",
+  "capital": "Astana",
+  "demonyms": [
+   "Kazakh",
+   "Kazakhstani"
+  ],
+  "country_aliases": [
+   "Kazakhstan"
+  ],
+  "wikiquote_title": "Kassym-Jomart Tokayev",
+  "image": "img/Q200881.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Қазақстан премьер-министрі",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2025_Tokayev_Address_to_the_Nation_(cropped).jpg"
+ },
+ {
+  "id": "Q195725",
+  "name": "William Ruto",
+  "role": "head of state",
+  "birth_year": 1966,
+  "sitelinks": 59,
+  "country": "Kenya",
+  "country_code": "KE",
+  "country_code3": "KEN",
+  "continent": "Africa",
+  "capital": "Nairobi",
+  "demonyms": [
+   "Kenyan"
+  ],
+  "country_aliases": [
+   "Kenya"
+  ],
+  "wikiquote_title": "William Ruto",
+  "image": "img/Q195725.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Presidenza della Repubblica",
+  "image_page": "https://commons.wikimedia.org/wiki/File:William_Ruto_2023_(cropped).jpg"
+ },
+ {
+  "id": "Q5015",
+  "name": "Mette Frederiksen",
+  "role": "head of government",
+  "birth_year": 1977,
+  "sitelinks": 86,
+  "country": "Kingdom of Denmark",
+  "country_code": "DK",
+  "country_code3": "DNK",
+  "continent": "Europe",
+  "capital": "Copenhagen",
+  "demonyms": [
+   "Danish",
+   "dane",
+   "danes"
+  ],
+  "country_aliases": [
+   "Kingdom of Denmark",
+   "Denmark"
+  ],
+  "wikiquote_title": "Mette Frederiksen",
+  "image": "img/Q5015.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Christian Ursilva",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mette_Frederiksen_by_Christian_Ursilva_(2026).jpg"
+ },
+ {
+  "id": "Q1004037",
+  "name": "Frederik X of Denmark",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 77,
+  "country": "Kingdom of Denmark",
+  "country_code": "DK",
+  "country_code3": "DNK",
+  "continent": "Europe",
+  "capital": "Copenhagen",
+  "demonyms": [
+   "Danish",
+   "dane",
+   "danes"
+  ],
+  "country_aliases": [
+   "Kingdom of Denmark",
+   "Denmark"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1004037.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "FinnishGovernment",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Frederik_X_in_Helsinki,_2025.jpg"
+ },
+ {
+  "id": "Q28860866",
+  "name": "Rob Jetten",
+  "role": "head of government",
+  "birth_year": 1987,
+  "sitelinks": 62,
+  "country": "Kingdom of the Netherlands",
+  "country_code": "NL",
+  "country_code3": "NLD",
+  "continent": "Europe",
+  "capital": "Amsterdam",
+  "demonyms": [
+   "Dutch"
+  ],
+  "country_aliases": [
+   "Kingdom of the Netherlands",
+   "Netherlands"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q28860866.jpg",
+  "image_license": "European Parliament",
+  "image_artist": "Alexis Haulot / EP",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Rob_Jetten,_March_2026_-_02.jpg"
+ },
+ {
+  "id": "Q154952",
+  "name": "William Alexander of the Netherlands",
+  "role": "head of state",
+  "birth_year": 1967,
+  "sitelinks": 109,
+  "country": "Kingdom of the Netherlands",
+  "country_code": "NL",
+  "country_code3": "NLD",
+  "continent": "Europe",
+  "capital": "Amsterdam",
+  "demonyms": [
+   "Dutch"
+  ],
+  "country_aliases": [
+   "Kingdom of the Netherlands",
+   "Netherlands"
+  ],
+  "wikiquote_title": "Willem-Alexander of the Netherlands",
+  "image": "img/Q154952.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Sander Perquin",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Koning_Willem-Alexander_(2026).jpg"
+ },
+ {
+  "id": "Q23034482",
+  "name": "Taneti Maamau",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 40,
+  "country": "Kiribati",
+  "country_code": "KI",
+  "country_code3": "KIR",
+  "continent": "Oceania",
+  "capital": "South Tarawa",
+  "demonyms": [
+   "I-Kiribati"
+  ],
+  "country_aliases": [
+   "Kiribati"
+  ],
+  "wikiquote_title": "Taneti Maamau",
+  "image": "img/Q23034482.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Department of Foreign Affairs and Trade (DFAT)/Sarah Hodges",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Taneti_Maamau_Feb_2023.jpg"
+ },
+ {
+  "id": "Q441633",
+  "name": "Albin Kurti",
+  "role": "head of government",
+  "birth_year": 1975,
+  "sitelinks": 55,
+  "country": "Kosovo",
+  "country_code": "XK",
+  "country_code3": "XKS",
+  "continent": "Europe",
+  "capital": "Pristina",
+  "demonyms": [
+   "Kosovan",
+   "Kosovar"
+  ],
+  "country_aliases": [
+   "Kosovo"
+  ],
+  "wikiquote_title": "Albin Kurti",
+  "image": "img/Q441633.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Government of the Republic of Kosovo / Qeveria e Republikës së Kosovës",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Albin_Kurti_2022.jpg"
+ },
+ {
+  "id": "Q13036897",
+  "name": "Albulena Haxhiu",
+  "role": "head of state",
+  "birth_year": 1987,
+  "sitelinks": 25,
+  "country": "Kosovo",
+  "country_code": "XK",
+  "country_code3": "XKS",
+  "continent": "Europe",
+  "capital": "Pristina",
+  "demonyms": [
+   "Kosovan",
+   "Kosovar"
+  ],
+  "country_aliases": [
+   "Kosovo"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q13036897.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Vetëvendosje!",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Albulena_Haxhiu.jpg"
+ },
+ {
+  "id": "Q12219691",
+  "name": "Sabah Al-Khalid Al-Sabah",
+  "role": "head of government",
+  "birth_year": 1953,
+  "sitelinks": 26,
+  "country": "Kuwait",
+  "country_code": "KW",
+  "country_code3": "KWT",
+  "continent": "Asia",
+  "capital": "Kuwait City",
+  "demonyms": [
+   "Kuwaiti"
+  ],
+  "country_aliases": [
+   "Kuwait"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12219691.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Υπουργείο Εξωτερικών . Cropped by User:Andrew Dalby",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sabah_Al-Khalid_Al-Sabah_2014_(portrait_crop).jpg"
+ },
+ {
+  "id": "Q12243161",
+  "name": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+  "role": "head of state",
+  "birth_year": 1940,
+  "sitelinks": 45,
+  "country": "Kuwait",
+  "country_code": "KW",
+  "country_code3": "KWT",
+  "continent": "Asia",
+  "capital": "Kuwait City",
+  "demonyms": [
+   "Kuwaiti"
+  ],
+  "country_aliases": [
+   "Kuwait"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12243161.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Emir_of_Kuwait_Sheikh_Mishal_Al-Ahmad_Al-Jaber_Al-Sabah_in_2024.jpg"
+ },
+ {
+  "id": "Q112703041",
+  "name": "Adylbek Kasymaliev",
+  "role": "head of government",
+  "birth_year": 1960,
+  "sitelinks": 22,
+  "country": "Kyrgyzstan",
+  "country_code": "KG",
+  "country_code3": "KGZ",
+  "continent": "Asia",
+  "capital": "Bishkek",
+  "demonyms": [
+   "Kyrgyz",
+   "Kyrgyzstani"
+  ],
+  "country_aliases": [
+   "Kyrgyzstan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q112703041.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Марсель Бадыкшин",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Adylbek_Kasymaliev_(2024-14-05).jpg"
+ },
+ {
+  "id": "Q25597826",
+  "name": "Sadyr Japarov",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 61,
+  "country": "Kyrgyzstan",
+  "country_code": "KG",
+  "country_code3": "KGZ",
+  "continent": "Asia",
+  "capital": "Bishkek",
+  "demonyms": [
+   "Kyrgyz",
+   "Kyrgyzstani"
+  ],
+  "country_aliases": [
+   "Kyrgyzstan"
+  ],
+  "wikiquote_title": "Sadyr Japarov",
+  "image": "img/Q25597826.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Ermek Sydykov https://president.kg/president/biography",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_Photo_of_the_President_of_the_Kyrgyz_Republic_H.E._Mr._Sadyr_Zhaparov.jpg"
+ },
+ {
+  "id": "Q104914585",
+  "name": "Sonexay Siphandone",
+  "role": "head of government",
+  "birth_year": 1966,
+  "sitelinks": 31,
+  "country": "Laos",
+  "country_code": "LA",
+  "country_code3": "LAO",
+  "continent": "Asia",
+  "capital": "Vientiane",
+  "demonyms": [
+   "Lao",
+   "Laos",
+   "Laotian",
+   "Laotians"
+  ],
+  "country_aliases": [
+   "Laos"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q104914585.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sonexay_Siphandone_10_June_2026.jpg"
+ },
+ {
+  "id": "Q58323",
+  "name": "Thongloun Sisoulith",
+  "role": "head of state",
+  "birth_year": 1945,
+  "sitelinks": 49,
+  "country": "Laos",
+  "country_code": "LA",
+  "country_code3": "LAO",
+  "continent": "Asia",
+  "capital": "Vientiane",
+  "demonyms": [
+   "Lao",
+   "Laos",
+   "Laotian",
+   "Laotians"
+  ],
+  "country_aliases": [
+   "Laos"
+  ],
+  "wikiquote_title": "Thongloun Sisoulith",
+  "image": "img/Q58323.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Thongloun_Sisoulith_in_Kazan_-_2024_(cropped_2).jpg"
+ },
+ {
+  "id": "Q115604300",
+  "name": "Andris Kulbergs",
+  "role": "head of government",
+  "birth_year": 1979,
+  "sitelinks": 34,
+  "country": "Latvia",
+  "country_code": "LV",
+  "country_code3": "LVA",
+  "continent": "Europe",
+  "capital": "Riga",
+  "demonyms": [
+   "Latvian",
+   "Latvians"
+  ],
+  "country_aliases": [
+   "Latvia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q115604300.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Saeima",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Andris_Kulbergs_2023_(cropped).jpg"
+ },
+ {
+  "id": "Q3047551",
+  "name": "Edgars Rinkēvičs",
+  "role": "head of state",
+  "birth_year": 1973,
+  "sitelinks": 60,
+  "country": "Latvia",
+  "country_code": "LV",
+  "country_code3": "LVA",
+  "continent": "Europe",
+  "capital": "Riga",
+  "demonyms": [
+   "Latvian",
+   "Latvians"
+  ],
+  "country_aliases": [
+   "Latvia"
+  ],
+  "wikiquote_title": "Edgars Rinkēvičs",
+  "image": "img/Q3047551.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Stenbocki maja",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Edgars_Rink%C4%93vi%C4%8Ds_in_2026.jpg"
+ },
+ {
+  "id": "Q638463",
+  "name": "Nawaf Salam",
+  "role": "head of government",
+  "birth_year": 1953,
+  "sitelinks": 31,
+  "country": "Lebanon",
+  "country_code": "LB",
+  "country_code3": "LBN",
+  "continent": "Asia",
+  "capital": "Beirut",
+  "demonyms": [
+   "Lebanese"
+  ],
+  "country_aliases": [
+   "Lebanon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q638463.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "ALGÉRIE PRESSE SERVICE",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nawaf_Salam.jpg"
+ },
+ {
+  "id": "Q29033962",
+  "name": "Joseph Aoun",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 50,
+  "country": "Lebanon",
+  "country_code": "LB",
+  "country_code3": "LBN",
+  "continent": "Asia",
+  "capital": "Beirut",
+  "demonyms": [
+   "Lebanese"
+  ],
+  "country_aliases": [
+   "Lebanon"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q29033962.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Stavros Ioannides",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nikos_Christodoulides_meets_with_Joseph_Aoun_(cropped).jpg"
+ },
+ {
+  "id": "Q114588964",
+  "name": "Sam Matekane",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 25,
+  "country": "Lesotho",
+  "country_code": "LS",
+  "country_code3": "LSO",
+  "continent": "Africa",
+  "capital": "Maseru",
+  "demonyms": [
+   "Basotho",
+   "Mosotho"
+  ],
+  "country_aliases": [
+   "Lesotho"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q114588964.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union Election Observation Mission Lesotho 2022",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sam_Matekane_candidate_(cropped).jpg"
+ },
+ {
+  "id": "Q57537",
+  "name": "Letsie III of Lesotho",
+  "role": "head of state",
+  "birth_year": 1963,
+  "sitelinks": 73,
+  "country": "Lesotho",
+  "country_code": "LS",
+  "country_code3": "LSO",
+  "continent": "Africa",
+  "capital": "Maseru",
+  "demonyms": [
+   "Basotho",
+   "Mosotho"
+  ],
+  "country_aliases": [
+   "Lesotho"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57537.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "IAEA Imagebank",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Letsie_III.jpg"
+ },
+ {
+  "id": "Q2630483",
+  "name": "Joseph Boakai",
+  "role": "head of state",
+  "birth_year": 1944,
+  "sitelinks": 37,
+  "country": "Liberia",
+  "country_code": "LR",
+  "country_code3": "LBR",
+  "continent": "Africa",
+  "capital": "Monrovia",
+  "demonyms": [
+   "Liberian"
+  ],
+  "country_aliases": [
+   "Liberia"
+  ],
+  "wikiquote_title": "Joseph Boakai",
+  "image": "img/Q2630483.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Joseph_Boakai_in_Yokohama_(cropped).jpg"
+ },
+ {
+  "id": "Q105319569",
+  "name": "Abd al-Hamid Al-Dabiba",
+  "role": "head of government",
+  "birth_year": 1959,
+  "sitelinks": 30,
+  "country": "Libya",
+  "country_code": "LY",
+  "country_code3": "LBY",
+  "continent": "Africa",
+  "capital": "Tripoli",
+  "demonyms": [
+   "Libyan"
+  ],
+  "country_aliases": [
+   "Libya"
+  ],
+  "wikiquote_title": "Abdul Hamid Dbeibeh",
+  "image": "img/Q105319569.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "© European Union, 2024",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Visit_of_Abdul_Hamid_Dbeibah,_Prime_Minister_of_the_Government_of_National_Unity_of_Libya,_to_the_European_Commission_04_(cropped).jpg"
+ },
+ {
+  "id": "Q105319610",
+  "name": "Mohamed al-Menfi",
+  "role": "head of state",
+  "birth_year": 1976,
+  "sitelinks": 32,
+  "country": "Libya",
+  "country_code": "LY",
+  "country_code3": "LBY",
+  "continent": "Africa",
+  "capital": "Tripoli",
+  "demonyms": [
+   "Libyan"
+  ],
+  "country_aliases": [
+   "Libya"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q105319610.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohamed_al-Menfi_(2023-07-23)_(cropped).jpg"
+ },
+ {
+  "id": "Q129676165",
+  "name": "Brigitte Haas",
+  "role": "head of government",
+  "birth_year": 1964,
+  "sitelinks": 34,
+  "country": "Liechtenstein",
+  "country_code": "LI",
+  "country_code3": "LIE",
+  "continent": "Europe",
+  "capital": "Vaduz",
+  "demonyms": [
+   "Liechtensteiner"
+  ],
+  "country_aliases": [
+   "Liechtenstein"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q129676165.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Michael Zanghellini, Information und Kommunikation der Regierung, Vaduz",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Brigitte_Haas_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q57454",
+  "name": "Hans-Adam II, Prince of Liechtenstein",
+  "role": "head of state",
+  "birth_year": 1945,
+  "sitelinks": 75,
+  "country": "Liechtenstein",
+  "country_code": "LI",
+  "country_code3": "LIE",
+  "continent": "Europe",
+  "capital": "Vaduz",
+  "demonyms": [
+   "Liechtensteiner"
+  ],
+  "country_aliases": [
+   "Liechtenstein"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57454.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Roland Korner",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hans-Adam_II_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q1936326",
+  "name": "Mindaugas Sinkevičius",
+  "role": "head of government",
+  "birth_year": 1984,
+  "sitelinks": 23,
+  "country": "Lithuania",
+  "country_code": "LT",
+  "country_code3": "LTU",
+  "continent": "Europe",
+  "capital": "Vilnius",
+  "demonyms": [
+   "Lithuanian"
+  ],
+  "country_aliases": [
+   "Lithuania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1936326.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Saeima",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mindaugas_Sinkevi%C4%8Dius_in_August_2026.jpg"
+ },
+ {
+  "id": "Q9268379",
+  "name": "Gitanas Nausėda",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 73,
+  "country": "Lithuania",
+  "country_code": "LT",
+  "country_code3": "LTU",
+  "continent": "Europe",
+  "capital": "Vilnius",
+  "demonyms": [
+   "Lithuanian"
+  ],
+  "country_aliases": [
+   "Lithuania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q9268379.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Gitanas_Naus%C4%97da,_2025.06.26_(cropped).jpg"
+ },
+ {
+  "id": "Q592101",
+  "name": "Luc Frieden",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 40,
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "country_code3": "LUX",
+  "continent": "Europe",
+  "capital": "Luxembourg",
+  "demonyms": [
+   "Luxembourgian",
+   "Luxembourgish"
+  ],
+  "country_aliases": [
+   "Luxembourg"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q592101.jpg",
+  "image_license": "European Parliament",
+  "image_artist": "European Parliament",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Luc_Frieden_EP_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q161319",
+  "name": "Guillaume V, Grand Duke of Luxembourg",
+  "role": "head of state",
+  "birth_year": 1981,
+  "sitelinks": 56,
+  "country": "Luxembourg",
+  "country_code": "LU",
+  "country_code3": "LUX",
+  "continent": "Europe",
+  "capital": "Luxembourg",
+  "demonyms": [
+   "Luxembourgian",
+   "Luxembourgish"
+  ],
+  "country_aliases": [
+   "Luxembourg"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q161319.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Mathieu Cugnot",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Grand_Duke_Guillaume,_February_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q138678989",
+  "name": "Mamitiana Rajaonarison",
+  "role": "head of government",
+  "birth_year": 1973,
+  "sitelinks": 11,
+  "country": "Madagascar",
+  "country_code": "MG",
+  "country_code3": "MDG",
+  "continent": "Africa",
+  "capital": "Antananarivo",
+  "demonyms": [
+   "Malagasy"
+  ],
+  "country_aliases": [
+   "Madagascar"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q138678989.png",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Aizawaiza ; crop by SenseiAC .",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mamitiana_Rajonarison_cropped_1.png"
+ },
+ {
+  "id": "Q136500275",
+  "name": "Michael Randrianirina",
+  "role": "head of state",
+  "birth_year": 1974,
+  "sitelinks": 30,
+  "country": "Madagascar",
+  "country_code": "MG",
+  "country_code3": "MDG",
+  "continent": "Africa",
+  "capital": "Antananarivo",
+  "demonyms": [
+   "Malagasy"
+  ],
+  "country_aliases": [
+   "Madagascar"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q136500275.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Presidential Executive Office of Russia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Michael_Randrianirina_in_February_2026.jpg"
+ },
+ {
+  "id": "Q16202782",
+  "name": "Lazarus Chakwera",
+  "role": "head of government",
+  "birth_year": 1955,
+  "sitelinks": 48,
+  "country": "Malawi",
+  "country_code": "MW",
+  "country_code3": "MWI",
+  "continent": "Africa",
+  "capital": "Lilongwe",
+  "demonyms": [
+   "Malawian"
+  ],
+  "country_aliases": [
+   "Malawi"
+  ],
+  "wikiquote_title": "Lazarus Chakwera",
+  "image": "img/Q16202782.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State from United States",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Secretary_Blinken_Meets_With_Malawian_President_Lazarus_Chakwera_(52389622307)_(cropped2).jpg"
+ },
+ {
+  "id": "Q7176020",
+  "name": "Peter Mutharika",
+  "role": "head of state",
+  "birth_year": 1940,
+  "sitelinks": 62,
+  "country": "Malawi",
+  "country_code": "MW",
+  "country_code3": "MWI",
+  "continent": "Africa",
+  "capital": "Lilongwe",
+  "demonyms": [
+   "Malawian"
+  ],
+  "country_aliases": [
+   "Malawi"
+  ],
+  "wikiquote_title": "Peter Mutharika",
+  "image": "img/Q7176020.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Arthur_Peter_Mutharika_2014_(cropped).jpg"
+ },
+ {
+  "id": "Q299574",
+  "name": "Anwar Ibrahim",
+  "role": "head of government",
+  "birth_year": 1947,
+  "sitelinks": 71,
+  "country": "Malaysia",
+  "country_code": "MY",
+  "country_code3": "MYS",
+  "continent": "Asia",
+  "capital": "Kuala Lumpur",
+  "demonyms": [
+   "Malaysian"
+  ],
+  "country_aliases": [
+   "Malaysia",
+   "MYS"
+  ],
+  "wikiquote_title": "Anwar Ibrahim",
+  "image": "img/Q299574.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Anwar_Ibrahim_in_June_2026.jpg"
+ },
+ {
+  "id": "Q2657043",
+  "name": "Ibrahim Iskandar of Johor",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 45,
+  "country": "Malaysia",
+  "country_code": "MY",
+  "country_code3": "MYS",
+  "continent": "Asia",
+  "capital": "Kuala Lumpur",
+  "demonyms": [
+   "Malaysian"
+  ],
+  "country_aliases": [
+   "Malaysia",
+   "MYS"
+  ],
+  "wikiquote_title": "Ibrahim Ismail of Johor",
+  "image": "img/Q2657043.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Mikhail Tereshchenko",
+  "image_page": "https://commons.wikimedia.org/wiki/File:King_Ibrahim_of_Malaysia_August_2025.jpg"
+ },
+ {
+  "id": "Q116293030",
+  "name": "Mohamed Muizzu",
+  "role": "head of state",
+  "birth_year": 1978,
+  "sitelinks": 45,
+  "country": "Maldives",
+  "country_code": "MV",
+  "country_code3": "MDV",
+  "continent": "Asia",
+  "capital": "Malé",
+  "demonyms": [
+   "Maldivian"
+  ],
+  "country_aliases": [
+   "Maldives"
+  ],
+  "wikiquote_title": "Mohamed Muizzu",
+  "image": "img/Q116293030.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "The President's Office, Maldives",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Dr_Muizzu_in_December_2023.jpg"
+ },
+ {
+  "id": "Q113577661",
+  "name": "Abdoulaye Maïga",
+  "role": "head of government",
+  "birth_year": 1981,
+  "sitelinks": 16,
+  "country": "Mali",
+  "country_code": "ML",
+  "country_code3": "MLI",
+  "continent": "Africa",
+  "capital": "Bamako",
+  "demonyms": [
+   "Malian"
+  ],
+  "country_aliases": [
+   "Mali"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q113577661.png",
+  "image_license": "Public domain",
+  "image_artist": "VOA Africa",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Deputy_PM_Abdoulaye_Ma%C3%AFga_in_2024_(cropped).png"
+ },
+ {
+  "id": "Q98497406",
+  "name": "Assimi Goïta",
+  "role": "head of state",
+  "birth_year": 1983,
+  "sitelinks": 46,
+  "country": "Mali",
+  "country_code": "ML",
+  "country_code3": "MLI",
+  "continent": "Africa",
+  "capital": "Bamako",
+  "demonyms": [
+   "Malian"
+  ],
+  "country_aliases": [
+   "Mali"
+  ],
+  "wikiquote_title": "Assimi Goïta",
+  "image": "img/Q98497406.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "President of Russia,Kremlin",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Assimi_Go%C3%AFta_in_July_2023.jpg"
+ },
+ {
+  "id": "Q37860840",
+  "name": "Robert Abela",
+  "role": "head of government",
+  "birth_year": 1977,
+  "sitelinks": 55,
+  "country": "Malta",
+  "country_code": "MT",
+  "country_code3": "MLT",
+  "continent": "Europe",
+  "capital": "Valletta",
+  "demonyms": [
+   "Maltese"
+  ],
+  "country_aliases": [
+   "Malta"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q37860840.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robert_Abela,_2025.06.26_(03)_(cropped).jpg"
+ },
+ {
+  "id": "Q1647394",
+  "name": "Myriam Spiteri Debono",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 46,
+  "country": "Malta",
+  "country_code": "MT",
+  "country_code3": "MLT",
+  "continent": "Europe",
+  "capital": "Valletta",
+  "demonyms": [
+   "Maltese"
+  ],
+  "country_aliases": [
+   "Malta"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1647394.jpg",
+  "image_license": "European Parliament",
+  "image_artist": "© European Union 2024 - Source : EP",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Myriam_Spiteri_Debono_on_April_20,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q20090884",
+  "name": "Hilda Heine",
+  "role": "head of state",
+  "birth_year": 1951,
+  "sitelinks": 52,
+  "country": "Marshall Islands",
+  "country_code": "MH",
+  "country_code3": "MHL",
+  "continent": "Oceania",
+  "capital": "Majuro",
+  "demonyms": [
+   "Marshallese"
+  ],
+  "country_aliases": [
+   "Marshall Islands",
+   "MH"
+  ],
+  "wikiquote_title": "Hilda Heine",
+  "image": "img/Q20090884.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Department of Foreign Affairs and Trade (DFAT)/Nathan Fulton",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hilda_Heine_2022.jpg"
+ },
+ {
+  "id": "Q66793577",
+  "name": "Moctar Ould Djay",
+  "role": "head of government",
+  "birth_year": 1973,
+  "sitelinks": 16,
+  "country": "Mauritania",
+  "country_code": "MR",
+  "country_code3": "MRT",
+  "continent": "Africa",
+  "capital": "Nouakchott",
+  "demonyms": [
+   "Mauritanian"
+  ],
+  "country_aliases": [
+   "Mauritania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q66793577.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Lamine Traoré (VOA)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Moctar_Ould_Diay,_Ouagadougou,_4_Feb_2019_(cropped).jpg"
+ },
+ {
+  "id": "Q12241106",
+  "name": "Mohamed Ould Ghazouani",
+  "role": "head of state",
+  "birth_year": 1956,
+  "sitelinks": 44,
+  "country": "Mauritania",
+  "country_code": "MR",
+  "country_code3": "MRT",
+  "continent": "Africa",
+  "capital": "Nouakchott",
+  "demonyms": [
+   "Mauritanian"
+  ],
+  "country_aliases": [
+   "Mauritania"
+  ],
+  "wikiquote_title": "Mohamed Ould Ghazouani",
+  "image": "img/Q12241106.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Mohamed_Ould_Ghazouani_(2026-03-26)_(cropped).jpg"
+ },
+ {
+  "id": "Q3401447",
+  "name": "Pravind Jugnauth",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 35,
+  "country": "Mauritius",
+  "country_code": "MU",
+  "country_code3": "MUS",
+  "continent": "Africa",
+  "capital": "Port Louis",
+  "demonyms": [
+   "Mauritian"
+  ],
+  "country_aliases": [
+   "Mauritius"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3401447.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Shri_Narendra_Modi_meeting_the_Prime_Minister_of_the_Republic_of_Mauritius,_Mr._Pravind_Kumar_Jugnauth,_in_New_Delhi_on_December_06,_2019_(1)_(cropped).jpg"
+ },
+ {
+  "id": "Q131403499",
+  "name": "Dharam Gokhool",
+  "role": "head of state",
+  "birth_year": 1949,
+  "sitelinks": 17,
+  "country": "Mauritius",
+  "country_code": "MU",
+  "country_code3": "MUS",
+  "continent": "Africa",
+  "capital": "Port Louis",
+  "demonyms": [
+   "Mauritian"
+  ],
+  "country_aliases": [
+   "Mauritius"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q131403499.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Dharam_Gokhool_on_March_11,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q140480413",
+  "name": "Vasile Tofan",
+  "role": "head of government",
+  "birth_year": 1982,
+  "sitelinks": 18,
+  "country": "Moldova",
+  "country_code": "MD",
+  "country_code3": "MDA",
+  "continent": "Europe",
+  "capital": "Chișinău",
+  "demonyms": [
+   "Moldavian",
+   "Moldovan"
+  ],
+  "country_aliases": [
+   "Moldova"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q140480413.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Government of Moldova",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Vasile_Tofan_official_portrait_(cropped).jpg"
+ },
+ {
+  "id": "Q15071069",
+  "name": "Maia Sandu",
+  "role": "head of state",
+  "birth_year": 1972,
+  "sitelinks": 98,
+  "country": "Moldova",
+  "country_code": "MD",
+  "country_code3": "MDA",
+  "continent": "Europe",
+  "capital": "Chișinău",
+  "demonyms": [
+   "Moldavian",
+   "Moldovan"
+  ],
+  "country_aliases": [
+   "Moldova"
+  ],
+  "wikiquote_title": "Maia Sandu",
+  "image": "img/Q15071069.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "European Parliament",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Maia_Sandu,_September_2025.jpg"
+ },
+ {
+  "id": "Q29934395",
+  "name": "Christophe Mirmand",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 16,
+  "country": "Monaco",
+  "country_code": "MC",
+  "country_code3": "MCO",
+  "continent": "Europe",
+  "capital": "Monaco",
+  "demonyms": [
+   "Monacan",
+   "Monegasque",
+   "Monégasque"
+  ],
+  "country_aliases": [
+   "Monaco"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q29934395.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Claudio Centonze",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Christophe_Mirmand_(cropped).jpg"
+ },
+ {
+  "id": "Q3910",
+  "name": "Albert II, Prince of Monaco",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 90,
+  "country": "Monaco",
+  "country_code": "MC",
+  "country_code3": "MCO",
+  "continent": "Europe",
+  "capital": "Monaco",
+  "demonyms": [
+   "Monacan",
+   "Monegasque",
+   "Monégasque"
+  ],
+  "country_aliases": [
+   "Monaco"
+  ],
+  "wikiquote_title": "Albert II, Prince of Monaco",
+  "image": "img/Q3910.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Albert_II_-_08.06.2025_-_Encontro_com_Sua_Alteza_o_Pr%C3%ADncipe_de_M%C3%B4naco,_Alberto_II_(54574973880).jpg"
+ },
+ {
+  "id": "Q110962738",
+  "name": "Uchral Nyam-Osor",
+  "role": "head of government",
+  "birth_year": 1987,
+  "sitelinks": 16,
+  "country": "Mongolia",
+  "country_code": "MN",
+  "country_code3": "MNG",
+  "continent": "Asia",
+  "capital": "Ulaanbaatar",
+  "demonyms": [
+   "Mongol",
+   "Mongolian"
+  ],
+  "country_aliases": [
+   "Mongolia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q110962738.png",
+  "image_license": "CC BY 4.0",
+  "image_artist": "The Government of Mongolia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Nyam-Osoryn_Uchral,_Official_Portrait_2026_(cropped).png"
+ },
+ {
+  "id": "Q27058418",
+  "name": "Khurelsukh Ukhnaa",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 51,
+  "country": "Mongolia",
+  "country_code": "MN",
+  "country_code3": "MNG",
+  "continent": "Asia",
+  "capital": "Ulaanbaatar",
+  "demonyms": [
+   "Mongol",
+   "Mongolian"
+  ],
+  "country_aliases": [
+   "Mongolia"
+  ],
+  "wikiquote_title": "Ukhnaagiin Khürelsükh",
+  "image": "img/Q27058418.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "UK Government",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ukhnaagiin_Kh%C3%BCrels%C3%BCkh_(Kh%C3%BCrels%C3%BCkh_Ukhnaa)_(%D0%A3%D1%85%D0%BD%D0%B0%D0%B0%D0%B3%D0%B8%D0%B9%D0%BD_%D0%A5%D2%AF%D1%80%D1%8D%D0%BB%D1%81%D2%AF%D1%85),_President_of_Mongolia_on_26_April_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q101225458",
+  "name": "Milojko Spajić",
+  "role": "head of government",
+  "birth_year": 1987,
+  "sitelinks": 44,
+  "country": "Montenegro",
+  "country_code": "ME",
+  "country_code3": "MNE",
+  "continent": "Europe",
+  "capital": "Podgorica",
+  "demonyms": [
+   "Montenegrin"
+  ],
+  "country_aliases": [
+   "Montenegro"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q101225458.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "belgium24.eu",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Milojko_Spaji%C4%87_at_EU-Montenegro_Intergovernmental_Conference_European_Council_on_26_June_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q104417661",
+  "name": "Jakov Milatović",
+  "role": "head of state",
+  "birth_year": 1986,
+  "sitelinks": 53,
+  "country": "Montenegro",
+  "country_code": "ME",
+  "country_code3": "MNE",
+  "continent": "Europe",
+  "capital": "Podgorica",
+  "demonyms": [
+   "Montenegrin"
+  ],
+  "country_aliases": [
+   "Montenegro"
+  ],
+  "wikiquote_title": "Jakov Milatović",
+  "image": "img/Q104417661.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Bundesministerium für europäische und internationale Angelegenheiten",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jakov_Milatovi%C4%87_in_2024_MGR2967_((cropped).jpg"
+ },
+ {
+  "id": "Q3067221",
+  "name": "Fatima Ezzahra El Mansouri",
+  "role": "head of government",
+  "birth_year": 1976,
+  "sitelinks": 36,
+  "country": "Morocco",
+  "country_code": "MA",
+  "country_code3": "MAR",
+  "continent": "Africa",
+  "capital": "Rabat",
+  "demonyms": [
+   "Moroccan"
+  ],
+  "country_aliases": [
+   "Morocco"
+  ],
+  "wikiquote_title": "Fatima Ezzahra El Mansouri",
+  "image": "img/Q3067221.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Author: Maxim Blinov/RIA Novosti",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Fatima_Ezzahra_El_Mansouri_Moscow_2026.jpg"
+ },
+ {
+  "id": "Q57553",
+  "name": "Mohammed VI of Morocco",
+  "role": "head of state",
+  "birth_year": 1963,
+  "sitelinks": 104,
+  "country": "Morocco",
+  "country_code": "MA",
+  "country_code3": "MAR",
+  "continent": "Africa",
+  "capital": "Rabat",
+  "demonyms": [
+   "Moroccan"
+  ],
+  "country_aliases": [
+   "Morocco"
+  ],
+  "wikiquote_title": "Mohammed VI of Morocco",
+  "image": "img/Q57553.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "UN Climate Change",
+  "image_page": "https://commons.wikimedia.org/wiki/File:King_Mohammed_VI_(cropped).jpg"
+ },
+ {
+  "id": "Q97058466",
+  "name": "Daniel Chapo",
+  "role": "head of state",
+  "birth_year": 1977,
+  "sitelinks": 26,
+  "country": "Mozambique",
+  "country_code": "MZ",
+  "country_code3": "MOZ",
+  "continent": "Africa",
+  "capital": "Maputo",
+  "demonyms": [
+   "Mozambican"
+  ],
+  "country_aliases": [
+   "Mozambique"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q97058466.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Daniel_Chapo_on_November_24,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q3462649",
+  "name": "Min Aung Hlaing",
+  "role": "head of government",
+  "birth_year": 1956,
+  "sitelinks": 50,
+  "country": "Myanmar",
+  "country_code": "MM",
+  "country_code3": "MMR",
+  "continent": "Asia",
+  "capital": "Naypyidaw",
+  "demonyms": [
+   "Burmese",
+   "Myanma"
+  ],
+  "country_aliases": [
+   "Myanmar",
+   "Burma"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3462649.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Zawzawaungthwin",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Min_Aung_Hlaing_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q5360975",
+  "name": "Elijah Ngurare",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 16,
+  "country": "Namibia",
+  "country_code": "NA",
+  "country_code3": "NAM",
+  "continent": "Africa",
+  "capital": "Windhoek",
+  "demonyms": [
+   "Namibian"
+  ],
+  "country_aliases": [
+   "Namibia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q5360975.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Martin Hipangwa",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Elijah_T._Ngurare_(cropped).jpg"
+ },
+ {
+  "id": "Q527020",
+  "name": "Netumbo Nandi-Ndaitwah",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 53,
+  "country": "Namibia",
+  "country_code": "NA",
+  "country_code3": "NAM",
+  "continent": "Africa",
+  "capital": "Windhoek",
+  "demonyms": [
+   "Namibian"
+  ],
+  "country_aliases": [
+   "Namibia"
+  ],
+  "wikiquote_title": "Netumbo Nandi-Ndaitwah",
+  "image": "img/Q527020.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Netumbo_Nandi-Ndaitwah_2025.jpg"
+ },
+ {
+  "id": "Q58096",
+  "name": "David Adeang",
+  "role": "head of state",
+  "birth_year": 1969,
+  "sitelinks": 26,
+  "country": "Nauru",
+  "country_code": "NR",
+  "country_code3": "NRU",
+  "continent": "Oceania",
+  "capital": "Yaren District",
+  "demonyms": [
+   "Nauruan"
+  ],
+  "country_aliases": [
+   "Nauru"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q58096.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Naikaku Sōri Daijin Kantei",
+  "image_page": "https://commons.wikimedia.org/wiki/File:David_Adeang_in_July_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q315500",
+  "name": "Pushpa Kamal Dahal",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 56,
+  "country": "Nepal",
+  "country_code": "NP",
+  "country_code3": "NPL",
+  "continent": "Asia",
+  "capital": "Kathmandu",
+  "demonyms": [
+   "Nepalese",
+   "Nepali"
+  ],
+  "country_aliases": [
+   "Nepal"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q315500.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Ministry of External Affairs",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Pushpa_Kamal_Dahal_2016.jpg"
+ },
+ {
+  "id": "Q3183124",
+  "name": "Ram Chandra Poudel",
+  "role": "head of state",
+  "birth_year": 1944,
+  "sitelinks": 48,
+  "country": "Nepal",
+  "country_code": "NP",
+  "country_code3": "NPL",
+  "continent": "Asia",
+  "capital": "Kathmandu",
+  "demonyms": [
+   "Nepalese",
+   "Nepali"
+  ],
+  "country_aliases": [
+   "Nepal"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q3183124.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Houses of the Oireachtas",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Ram_Chandra_Poudel,_Official_portrait_(January_2024).jpg"
+ },
+ {
+  "id": "Q74370310",
+  "name": "Christopher Luxon",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 44,
+  "country": "New Zealand",
+  "country_code": "NZ",
+  "country_code3": "NZL",
+  "continent": "Oceania",
+  "capital": "Wellington",
+  "demonyms": [
+   "New Zealand",
+   "New Zealander"
+  ],
+  "country_aliases": [
+   "New Zealand"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q74370310.jpg",
+  "image_license": "CC0",
+  "image_artist": "The Office of the Governor-General of New Zealand",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Christopher_Luxon_2025_(mid_cropped).jpg"
+ },
+ {
+  "id": "Q57402",
+  "name": "Daniel Ortega",
+  "role": "head of state",
+  "birth_year": 1945,
+  "sitelinks": 95,
+  "country": "Nicaragua",
+  "country_code": "NI",
+  "country_code3": "NIC",
+  "continent": "North America",
+  "capital": "Managua",
+  "demonyms": [
+   "Nicaraguan"
+  ],
+  "country_aliases": [
+   "Nicaragua",
+   "NIC"
+  ],
+  "wikiquote_title": "Daniel Ortega",
+  "image": "img/Q57402.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "State Duma of the Russian Federation",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Daniel_Ortega_on_July_20,_2024.jpg"
+ },
+ {
+  "id": "Q2646711",
+  "name": "Ali Lamine Zeine",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 25,
+  "country": "Niger",
+  "country_code": "NE",
+  "country_code3": "NER",
+  "continent": "Africa",
+  "capital": "Niamey",
+  "demonyms": [
+   "Nigerien"
+  ],
+  "country_aliases": [
+   "Niger"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q2646711.jpg",
+  "image_license": "Public domain",
+  "image_artist": "IMF Staff Photograph/Ryan Rayburn",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ali_Lamine_Zeine,_IMF_2008.jpg"
+ },
+ {
+  "id": "Q120965176",
+  "name": "Abdourahamane Tiani",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 43,
+  "country": "Niger",
+  "country_code": "NE",
+  "country_code3": "NER",
+  "continent": "Africa",
+  "capital": "Niamey",
+  "demonyms": [
+   "Nigerien"
+  ],
+  "country_aliases": [
+   "Niger"
+  ],
+  "wikiquote_title": "Abdourahamane Tchiani",
+  "image": "img/Q120965176.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Sule Barma",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Abdourahamane_Tchiani_in_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q3510872",
+  "name": "Bola Tinubu",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 60,
+  "country": "Nigeria",
+  "country_code": "NG",
+  "country_code3": "NGA",
+  "continent": "Africa",
+  "capital": "Abuja",
+  "demonyms": [
+   "Nigerian",
+   "Nigerians"
+  ],
+  "country_aliases": [
+   "Nigeria",
+   "NG"
+  ],
+  "wikiquote_title": "Bola Tinubu",
+  "image": "img/Q3510872.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Nosa Asemota",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Bola_Tinubu_portrait.jpg"
+ },
+ {
+  "id": "Q16905281",
+  "name": "Pak Thae-song",
+  "role": "head of government",
+  "birth_year": 1955,
+  "sitelinks": 26,
+  "country": "North Korea",
+  "country_code": "KP",
+  "country_code3": "PRK",
+  "continent": "Asia",
+  "capital": "Pyongyang",
+  "demonyms": [
+   "North Korean"
+  ],
+  "country_aliases": [
+   "North Korea",
+   "DPRK"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16905281.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "State Duma",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Pak_Thae-song_in_Moscow_(cropped).jpg"
+ },
+ {
+  "id": "Q56226",
+  "name": "Kim Jong-un",
+  "role": "head of state",
+  "birth_year": 1984,
+  "sitelinks": 177,
+  "country": "North Korea",
+  "country_code": "KP",
+  "country_code3": "PRK",
+  "continent": "Asia",
+  "capital": "Pyongyang",
+  "demonyms": [
+   "North Korean"
+  ],
+  "country_aliases": [
+   "North Korea",
+   "DPRK"
+  ],
+  "wikiquote_title": "Kim Jong-un",
+  "image": "img/Q56226.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Владимир Смирнов / ТАСС",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped).jpg"
+ },
+ {
+  "id": "Q46675558",
+  "name": "Hristijan Mickoski",
+  "role": "head of government",
+  "birth_year": 1977,
+  "sitelinks": 37,
+  "country": "North Macedonia",
+  "country_code": "MK",
+  "country_code3": "MKD",
+  "continent": "Europe",
+  "capital": "Skopje",
+  "demonyms": [
+   "Macedonian"
+  ],
+  "country_aliases": [
+   "North Macedonia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q46675558.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Government of North Macedonia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hristijan_Mickoski_official_portrait_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q12277168",
+  "name": "Gordana Siljanovska-Davkova",
+  "role": "head of state",
+  "birth_year": 1953,
+  "sitelinks": 52,
+  "country": "North Macedonia",
+  "country_code": "MK",
+  "country_code3": "MKD",
+  "continent": "Europe",
+  "capital": "Skopje",
+  "demonyms": [
+   "Macedonian"
+  ],
+  "country_aliases": [
+   "North Macedonia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12277168.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Gordana_Siljanovska-Davkova_(2025-05-15).jpg"
+ },
+ {
+  "id": "Q467948",
+  "name": "Jonas Gahr Støre",
+  "role": "head of government",
+  "birth_year": 1960,
+  "sitelinks": 58,
+  "country": "Norway",
+  "country_code": "NO",
+  "country_code3": "NOR",
+  "continent": "Europe",
+  "capital": "Oslo",
+  "demonyms": [
+   "Norwegian"
+  ],
+  "country_aliases": [
+   "Norway"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q467948.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Torbjørn Kjosvold/SMK",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jonas_Gahr_St%C3%B8re_under_%C3%A5pningen_av_det_nye_regjeringskvartalet_130426_(cropped).jpg"
+ },
+ {
+  "id": "Q165241",
+  "name": "Haakon VIII of Norway",
+  "role": "head of state",
+  "birth_year": 1973,
+  "sitelinks": 76,
+  "country": "Norway",
+  "country_code": "NO",
+  "country_code3": "NOR",
+  "continent": "Europe",
+  "capital": "Oslo",
+  "demonyms": [
+   "Norwegian"
+  ],
+  "country_aliases": [
+   "Norway"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q165241.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Birgit Fostervold",
+  "image_page": "https://commons.wikimedia.org/wiki/File:King_Haakon_VIII_arrives_Stortinget_03_(1x3_cropped).jpg"
+ },
+ {
+  "id": "Q12250314",
+  "name": "Haitham bin Tarik Al Said",
+  "role": "head of state",
+  "birth_year": 1955,
+  "sitelinks": 58,
+  "country": "Oman",
+  "country_code": "OM",
+  "country_code3": "OMN",
+  "continent": "Asia",
+  "capital": "Muscat",
+  "demonyms": [
+   "Omani"
+  ],
+  "country_aliases": [
+   "Oman"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12250314.jpg",
+  "image_license": "OGL-om 1.0",
+  "image_artist": "Foreign Ministry of Oman",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_portrait_of_Sultan_Haitham_bin_Tariq_(2021).jpg"
+ },
+ {
+  "id": "Q2096387",
+  "name": "Shehbaz Sharif",
+  "role": "head of government",
+  "birth_year": 1951,
+  "sitelinks": 73,
+  "country": "Pakistan",
+  "country_code": "PK",
+  "country_code3": "PAK",
+  "continent": "Asia",
+  "capital": "Islamabad",
+  "demonyms": [
+   "Pakistani"
+  ],
+  "country_aliases": [
+   "Pakistan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q2096387.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Shehbaz_Sharif_in_2024.jpg"
+ },
+ {
+  "id": "Q57373",
+  "name": "Asif Ali Zardari",
+  "role": "head of state",
+  "birth_year": 1955,
+  "sitelinks": 92,
+  "country": "Pakistan",
+  "country_code": "PK",
+  "country_code3": "PAK",
+  "continent": "Asia",
+  "capital": "Islamabad",
+  "demonyms": [
+   "Pakistani"
+  ],
+  "country_aliases": [
+   "Pakistan"
+  ],
+  "wikiquote_title": "Asif Ali Zardari",
+  "image": "img/Q57373.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Asif_Ali_Zardari_-_2024_(cropped_2).jpg"
+ },
+ {
+  "id": "Q26703072",
+  "name": "Surangel Whipps Jr.",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 35,
+  "country": "Palau",
+  "country_code": "PW",
+  "country_code3": "PLW",
+  "continent": "Oceania",
+  "capital": "Ngerulmud",
+  "demonyms": [
+   "Palauan"
+  ],
+  "country_aliases": [
+   "Palau",
+   "PW"
+  ],
+  "wikiquote_title": "Surangel Whipps Jr.",
+  "image": "img/Q26703072.jpg",
+  "image_license": "CC0",
+  "image_artist": "Government House, Department of the Prime Minister and Cabinet",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Surangel_Whipps_Jr_2026.jpg"
+ },
+ {
+  "id": "Q20423278",
+  "name": "Mohammad Mustafa",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 25,
+  "country": "Palestine",
+  "country_code": "PS",
+  "country_code3": "PSE",
+  "continent": "Asia",
+  "capital": "East Jerusalem",
+  "demonyms": [
+   "Palestinian"
+  ],
+  "country_aliases": [
+   "Palestine"
+  ],
+  "wikiquote_title": "Mohammad Mustafa",
+  "image": "img/Q20423278.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Stemoc",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohammad_Mustafa_July_2026.jpg"
+ },
+ {
+  "id": "Q127998",
+  "name": "Mahmoud Abbas",
+  "role": "head of state",
+  "birth_year": 1935,
+  "sitelinks": 100,
+  "country": "Palestine",
+  "country_code": "PS",
+  "country_code3": "PSE",
+  "continent": "Asia",
+  "capital": "East Jerusalem",
+  "demonyms": [
+   "Palestinian"
+  ],
+  "country_aliases": [
+   "Palestine"
+  ],
+  "wikiquote_title": "Mahmoud Abbas",
+  "image": "img/Q127998.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "kremlin.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Abbas_2026-01-22.jpg"
+ },
+ {
+  "id": "Q108454869",
+  "name": "José Raúl Mulino",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 34,
+  "country": "Panama",
+  "country_code": "PA",
+  "country_code3": "PAN",
+  "continent": "North America",
+  "capital": "Panama City",
+  "demonyms": [
+   "Panamanian"
+  ],
+  "country_aliases": [
+   "Panama"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q108454869.jpg",
+  "image_license": "Public domain",
+  "image_artist": "REPÚBLICA DE COLOMBIA",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Ra%C3%BAl_Mulino_2025.jpg"
+ },
+ {
+  "id": "Q6138903",
+  "name": "James Marape",
+  "role": "head of government",
+  "birth_year": 1971,
+  "sitelinks": 40,
+  "country": "Papua New Guinea",
+  "country_code": "PG",
+  "country_code3": "PNG",
+  "continent": "Oceania",
+  "capital": "Port Moresby",
+  "demonyms": [
+   "Papua New Guinean"
+  ],
+  "country_aliases": [
+   "Papua New Guinea",
+   "PNG"
+  ],
+  "wikiquote_title": "James Marape",
+  "image": "img/Q6138903.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "U.S. Secretary of Defense",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Papua_New_Guinea_Prime_Minister_James_Marape_in_Port_Moresby,_Papua_New_Guinea_on_July_27,_2023_-_230727-D-TT977-0140_(cropped).jpg"
+ },
+ {
+  "id": "Q51885479",
+  "name": "Pedro Alliana",
+  "role": "head of state",
+  "birth_year": 1974,
+  "sitelinks": 22,
+  "country": "Paraguay",
+  "country_code": "PY",
+  "country_code3": "PRY",
+  "continent": "South America",
+  "capital": "Asunción",
+  "demonyms": [
+   "Paraguayan"
+  ],
+  "country_aliases": [
+   "Paraguay"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q51885479.jpg",
+  "image_license": "Public domain",
+  "image_artist": "9364837@N06",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Pedro_Alliana_2026.jpg"
+ },
+ {
+  "id": "Q4414390",
+  "name": "Li Qiang",
+  "role": "head of government",
+  "birth_year": 1959,
+  "sitelinks": 57,
+  "country": "People's Republic of China",
+  "country_code": "CN",
+  "country_code3": "CHN",
+  "continent": "Asia",
+  "capital": "Beijing",
+  "demonyms": [
+   "Chinese"
+  ],
+  "country_aliases": [
+   "People's Republic of China"
+  ],
+  "wikiquote_title": "Li Qiang",
+  "image": "img/Q4414390.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Li_Qiang,_Premier_of_the_People%27s_Republic_of_China_on_October_27,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q15031",
+  "name": "Xi Jinping",
+  "role": "head of state",
+  "birth_year": 1953,
+  "sitelinks": 192,
+  "country": "People's Republic of China",
+  "country_code": "CN",
+  "country_code3": "CHN",
+  "continent": "Asia",
+  "capital": "Beijing",
+  "demonyms": [
+   "Chinese"
+  ],
+  "country_aliases": [
+   "People's Republic of China"
+  ],
+  "wikiquote_title": "Xi Jinping",
+  "image": "img/Q15031.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Presidencia de la República del Ecuador",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Xi_Jinping_on_August_18,_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q235137",
+  "name": "Keiko Fujimori",
+  "role": "head of state",
+  "birth_year": 1975,
+  "sitelinks": 67,
+  "country": "Peru",
+  "country_code": "PE",
+  "country_code3": "PER",
+  "continent": "South America",
+  "capital": "Lima",
+  "demonyms": [
+   "Peruvian"
+  ],
+  "country_aliases": [
+   "Peru"
+  ],
+  "wikiquote_title": "Keiko Fujimori",
+  "image": "img/Q235137.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Ministerio de la Producción",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Keiko_Fujimori,_septiembre_de_2026.jpg"
+ },
+ {
+  "id": "Q983324",
+  "name": "Bongbong Marcos",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 68,
+  "country": "Philippines",
+  "country_code": "PH",
+  "country_code3": "PHL",
+  "continent": "Asia",
+  "capital": "Manila",
+  "demonyms": [
+   "Filipina",
+   "Filipino",
+   "Philippine"
+  ],
+  "country_aliases": [
+   "Philippines",
+   "PH",
+   "RP"
+  ],
+  "wikiquote_title": "Bongbong Marcos",
+  "image": "img/Q983324.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Office of the President of the Philippines",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Portrait_of_President_Ferdinand_R._Marcos,_Jr_(cropped).jpg"
+ },
+ {
+  "id": "Q946",
+  "name": "Donald Tusk",
+  "role": "head of government",
+  "birth_year": 1957,
+  "sitelinks": 111,
+  "country": "Poland",
+  "country_code": "PL",
+  "country_code3": "POL",
+  "continent": "Europe",
+  "capital": "Warsaw",
+  "demonyms": [
+   "Polish"
+  ],
+  "country_aliases": [
+   "Poland"
+  ],
+  "wikiquote_title": "Donald Tusk",
+  "image": "img/Q946.jpg",
+  "image_license": "CC BY 3.0 pl",
+  "image_artist": "The Chancellery of the Prime Minister of the Republic of Poland",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Premier_Donald_Tusk_KPRM.jpg"
+ },
+ {
+  "id": "Q17704749",
+  "name": "Karol Nawrocki",
+  "role": "head of state",
+  "birth_year": 1983,
+  "sitelinks": 74,
+  "country": "Poland",
+  "country_code": "PL",
+  "country_code3": "POL",
+  "continent": "Europe",
+  "capital": "Warsaw",
+  "demonyms": [
+   "Polish"
+  ],
+  "country_aliases": [
+   "Poland"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q17704749.jpg",
+  "image_license": "European Parliament",
+  "image_artist": "Daina LE LARDIC",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Karol_Nawrocki_i_Roberta_Metsola_(2026)_(cropped2).jpg"
+ },
+ {
+  "id": "Q11764394",
+  "name": "Luís Montenegro",
+  "role": "head of government",
+  "birth_year": 1973,
+  "sitelinks": 48,
+  "country": "Portugal",
+  "country_code": "PT",
+  "country_code3": "PRT",
+  "continent": "Europe",
+  "capital": "Lisbon",
+  "demonyms": [
+   "Portuguese"
+  ],
+  "country_aliases": [
+   "Portugal"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q11764394.jpg",
+  "image_license": "Attribution",
+  "image_artist": "European Union",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADs_Montenegro,_2025.06.26_(05)_(cropped).jpg"
+ },
+ {
+  "id": "Q1580316",
+  "name": "António José Seguro",
+  "role": "head of state",
+  "birth_year": 1962,
+  "sitelinks": 42,
+  "country": "Portugal",
+  "country_code": "PT",
+  "country_code3": "PRT",
+  "continent": "Europe",
+  "capital": "Lisbon",
+  "demonyms": [
+   "Portuguese"
+  ],
+  "country_aliases": [
+   "Portugal"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1580316.png",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ant%C3%B3nio_Jos%C3%A9_Seguro_2026-04-21.png"
+ },
+ {
+  "id": "Q23020336",
+  "name": "Mohammed bin Abdulrahman Al Thani",
+  "role": "head of government",
+  "birth_year": 1980,
+  "sitelinks": 30,
+  "country": "Qatar",
+  "country_code": "QA",
+  "country_code3": "QAT",
+  "continent": "Asia",
+  "capital": "Doha",
+  "demonyms": [
+   "Qatari"
+  ],
+  "country_aliases": [
+   "Qatar"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q23020336.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "UK Government",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohammed_bin_Abdulrahman_Al-Thani_of_Qatar_on_25_January_2024_-_2_(cropped).jpg"
+ },
+ {
+  "id": "Q1855372",
+  "name": "Tamim bin Hamad Al Thani",
+  "role": "head of state",
+  "birth_year": 1980,
+  "sitelinks": 77,
+  "country": "Qatar",
+  "country_code": "QA",
+  "country_code3": "QAT",
+  "continent": "Asia",
+  "capital": "Doha",
+  "demonyms": [
+   "Qatari"
+  ],
+  "country_aliases": [
+   "Qatar"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1855372.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Autor: Sergey Bobylev/RIA Novosti",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Tamim_bin_Hamad_Al_Thani_Moscow_2026.jpg"
+ },
+ {
+  "id": "Q4752077",
+  "name": "Anatole Collinet Makosso",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 23,
+  "country": "Republic of the Congo",
+  "country_code": "CG",
+  "country_code3": "COG",
+  "continent": "Africa",
+  "capital": "Brazzaville",
+  "demonyms": [
+   "Congolese"
+  ],
+  "country_aliases": [
+   "Republic of the Congo",
+   "Congo"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q4752077.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Christophe Licoppe / European Union, 2022",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Anatole_Collinet_Makosso_2022_(cropped).jpg"
+ },
+ {
+  "id": "Q57418",
+  "name": "Denis Sassou-Nguesso",
+  "role": "head of state",
+  "birth_year": 1943,
+  "sitelinks": 78,
+  "country": "Republic of the Congo",
+  "country_code": "CG",
+  "country_code3": "COG",
+  "continent": "Africa",
+  "capital": "Brazzaville",
+  "demonyms": [
+   "Congolese"
+  ],
+  "country_aliases": [
+   "Republic of the Congo",
+   "Congo"
+  ],
+  "wikiquote_title": "Denis Sassou Nguesso",
+  "image": "img/Q57418.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Presidential Executive Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Denis_Sassou_Nguesso_on_April_29,_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q121140873",
+  "name": "Luca Niculescu",
+  "role": "head of government",
+  "birth_year": 1971,
+  "sitelinks": 12,
+  "country": "Romania",
+  "country_code": "RO",
+  "country_code3": "ROU",
+  "continent": "Europe",
+  "capital": "Bucharest",
+  "demonyms": [
+   "Romanian"
+  ],
+  "country_aliases": [
+   "Romania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q121140873.jpg",
+  "image_license": "Attribution",
+  "image_artist": "gov.ro (Romanian Government)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:First_press_conference_of_PM_Luca_Niculescu_(cropped).jpg"
+ },
+ {
+  "id": "Q11163124",
+  "name": "Nicușor Dan",
+  "role": "head of state",
+  "birth_year": 1969,
+  "sitelinks": 58,
+  "country": "Romania",
+  "country_code": "RO",
+  "country_code3": "ROU",
+  "continent": "Europe",
+  "capital": "Bucharest",
+  "demonyms": [
+   "Romanian"
+  ],
+  "country_aliases": [
+   "Romania"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q11163124.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Embassy Romania",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nicusor_Dan_in_2026.jpg"
+ },
+ {
+  "id": "Q4298520",
+  "name": "Mikhail Mishustin",
+  "role": "head of government",
+  "birth_year": 1966,
+  "sitelinks": 88,
+  "country": "Russia",
+  "country_code": "RU",
+  "country_code3": "RUS",
+  "continent": "Europe",
+  "capital": "Moscow",
+  "demonyms": [
+   "Russian"
+  ],
+  "country_aliases": [
+   "Russia"
+  ],
+  "wikiquote_title": "Mikhail Mishustin",
+  "image": "img/Q4298520.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "duma.gov.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mikhail_Mishustin_(2026-02-25).jpg"
+ },
+ {
+  "id": "Q7747",
+  "name": "Vladimir Putin",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 317,
+  "country": "Russia",
+  "country_code": "RU",
+  "country_code3": "RUS",
+  "continent": "Europe",
+  "capital": "Moscow",
+  "demonyms": [
+   "Russian"
+  ],
+  "country_aliases": [
+   "Russia"
+  ],
+  "wikiquote_title": "Vladimir Putin",
+  "image": "img/Q7747.png",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Пресс-служба Президента России",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Putin_V_2026_08_10.png"
+ },
+ {
+  "id": "Q135454730",
+  "name": "Justin Nsengiyumva",
+  "role": "head of government",
+  "birth_year": 1971,
+  "sitelinks": 12,
+  "country": "Rwanda",
+  "country_code": "RW",
+  "country_code3": "RWA",
+  "continent": "Africa",
+  "capital": "Kigali",
+  "demonyms": [
+   "Rwandan",
+   "Rwandese"
+  ],
+  "country_aliases": [
+   "Rwanda"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q135454730.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "BTN TV Rwanda",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Justin_Nsengiyumva_in_June_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q1231345",
+  "name": "Paul Kagame",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 94,
+  "country": "Rwanda",
+  "country_code": "RW",
+  "country_code3": "RWA",
+  "continent": "Africa",
+  "capital": "Kigali",
+  "demonyms": [
+   "Rwandan",
+   "Rwandese"
+  ],
+  "country_aliases": [
+   "Rwanda"
+  ],
+  "wikiquote_title": "Paul Kagame",
+  "image": "img/Q1231345.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Saeima",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Paul_Kagame_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q113443525",
+  "name": "Terrance Drew",
+  "role": "head of government",
+  "birth_year": 1976,
+  "sitelinks": 26,
+  "country": "Saint Kitts and Nevis",
+  "country_code": "KN",
+  "country_code3": "KNA",
+  "continent": "North America",
+  "capital": "Basseterre",
+  "demonyms": [
+   "Kittitian",
+   "Nevisian"
+  ],
+  "country_aliases": [
+   "Saint Kitts and Nevis"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q113443525.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Ministry of Foreign Affairs, Republic of China (Taiwan)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Terrance_Drew_2022.jpg"
+ },
+ {
+  "id": "Q7184214",
+  "name": "Philip J. Pierre",
+  "role": "head of government",
+  "birth_year": 1954,
+  "sitelinks": 34,
+  "country": "Saint Lucia",
+  "country_code": "LC",
+  "country_code3": "LCA",
+  "continent": "North America",
+  "capital": "Castries",
+  "demonyms": [
+   "Saint Lucian"
+  ],
+  "country_aliases": [
+   "Saint Lucia"
+  ],
+  "wikiquote_title": "Philip J. Pierre",
+  "image": "img/Q7184214.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Philip_Pierre_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q28319076",
+  "name": "Godwin Friday",
+  "role": "head of government",
+  "birth_year": 1959,
+  "sitelinks": 17,
+  "country": "Saint Vincent and the Grenadines",
+  "country_code": "VC",
+  "country_code3": "VCT",
+  "continent": "North America",
+  "capital": "Kingstown",
+  "demonyms": [
+   "Saint Vincentian",
+   "Saint Vincentians",
+   "Vincentian",
+   "Vincentians",
+   "Vincy"
+  ],
+  "country_aliases": [
+   "Saint Vincent and the Grenadines"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q28319076.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Taiwan Presidential Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Godwin_Friday_2026.jpg"
+ },
+ {
+  "id": "Q5446290",
+  "name": "Fiamē Naomi Mataʻafa",
+  "role": "head of government",
+  "birth_year": 1957,
+  "sitelinks": 38,
+  "country": "Samoa",
+  "country_code": "WS",
+  "country_code3": "WSM",
+  "continent": "Oceania",
+  "capital": "Apia",
+  "demonyms": [
+   "Samoan"
+  ],
+  "country_aliases": [
+   "Samoa"
+  ],
+  "wikiquote_title": "Fiamē Naomi Mata'afa",
+  "image": "img/Q5446290.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Number 10",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Fiam%C4%93_Naomi_Mata%CA%BBafa_in_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q32014514",
+  "name": "Va'aletoa Sualauvi II",
+  "role": "head of state",
+  "birth_year": 1947,
+  "sitelinks": 32,
+  "country": "Samoa",
+  "country_code": "WS",
+  "country_code3": "WSM",
+  "continent": "Oceania",
+  "capital": "Apia",
+  "demonyms": [
+   "Samoan"
+  ],
+  "country_aliases": [
+   "Samoa"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q32014514.jpg",
+  "image_license": "CC0",
+  "image_artist": "Government House, Department of the Prime Minister and Cabinet",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Va%27aleto%27a_Sualauvi_II_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q57546",
+  "name": "Denise Bronzetti",
+  "role": "head of state",
+  "birth_year": 1972,
+  "sitelinks": 18,
+  "country": "San Marino",
+  "country_code": "SM",
+  "country_code3": "SMR",
+  "continent": "Europe",
+  "capital": "San Marino",
+  "demonyms": [
+   "Sammarinese"
+  ],
+  "country_aliases": [
+   "San Marino"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57546.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Marco Zeppetella",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Denise_Bronzetti.jpg"
+ },
+ {
+  "id": "Q367825",
+  "name": "Salman bin Abdulaziz Al Saud",
+  "role": "head of state",
+  "birth_year": 1935,
+  "sitelinks": 103,
+  "country": "Saudi Arabia",
+  "country_code": "SA",
+  "country_code3": "SAU",
+  "continent": "Asia",
+  "capital": "Riyadh",
+  "demonyms": [],
+  "country_aliases": [
+   "Saudi Arabia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q367825.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Saudi Press Agency (SPA)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%84%D8%AE%D8%A7%D8%AF%D9%85_%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86_%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D9%81%D9%8A%D9%86_%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF.jpg"
+ },
+ {
+  "id": "Q124382437",
+  "name": "Bassirou Diomaye Faye",
+  "role": "head of state",
+  "birth_year": 1980,
+  "sitelinks": 46,
+  "country": "Senegal",
+  "country_code": "SN",
+  "country_code3": "SEN",
+  "continent": "Africa",
+  "capital": "Dakar",
+  "demonyms": [
+   "Senegalese"
+  ],
+  "country_aliases": [
+   "Senegal"
+  ],
+  "wikiquote_title": "Bassirou Diomaye Faye",
+  "image": "img/Q124382437.jpg",
+  "image_license": "Public domain",
+  "image_artist": "The White House (Official White House Photo by Molly Riley); cropped by Brühl",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Bassirou_Diomaye_Faye_9_juillet_2025_Washington_DC_(cropped).jpg"
+ },
+ {
+  "id": "Q42478807",
+  "name": "Đuro Macut",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 29,
+  "country": "Serbia",
+  "country_code": "RS",
+  "country_code3": "SRB",
+  "continent": "Europe",
+  "capital": "Belgrade",
+  "demonyms": [
+   "Serbian"
+  ],
+  "country_aliases": [
+   "Serbia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q42478807.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Vlada APV",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%C4%90uro_Macut_in_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q26258815",
+  "name": "Ana Brnabić",
+  "role": "head of state",
+  "birth_year": 1975,
+  "sitelinks": 74,
+  "country": "Serbia",
+  "country_code": "RS",
+  "country_code3": "SRB",
+  "continent": "Europe",
+  "capital": "Belgrade",
+  "demonyms": [
+   "Serbian"
+  ],
+  "country_aliases": [
+   "Serbia"
+  ],
+  "wikiquote_title": "Ana Brnabić",
+  "image": "img/Q26258815.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Jennifer Jacquemart/Service audiovisuel",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ana_Brnabi%C4%87_in_2026_3x4_(cropped).jpg"
+ },
+ {
+  "id": "Q16190544",
+  "name": "Patrick Herminie",
+  "role": "head of state",
+  "birth_year": 1963,
+  "sitelinks": 22,
+  "country": "Seychelles",
+  "country_code": "SC",
+  "country_code3": "SYC",
+  "continent": "Africa",
+  "capital": "Victoria",
+  "demonyms": [
+   "Seychellois",
+   "Seychelloise"
+  ],
+  "country_aliases": [
+   "Seychelles"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16190544.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "State House",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Patrick_Herminie_-_President_of_Seychelles_(cropped).jpg"
+ },
+ {
+  "id": "Q23728768",
+  "name": "David Sengeh",
+  "role": "head of government",
+  "birth_year": 1986,
+  "sitelinks": 13,
+  "country": "Sierra Leone",
+  "country_code": "SL",
+  "country_code3": "SLE",
+  "continent": "Africa",
+  "capital": "Freetown",
+  "demonyms": [
+   "Sierra Leonean"
+  ],
+  "country_aliases": [
+   "Sierra Leone"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q23728768.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Joi Ito",
+  "image_page": "https://commons.wikimedia.org/wiki/File:David_Moinina_Sengeh_in_Boston_in_2013_(cropped).jpg"
+ },
+ {
+  "id": "Q283829",
+  "name": "Julius Maada Bio",
+  "role": "head of state",
+  "birth_year": 1964,
+  "sitelinks": 44,
+  "country": "Sierra Leone",
+  "country_code": "SL",
+  "country_code3": "SLE",
+  "continent": "Africa",
+  "capital": "Freetown",
+  "demonyms": [
+   "Sierra Leonean"
+  ],
+  "country_aliases": [
+   "Sierra Leone"
+  ],
+  "wikiquote_title": "Julius Maada Bio",
+  "image": "img/Q283829.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "European Commission",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Julius_Maada_Bio_-_2023_(cropped).jpg"
+ },
+ {
+  "id": "Q6504758",
+  "name": "Lawrence Wong",
+  "role": "head of government",
+  "birth_year": 1972,
+  "sitelinks": 49,
+  "country": "Singapore",
+  "country_code": "SG",
+  "country_code3": "SGP",
+  "continent": "Asia",
+  "capital": "Singapore",
+  "demonyms": [
+   "Singaporean"
+  ],
+  "country_aliases": [
+   "Singapore"
+  ],
+  "wikiquote_title": "Lawrence Wong",
+  "image": "img/Q6504758.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Presidencia de la República del Ecuador",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Lawrence_Wong,_August_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q983752",
+  "name": "Tharman Shanmugaratnam",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 49,
+  "country": "Singapore",
+  "country_code": "SG",
+  "country_code3": "SGP",
+  "continent": "Asia",
+  "capital": "Singapore",
+  "demonyms": [
+   "Singaporean"
+  ],
+  "country_aliases": [
+   "Singapore"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q983752.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Mohd Fyrol Anwar Aziz Marican, Lim Sin Thai",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Tharman_Shanmugaratnam_Official_photo_2023.tif"
+ },
+ {
+  "id": "Q57606",
+  "name": "Robert Fico",
+  "role": "head of government",
+  "birth_year": 1964,
+  "sitelinks": 89,
+  "country": "Slovakia",
+  "country_code": "SK",
+  "country_code3": "SVK",
+  "continent": "Europe",
+  "capital": "Bratislava",
+  "demonyms": [
+   "Slovak"
+  ],
+  "country_aliases": [
+   "Slovakia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57606.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Gage Skidmore from Surprise, AZ, United States of America",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robert_Fico_(54359433078)_(cropped).jpg"
+ },
+ {
+  "id": "Q17330556",
+  "name": "Peter Pellegrini",
+  "role": "head of state",
+  "birth_year": 1975,
+  "sitelinks": 63,
+  "country": "Slovakia",
+  "country_code": "SK",
+  "country_code3": "SVK",
+  "continent": "Europe",
+  "capital": "Bratislava",
+  "demonyms": [
+   "Slovak"
+  ],
+  "country_aliases": [
+   "Slovakia"
+  ],
+  "wikiquote_title": "Peter Pellegrini",
+  "image": "img/Q17330556.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Xavier Lejeune",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Peter_Pellegrini,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q57627",
+  "name": "Janez Janša",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 71,
+  "country": "Slovenia",
+  "country_code": "SI",
+  "country_code3": "SVN",
+  "continent": "Europe",
+  "capital": "Ljubljana",
+  "demonyms": [
+   "Slovene",
+   "Slovenian"
+  ],
+  "country_aliases": [
+   "Slovenia"
+  ],
+  "wikiquote_title": "Janez Janša",
+  "image": "img/Q57627.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Vlada Republike Slovenije",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Janez_Jan%C5%A1a_official_portrait_2026_(cropped_3).jpg"
+ },
+ {
+  "id": "Q12797332",
+  "name": "Nataša Pirc Musar",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 55,
+  "country": "Slovenia",
+  "country_code": "SI",
+  "country_code3": "SVN",
+  "continent": "Europe",
+  "capital": "Ljubljana",
+  "demonyms": [
+   "Slovene",
+   "Slovenian"
+  ],
+  "country_aliases": [
+   "Slovenia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12797332.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Borut Živulovič",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Nata%C5%A1a_Pirc_Musar_2026.jpg"
+ },
+ {
+  "id": "Q6180897",
+  "name": "Jeremiah Manele",
+  "role": "head of government",
+  "birth_year": 1968,
+  "sitelinks": 28,
+  "country": "Solomon Islands",
+  "country_code": "SB",
+  "country_code3": "SLB",
+  "continent": "Oceania",
+  "capital": "Honiara",
+  "demonyms": [
+   "Solomon Islander",
+   "Solomon Islands"
+  ],
+  "country_aliases": [
+   "Solomon Islands"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q6180897.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Daniel Walding /DFAT",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jeremiah_Manele_January_2026.jpg"
+ },
+ {
+  "id": "Q112598575",
+  "name": "Hamza Abdi Barre",
+  "role": "head of government",
+  "birth_year": 1972,
+  "sitelinks": 23,
+  "country": "Somalia",
+  "country_code": "SO",
+  "country_code3": "SOM",
+  "continent": "Africa",
+  "capital": "Mogadishu",
+  "demonyms": [
+   "Somali",
+   "Somalian"
+  ],
+  "country_aliases": [
+   "Somalia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q112598575.jpg",
+  "image_license": "CC0",
+  "image_artist": "Atmis Somalia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hamza_Abdi_Barre.jpg"
+ },
+ {
+  "id": "Q319153",
+  "name": "Hassan Sheikh Mohamud",
+  "role": "head of state",
+  "birth_year": 1955,
+  "sitelinks": 55,
+  "country": "Somalia",
+  "country_code": "SO",
+  "country_code3": "SOM",
+  "continent": "Africa",
+  "capital": "Mogadishu",
+  "demonyms": [
+   "Somali",
+   "Somalian"
+  ],
+  "country_aliases": [
+   "Somalia"
+  ],
+  "wikiquote_title": "Hassan Sheikh Mohamud",
+  "image": "img/Q319153.jpg",
+  "image_license": "Public domain",
+  "image_artist": "United States State Department",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hassan_Sheikh_Mohamud--StateDept_Portrait--_(cropped).jpg"
+ },
+ {
+  "id": "Q1148669",
+  "name": "Cyril Ramaphosa",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 99,
+  "country": "South Africa",
+  "country_code": "ZA",
+  "country_code3": "ZAF",
+  "continent": "Africa",
+  "capital": "Bloemfontein",
+  "demonyms": [
+   "South African"
+  ],
+  "country_aliases": [
+   "South Africa",
+   "RSA"
+  ],
+  "wikiquote_title": "Cyril Ramaphosa",
+  "image": "img/Q1148669.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Ricardo Stuckert",
+  "image_page": "https://commons.wikimedia.org/wiki/File:21.11.2025_%E2%80%93_Presidente_da_Rep%C3%BAblica_da_%C3%81frica_do_Sul,_Cyril_Ramaphosa_(54938010569)_(cropped).jpg"
+ },
+ {
+  "id": "Q55082182",
+  "name": "Han Seong-sook",
+  "role": "head of government",
+  "birth_year": 1967,
+  "sitelinks": 20,
+  "country": "South Korea",
+  "country_code": "KR",
+  "country_code3": "KOR",
+  "continent": "Asia",
+  "capital": "Seoul",
+  "demonyms": [
+   "South Korean"
+  ],
+  "country_aliases": [
+   "South Korea",
+   "ROK"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q55082182.jpg",
+  "image_license": "KOGL Type 1",
+  "image_artist": "대한민국 국회",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Han_Seong-sook_20260707.jpg"
+ },
+ {
+  "id": "Q12612463",
+  "name": "Lee Jae Myung",
+  "role": "head of state",
+  "birth_year": 1963,
+  "sitelinks": 61,
+  "country": "South Korea",
+  "country_code": "KR",
+  "country_code3": "KOR",
+  "continent": "Asia",
+  "capital": "Seoul",
+  "demonyms": [
+   "South Korean"
+  ],
+  "country_aliases": [
+   "South Korea",
+   "ROK"
+  ],
+  "wikiquote_title": "Lee Jae Myung",
+  "image": "img/Q12612463.jpg",
+  "image_license": "CC BY-SA 2.0",
+  "image_artist": "Republic of Korea from Seoul, Republic of Korea",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_Lee_Jae-myung_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q57315",
+  "name": "Salva Kiir Mayardit",
+  "role": "head of state",
+  "birth_year": 1951,
+  "sitelinks": 76,
+  "country": "South Sudan",
+  "country_code": "SS",
+  "country_code3": "SSD",
+  "continent": "Africa",
+  "capital": "Juba",
+  "demonyms": [
+   "South Sudanese"
+  ],
+  "country_aliases": [
+   "South Sudan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57315.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Presidential Press and Information Office of Russia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Salva_Kiir_at_the_Kremlin_(2026-10-30)_(cropped).jpg"
+ },
+ {
+  "id": "Q6070218",
+  "name": "Pedro Sánchez",
+  "role": "head of government",
+  "birth_year": 1972,
+  "sitelinks": 102,
+  "country": "Spain",
+  "country_code": "ES",
+  "country_code3": "ESP",
+  "continent": "Europe",
+  "capital": "Madrid",
+  "demonyms": [
+   "Spaniard",
+   "Spanish"
+  ],
+  "country_aliases": [
+   "Spain"
+  ],
+  "wikiquote_title": "Pedro Sánchez",
+  "image": "img/Q6070218.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Foto: Nebojša Tejić/STA",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Obisk_%C5%A1panskega_predsednika_vlade_v_Sloveniji_(53658605930)_(cropped).jpg"
+ },
+ {
+  "id": "Q191045",
+  "name": "Felipe VI of Spain",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 120,
+  "country": "Spain",
+  "country_code": "ES",
+  "country_code3": "ESP",
+  "continent": "Europe",
+  "capital": "Madrid",
+  "demonyms": [
+   "Spaniard",
+   "Spanish"
+  ],
+  "country_aliases": [
+   "Spain"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q191045.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Bryan Berlin",
+  "image_page": "https://commons.wikimedia.org/wiki/File:King_Felipe_VI_Argentina_v_Spain_19_July_2026-308.jpg"
+ },
+ {
+  "id": "Q98298397",
+  "name": "Harini Amarasuriya",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 31,
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "country_code3": "LKA",
+  "continent": "Asia",
+  "capital": "Colombo",
+  "demonyms": [
+   "Sri Lankan"
+  ],
+  "country_aliases": [
+   "Sri Lanka"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q98298397.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Delegation of the European Union to Sri Lanka and the Maldives",
+  "image_page": "https://commons.wikimedia.org/wiki/File:PM_Harini_(profile).jpg"
+ },
+ {
+  "id": "Q4777855",
+  "name": "Anura Kurankan Dissanayake",
+  "role": "head of state",
+  "birth_year": 1968,
+  "sitelinks": 50,
+  "country": "Sri Lanka",
+  "country_code": "LK",
+  "country_code3": "LKA",
+  "continent": "Asia",
+  "capital": "Colombo",
+  "demonyms": [
+   "Sri Lankan"
+  ],
+  "country_aliases": [
+   "Sri Lanka"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q4777855.jpg",
+  "image_license": "GODL-India",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Dissanayake_2026.jpg"
+ },
+ {
+  "id": "Q27654948",
+  "name": "Abdalla Hamdok",
+  "role": "head of government",
+  "birth_year": 1956,
+  "sitelinks": 44,
+  "country": "Sudan",
+  "country_code": "SD",
+  "country_code3": "SDN",
+  "continent": "Africa",
+  "capital": "Khartoum",
+  "demonyms": [
+   "Sudanese"
+  ],
+  "country_aliases": [
+   "Sudan"
+  ],
+  "wikiquote_title": "Abdalla Hamdok",
+  "image": "img/Q27654948.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Office of USAID Administrator",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mark_Green_and_Abdalla_Hamdok_at_USAID_HQ_(2)_(cropped).jpg"
+ },
+ {
+  "id": "Q63111184",
+  "name": "Abdel Fattah al-Burhan",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 48,
+  "country": "Sudan",
+  "country_code": "SD",
+  "country_code3": "SDN",
+  "continent": "Africa",
+  "capital": "Khartoum",
+  "demonyms": [
+   "Sudanese"
+  ],
+  "country_aliases": [
+   "Sudan"
+  ],
+  "wikiquote_title": "Abdel Fattah al-Burhan",
+  "image": "img/Q63111184.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Abdel_Fattah_al-Burhan_in_April_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q440403",
+  "name": "Jennifer Geerlings-Simons",
+  "role": "head of state",
+  "birth_year": 1953,
+  "sitelinks": 39,
+  "country": "Suriname",
+  "country_code": "SR",
+  "country_code3": "SUR",
+  "continent": "South America",
+  "capital": "Paramaribo",
+  "demonyms": [
+   "Surinamese"
+  ],
+  "country_aliases": [
+   "Suriname"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q440403.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Jennifer_Geerlings-Simons,_November_2025.jpg"
+ },
+ {
+  "id": "Q1780398",
+  "name": "Ulf Kristersson",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 67,
+  "country": "Sweden",
+  "country_code": "SE",
+  "country_code3": "SWE",
+  "continent": "Europe",
+  "capital": "Stockholm",
+  "demonyms": [
+   "Swedish"
+  ],
+  "country_aliases": [
+   "Sweden"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1780398.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "European Commission (Christophe Licoppe)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ulf_Kristersson_on_29_June_2023.jpg"
+ },
+ {
+  "id": "Q45068",
+  "name": "Carl XVI Gustaf of Sweden",
+  "role": "head of state",
+  "birth_year": 1946,
+  "sitelinks": 103,
+  "country": "Sweden",
+  "country_code": "SE",
+  "country_code3": "SWE",
+  "continent": "Europe",
+  "capital": "Stockholm",
+  "demonyms": [
+   "Swedish"
+  ],
+  "country_aliases": [
+   "Sweden"
+  ],
+  "wikiquote_title": "Carl XVI Gustaf of Sweden",
+  "image": "img/Q45068.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:06.11.2025_%E2%80%93_Recep%C3%A7%C3%A3o_Oficial_dos_Chefes_de_Delega%C3%A7%C3%A3o_da_C%C3%BApula_do_Clima_(54906269035)_(Carlos_XVI_Gustavo).jpg"
+ },
+ {
+  "id": "Q7934206",
+  "name": "Ahmed al-Sharaa",
+  "role": "head of state",
+  "birth_year": 1982,
+  "sitelinks": 82,
+  "country": "Syria",
+  "country_code": "SY",
+  "country_code3": "SYR",
+  "continent": "Asia",
+  "capital": "Damascus",
+  "demonyms": [
+   "Syrian"
+  ],
+  "country_aliases": [
+   "Syria"
+  ],
+  "wikiquote_title": "Ahmed al-Sharaa",
+  "image": "img/Q7934206.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Original photo by Foreign, Commonwealth & Development Office , used under CC BY 4.0. Cropped by HurricaneEdgar .",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Ahmed_al-Sharaa,_President_of_Syria,_in_March_2026.jpg"
+ },
+ {
+  "id": "Q131749390",
+  "name": "Américo Ramos",
+  "role": "head of government",
+  "birth_year": 1966,
+  "sitelinks": 11,
+  "country": "São Tomé and Príncipe",
+  "country_code": "ST",
+  "country_code3": "STP",
+  "continent": "Africa",
+  "capital": "São Tomé",
+  "demonyms": [
+   "Santomean",
+   "Sao Tomean",
+   "Sao Tomeans",
+   "São Toméan",
+   "São Toméans"
+  ],
+  "country_aliases": [
+   "São Tomé and Príncipe"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q131749390.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Óscar Medeiros (VOA)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Am%C3%A9rico_Ramos_(14-01-2025).jpg"
+ },
+ {
+  "id": "Q27982047",
+  "name": "Carlos Vila Nova",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 36,
+  "country": "São Tomé and Príncipe",
+  "country_code": "ST",
+  "country_code3": "STP",
+  "continent": "Africa",
+  "capital": "São Tomé",
+  "demonyms": [
+   "Santomean",
+   "Sao Tomean",
+   "Sao Tomeans",
+   "São Toméan",
+   "São Toméans"
+  ],
+  "country_aliases": [
+   "São Tomé and Príncipe"
+  ],
+  "wikiquote_title": "Carlos Vila Nova",
+  "image": "img/Q27982047.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "ITU Pictures",
+  "image_page": "https://commons.wikimedia.org/wiki/File:WSIS_FORUM_2015_Day_2_-_Carlos_Vila_Nova_(cropped).jpg"
+ },
+ {
+  "id": "Q5116472",
+  "name": "Cho Jung-tai",
+  "role": "head of government",
+  "birth_year": 1959,
+  "sitelinks": 25,
+  "country": "Taiwan",
+  "country_code": "TW",
+  "country_code3": "TWN",
+  "continent": "Asia",
+  "capital": "Taipei",
+  "demonyms": [
+   "Taiwan",
+   "Taiwanese",
+   "taiwanese"
+  ],
+  "country_aliases": [
+   "Taiwan",
+   "ROC"
+  ],
+  "wikiquote_title": "Cho Jung-tai",
+  "image": "img/Q5116472.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "總統府",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%E8%A1%8C%E6%94%BF%E9%99%A2%E9%95%B7_%E5%8D%93%E6%A6%AE%E6%B3%B0.jpg"
+ },
+ {
+  "id": "Q3847080",
+  "name": "Lai Ching-te",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 67,
+  "country": "Taiwan",
+  "country_code": "TW",
+  "country_code3": "TWN",
+  "continent": "Asia",
+  "capital": "Taipei",
+  "demonyms": [
+   "Taiwan",
+   "Taiwanese",
+   "taiwanese"
+  ],
+  "country_aliases": [
+   "Taiwan",
+   "ROC"
+  ],
+  "wikiquote_title": "William Lai",
+  "image": "img/Q3847080.jpg",
+  "image_license": "Attribution",
+  "image_artist": "總統府",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%E8%B3%B4%E6%B8%85%E5%BE%B7%E7%B8%BD%E7%B5%B1_1.jpg"
+ },
+ {
+  "id": "Q15222839",
+  "name": "Kokhir Rasulzoda",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 40,
+  "country": "Tajikistan",
+  "country_code": "TJ",
+  "country_code3": "TJK",
+  "continent": "Asia",
+  "capital": "Dushanbe",
+  "demonyms": [
+   "Tajikistani"
+  ],
+  "country_aliases": [
+   "Tajikistan"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q15222839.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Russian Government, Press Service",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kokhir_Rasulzoda.jpg"
+ },
+ {
+  "id": "Q57366",
+  "name": "Emomali Rahmon",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 90,
+  "country": "Tajikistan",
+  "country_code": "TJ",
+  "country_code3": "TJK",
+  "continent": "Asia",
+  "capital": "Dushanbe",
+  "demonyms": [
+   "Tajikistani"
+  ],
+  "country_aliases": [
+   "Tajikistan"
+  ],
+  "wikiquote_title": "Emomali Rahmon",
+  "image": "img/Q57366.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Masato Kanda",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Emomali_Rahmon_in_2026.jpg"
+ },
+ {
+  "id": "Q16193885",
+  "name": "Samia Suluhu Hassan",
+  "role": "head of state",
+  "birth_year": 1960,
+  "sitelinks": 77,
+  "country": "Tanzania",
+  "country_code": "TZ",
+  "country_code3": "TZA",
+  "continent": "Africa",
+  "capital": "Dodoma",
+  "demonyms": [
+   "Tanzanian"
+  ],
+  "country_aliases": [
+   "Tanzania"
+  ],
+  "wikiquote_title": "Samia Suluhu Hassan",
+  "image": "img/Q16193885.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Kremlin.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Samia_Suluhu_at_the_XXIX_St_Petersburg_International_Economic_Forum_-_2026_(cropped).jpg"
+ },
+ {
+  "id": "Q13026319",
+  "name": "Paetongtarn Shinawatra",
+  "role": "head of government",
+  "birth_year": 1986,
+  "sitelinks": 63,
+  "country": "Thailand",
+  "country_code": "TH",
+  "country_code3": "THA",
+  "continent": "Asia",
+  "capital": "Bangkok",
+  "demonyms": [
+   "Thai"
+  ],
+  "country_aliases": [
+   "Thailand"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q13026319.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "首相官邸ホームページ",
+  "image_page": "https://commons.wikimedia.org/wiki/File:PM_Paetongtarn_of_Thailand_(2024)_(cropped-4).jpg"
+ },
+ {
+  "id": "Q548733",
+  "name": "Rama X of Thailand",
+  "role": "head of state",
+  "birth_year": 1952,
+  "sitelinks": 105,
+  "country": "Thailand",
+  "country_code": "TH",
+  "country_code3": "THA",
+  "continent": "Asia",
+  "capital": "Bangkok",
+  "demonyms": [
+   "Thai"
+  ],
+  "country_aliases": [
+   "Thailand"
+  ],
+  "wikiquote_title": "Vajiralongkorn",
+  "image": "img/Q548733.png",
+  "image_license": "CC BY 3.0 th",
+  "image_artist": "The Public Relations Department (กรมประชาสัมพันธ์)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:King_Rama_X_official_(crop).png"
+ },
+ {
+  "id": "Q7183082",
+  "name": "Philip \"Brave\" Davis",
+  "role": "head of government",
+  "birth_year": 1951,
+  "sitelinks": 30,
+  "country": "The Bahamas",
+  "country_code": "BS",
+  "country_code3": "BHS",
+  "continent": "North America",
+  "capital": "Nassau",
+  "demonyms": [
+   "Bahamian"
+  ],
+  "country_aliases": [
+   "The Bahamas"
+  ],
+  "wikiquote_title": "Philip Davis",
+  "image": "img/Q7183082.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Palácio do Planalto from Brasilia, Brasil",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Philip_Davis_in_2022.jpg"
+ },
+ {
+  "id": "Q27917049",
+  "name": "Adama Barrow",
+  "role": "head of state",
+  "birth_year": 1965,
+  "sitelinks": 62,
+  "country": "The Gambia",
+  "country_code": "GM",
+  "country_code3": "GMB",
+  "continent": "Africa",
+  "capital": "Banjul",
+  "demonyms": [
+   "Gambian"
+  ],
+  "country_aliases": [
+   "The Gambia"
+  ],
+  "wikiquote_title": "Adama Barrow",
+  "image": "img/Q27917049.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Марсель Бадышкин",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Adama_Barrow_at_the_15th_OIC_Summit.jpg"
+ },
+ {
+  "id": "Q11509",
+  "name": "Xanana Gusmão",
+  "role": "head of government",
+  "birth_year": 1946,
+  "sitelinks": 61,
+  "country": "Timor-Leste",
+  "country_code": "TL",
+  "country_code3": "TLS",
+  "continent": "Asia",
+  "capital": "Dili",
+  "demonyms": [
+   "East Timorese"
+  ],
+  "country_aliases": [
+   "Timor-Leste"
+  ],
+  "wikiquote_title": "Xanana Gusmão",
+  "image": "img/Q11509.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Antonio Cruz/ABr",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Xanana_2011.jpg"
+ },
+ {
+  "id": "Q11665",
+  "name": "José Ramos-Horta",
+  "role": "head of state",
+  "birth_year": 1949,
+  "sitelinks": 76,
+  "country": "Timor-Leste",
+  "country_code": "TL",
+  "country_code3": "TLS",
+  "continent": "Asia",
+  "capital": "Dili",
+  "demonyms": [
+   "East Timorese"
+  ],
+  "country_aliases": [
+   "Timor-Leste"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q11665.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Ministro da Defesa Dr. Filomeno da Paixão de Jesus",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2022-05-20_Jos%C3%A9_Ramos-Horta.jpg"
+ },
+ {
+  "id": "Q4414",
+  "name": "Faure Essozimna Gnassingbé",
+  "role": "head of government",
+  "birth_year": 1966,
+  "sitelinks": 68,
+  "country": "Togo",
+  "country_code": "TG",
+  "country_code3": "TGO",
+  "continent": "Africa",
+  "capital": "Lomé",
+  "demonyms": [
+   "Togolese"
+  ],
+  "country_aliases": [
+   "Togo"
+  ],
+  "wikiquote_title": "Faure Gnassingbé",
+  "image": "img/Q4414.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:President_of_Togo_Faure_Gnassingb%C3%A9_on_November_13,_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q6169516",
+  "name": "Jean-Lucien Savi de Tové",
+  "role": "head of state",
+  "birth_year": 1939,
+  "sitelinks": 24,
+  "country": "Togo",
+  "country_code": "TG",
+  "country_code3": "TGO",
+  "continent": "Africa",
+  "capital": "Lomé",
+  "demonyms": [
+   "Togolese"
+  ],
+  "country_aliases": [
+   "Togo"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q6169516.jpg",
+  "image_license": "CC BY-SA 3.0 de",
+  "image_artist": "Magnussen, Friedrich (1914-1987)",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Amtseinf%C3%BChrung_Konsul_von_Togo_(cropped).jpg"
+ },
+ {
+  "id": "Q5437258",
+  "name": "Fatafehi Fakafānua, 8th Lord Fakafānua",
+  "role": "head of government",
+  "birth_year": 1985,
+  "sitelinks": 27,
+  "country": "Tonga",
+  "country_code": "TO",
+  "country_code3": "TON",
+  "continent": "Oceania",
+  "capital": "Nukuʻalofa",
+  "demonyms": [
+   "Tongan"
+  ],
+  "country_aliases": [
+   "Tonga"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q5437258.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Daniel Walding /DFAT",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Fatafehi_Fakaf%C4%81nua_January_2026.jpg"
+ },
+ {
+  "id": "Q208497",
+  "name": "Tupou VI of Tonga",
+  "role": "head of state",
+  "birth_year": 1959,
+  "sitelinks": 59,
+  "country": "Tonga",
+  "country_code": "TO",
+  "country_code3": "TON",
+  "continent": "Oceania",
+  "capital": "Nukuʻalofa",
+  "demonyms": [
+   "Tongan"
+  ],
+  "country_aliases": [
+   "Tonga"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q208497.jpg",
+  "image_license": "CC0",
+  "image_artist": "Government House, Department of the Prime Minister and Cabinet",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Tupou_VI_2025.jpg"
+ },
+ {
+  "id": "Q57712",
+  "name": "Kamla Persad-Bissessar",
+  "role": "head of government",
+  "birth_year": 1952,
+  "sitelinks": 46,
+  "country": "Trinidad and Tobago",
+  "country_code": "TT",
+  "country_code3": "TTO",
+  "continent": "North America",
+  "capital": "Port of Spain",
+  "demonyms": [
+   "Trinidadian"
+  ],
+  "country_aliases": [
+   "Trinidad and Tobago"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q57712.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:2025_Kamla_Persad-Bissessar_(cropped).jpg"
+ },
+ {
+  "id": "Q97400315",
+  "name": "Christine Kangaloo",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 42,
+  "country": "Trinidad and Tobago",
+  "country_code": "TT",
+  "country_code3": "TTO",
+  "continent": "North America",
+  "capital": "Port of Spain",
+  "demonyms": [
+   "Trinidadian"
+  ],
+  "country_aliases": [
+   "Trinidad and Tobago"
+  ],
+  "wikiquote_title": "Christine Kangaloo",
+  "image": "img/Q97400315.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "Aleem Khan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:The_Hon_Christine_Kangaloo.jpg"
+ },
+ {
+  "id": "Q108892374",
+  "name": "Sarra Zaafrani",
+  "role": "head of government",
+  "birth_year": 1963,
+  "sitelinks": 22,
+  "country": "Tunisia",
+  "country_code": "TN",
+  "country_code3": "TUN",
+  "continent": "Africa",
+  "capital": "Tunis",
+  "demonyms": [
+   "Tunisian"
+  ],
+  "country_aliases": [
+   "Tunisia"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q108892374.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Russian Presidential Executive Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Sara_Zaafarani_Moscow_2026.jpg"
+ },
+ {
+  "id": "Q16120878",
+  "name": "Kais Saied",
+  "role": "head of state",
+  "birth_year": 1958,
+  "sitelinks": 56,
+  "country": "Tunisia",
+  "country_code": "TN",
+  "country_code3": "TUN",
+  "continent": "Africa",
+  "capital": "Tunis",
+  "demonyms": [
+   "Tunisian"
+  ],
+  "country_aliases": [
+   "Tunisia"
+  ],
+  "wikiquote_title": "Kais Saied",
+  "image": "img/Q16120878.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Quirinale",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Kais_Saied_2023.jpg"
+ },
+ {
+  "id": "Q39259",
+  "name": "Recep Tayyip Erdoğan",
+  "role": "head of state",
+  "birth_year": 1954,
+  "sitelinks": 186,
+  "country": "Turkey",
+  "country_code": "TR",
+  "country_code3": "TUR",
+  "continent": "Asia",
+  "capital": "Ankara",
+  "demonyms": [
+   "Turkish"
+  ],
+  "country_aliases": [
+   "Turkey"
+  ],
+  "wikiquote_title": "Recep Tayyip Erdoğan",
+  "image": "img/Q39259.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Lula Oficial",
+  "image_page": "https://commons.wikimedia.org/wiki/File:10.11.2026_-_Reuni%C3%A3o_Bilateral_com_o_Presidente_da_Turquia_-_55645239849_(Recep_Tayyip_Erdo%C4%9Fan).jpg"
+ },
+ {
+  "id": "Q51874548",
+  "name": "Serdar Berdimuhamedow",
+  "role": "head of state",
+  "birth_year": 1981,
+  "sitelinks": 61,
+  "country": "Turkmenistan",
+  "country_code": "TM",
+  "country_code3": "TKM",
+  "continent": "Asia",
+  "capital": "Ashgabat",
+  "demonyms": [
+   "Turkmen",
+   "Turkmenistani"
+  ],
+  "country_aliases": [
+   "Turkmenistan"
+  ],
+  "wikiquote_title": "Serdar Berdimuhamedow",
+  "image": "img/Q51874548.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Presidential Executive Office of Russia",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Serdar_Berdimuhamedow_(2022-06-10).jpg"
+ },
+ {
+  "id": "Q5441662",
+  "name": "Ben Do",
+  "role": "head of government",
+  "birth_year": 1962,
+  "sitelinks": 25,
+  "country": "Tuvalu",
+  "country_code": "TV",
+  "country_code3": "TUV",
+  "continent": "Oceania",
+  "capital": "Funafuti",
+  "demonyms": [
+   "Tuvaluan"
+  ],
+  "country_aliases": [
+   "Tuvalu"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q5441662.jpg",
+  "image_license": "CC BY 2.0",
+  "image_artist": "總統府",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Feleti_Teo_2024.jpg"
+ },
+ {
+  "id": "Q62481397",
+  "name": "Nabbanja Robinah",
+  "role": "head of government",
+  "birth_year": 1969,
+  "sitelinks": 32,
+  "country": "Uganda",
+  "country_code": "UG",
+  "country_code3": "UGA",
+  "continent": "Africa",
+  "capital": "Kampala",
+  "demonyms": [
+   "Ugandan"
+  ],
+  "country_aliases": [
+   "Uganda"
+  ],
+  "wikiquote_title": "Robinah Nabbanja",
+  "image": "img/Q62481397.jpg",
+  "image_license": "CC BY 3.0",
+  "image_artist": "Ugandan Convention",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Robinah_Nabbanja.jpg"
+ },
+ {
+  "id": "Q57274",
+  "name": "Yoweri Museveni",
+  "role": "head of state",
+  "birth_year": 1944,
+  "sitelinks": 90,
+  "country": "Uganda",
+  "country_code": "UG",
+  "country_code3": "UGA",
+  "continent": "Africa",
+  "capital": "Kampala",
+  "demonyms": [
+   "Ugandan"
+  ],
+  "country_aliases": [
+   "Uganda"
+  ],
+  "wikiquote_title": "Yoweri Museveni",
+  "image": "img/Q57274.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Department of State",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Yoweri_Museveni_September_2015.jpg"
+ },
+ {
+  "id": "Q124101558",
+  "name": "Serhii Koretskyi",
+  "role": "head of government",
+  "birth_year": 1978,
+  "sitelinks": 34,
+  "country": "Ukraine",
+  "country_code": "UA",
+  "country_code3": "UKR",
+  "continent": "Europe",
+  "capital": "Kyiv",
+  "demonyms": [],
+  "country_aliases": [
+   "Ukraine"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q124101558.webp",
+  "image_license": "CC BY 4.0",
+  "image_artist": "НАК «Нафтогаз України»",
+  "image_page": "https://commons.wikimedia.org/wiki/File:%D0%9A%D0%BE%D1%80%D0%B5%D1%86%D1%8C%D0%BA%D0%B8%D0%B9_%D0%A1%D0%B5%D1%80%D0%B3%D1%96%D0%B9.webp"
+ },
+ {
+  "id": "Q3874799",
+  "name": "Volodymyr Zelenskyy",
+  "role": "head of state",
+  "birth_year": 1978,
+  "sitelinks": 215,
+  "country": "Ukraine",
+  "country_code": "UA",
+  "country_code3": "UKR",
+  "continent": "Europe",
+  "capital": "Kyiv",
+  "demonyms": [],
+  "country_aliases": [
+   "Ukraine"
+  ],
+  "wikiquote_title": "Volodymyr Zelenskyy",
+  "image": "img/Q3874799.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of Ukraine",
+  "image_page": "https://commons.wikimedia.org/wiki/File:New_Year%27s_Eve_from_President_of_Ukraine_Volodymyr_Zelensky_(31-12-2025)_(cropped).jpg"
+ },
+ {
+  "id": "Q57655",
+  "name": "Mohammed bin Rashid Al Maktoum",
+  "role": "head of government",
+  "birth_year": 1949,
+  "sitelinks": 72,
+  "country": "United Arab Emirates",
+  "country_code": "AE",
+  "country_code3": "ARE",
+  "continent": "Asia",
+  "capital": "Abu Dhabi",
+  "demonyms": [
+   "Emirati",
+   "Emiri",
+   "Emirian"
+  ],
+  "country_aliases": [
+   "United Arab Emirates",
+   "UAE"
+  ],
+  "wikiquote_title": "Mohammed bin Rashid al-Maktoum",
+  "image": "img/Q57655.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "http://www.president.gov.ua/",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohammed_bin_Rashid_Al_Maktoum_(15-02-2021).jpg"
+ },
+ {
+  "id": "Q1951896",
+  "name": "Mohammed Bin Zayed Al Nahyan",
+  "role": "head of state",
+  "birth_year": 1961,
+  "sitelinks": 62,
+  "country": "United Arab Emirates",
+  "country_code": "AE",
+  "country_code3": "ARE",
+  "continent": "Asia",
+  "capital": "Abu Dhabi",
+  "demonyms": [
+   "Emirati",
+   "Emiri",
+   "Emirian"
+  ],
+  "country_aliases": [
+   "United Arab Emirates",
+   "UAE"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q1951896.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Press Service of the President of the Republic of Azerbaijan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Mohamed_bin_Zayed_Al_Nahyan_-_2024_(cropped).jpg"
+ },
+ {
+  "id": "Q269909",
+  "name": "Andy Burnham",
+  "role": "head of government",
+  "birth_year": 1970,
+  "sitelinks": 88,
+  "country": "United Kingdom",
+  "country_code": "GB",
+  "country_code3": "GBR",
+  "continent": "Europe",
+  "capital": "London",
+  "demonyms": [
+   "British",
+   "Briton"
+  ],
+  "country_aliases": [
+   "United Kingdom",
+   "Britain"
+  ],
+  "wikiquote_title": "Andy Burnham",
+  "image": "img/Q269909.jpg",
+  "image_license": "OGL 3",
+  "image_artist": "Prime Minister's Office",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Prime_Minister_Andy_Burnham_portrait_(cropped).jpg"
+ },
+ {
+  "id": "Q22686",
+  "name": "Donald Trump",
+  "role": "head of state",
+  "birth_year": 1946,
+  "sitelinks": 338,
+  "country": "United States",
+  "country_code": "US",
+  "country_code3": "USA",
+  "continent": "North America",
+  "capital": "Washington, D.C.",
+  "demonyms": [
+   "American",
+   "Americans"
+  ],
+  "country_aliases": [
+   "United States",
+   "U.S.",
+   "USA"
+  ],
+  "wikiquote_title": "Donald Trump",
+  "image": "img/Q22686.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Daniel Torok",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025)_(3x4).jpg"
+ },
+ {
+  "id": "Q19946921",
+  "name": "Yamandú Orsi",
+  "role": "head of state",
+  "birth_year": 1967,
+  "sitelinks": 38,
+  "country": "Uruguay",
+  "country_code": "UY",
+  "country_code3": "URY",
+  "continent": "South America",
+  "capital": "Montevideo",
+  "demonyms": [
+   "Uruguayan"
+  ],
+  "country_aliases": [
+   "Uruguay"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q19946921.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Marcelo Cúneo",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Yamand%C3%BA_Orsi.jpg"
+ },
+ {
+  "id": "Q57808",
+  "name": "Shavkat Mirziyoyev",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 97,
+  "country": "Uzbekistan",
+  "country_code": "UZ",
+  "country_code3": "UZB",
+  "continent": "Asia",
+  "capital": "Tashkent",
+  "demonyms": [
+   "Uzbek",
+   "Uzbekistani"
+  ],
+  "country_aliases": [
+   "Uzbekistan"
+  ],
+  "wikiquote_title": "Shavkat Mirziyoyev",
+  "image": "img/Q57808.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Press Service of the President of the Republic of Uzbekistan",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Shavkat_Mirziyoyev_official_portrait_(cropped_2).jpg"
+ },
+ {
+  "id": "Q16190741",
+  "name": "Bob Loughman",
+  "role": "head of government",
+  "birth_year": 1961,
+  "sitelinks": 23,
+  "country": "Vanuatu",
+  "country_code": "VU",
+  "country_code3": "VUT",
+  "continent": "Oceania",
+  "capital": "Port Vila",
+  "demonyms": [
+   "Ni-Vanuatu",
+   "Vanuatuan",
+   "Vanuatuans"
+  ],
+  "country_aliases": [
+   "Vanuatu"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q16190741.jpg",
+  "image_license": "Attribution",
+  "image_artist": "Delegation of the European Union to the Pacific",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Bob_Loughman_2022.jpg"
+ },
+ {
+  "id": "Q113239716",
+  "name": "Nikenike Vurobaravu",
+  "role": "head of state",
+  "birth_year": 1951,
+  "sitelinks": 32,
+  "country": "Vanuatu",
+  "country_code": "VU",
+  "country_code3": "VUT",
+  "continent": "Oceania",
+  "capital": "Port Vila",
+  "demonyms": [
+   "Ni-Vanuatu",
+   "Vanuatuan",
+   "Vanuatuans"
+  ],
+  "country_aliases": [
+   "Vanuatu"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q113239716.png",
+  "image_license": "Public domain",
+  "image_artist": "Philippine Embassy of Canberra",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Vurobaravu_ceremony_(cropped).png"
+ },
+ {
+  "id": "Q109385659",
+  "name": "Raffaella Petrini",
+  "role": "head of government",
+  "birth_year": 1969,
+  "sitelinks": 29,
+  "country": "Vatican City",
+  "country_code": "VA",
+  "country_code3": "VAT",
+  "continent": "Europe",
+  "capital": "Vatican City",
+  "demonyms": [
+   "Vatican"
+  ],
+  "country_aliases": [
+   "Vatican City"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q109385659.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Embassy to the Holy See",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Secretary_general_Raffaella_Petrini_delivers_remarks_at_Independence_Day_2023_(cropped).jpg"
+ },
+ {
+  "id": "Q6109517",
+  "name": "Leo XIV",
+  "role": "head of state",
+  "birth_year": 1955,
+  "sitelinks": 177,
+  "country": "Vatican City",
+  "country_code": "VA",
+  "country_code3": "VAT",
+  "continent": "Europe",
+  "capital": "Vatican City",
+  "demonyms": [
+   "Vatican"
+  ],
+  "country_aliases": [
+   "Vatican City"
+  ],
+  "wikiquote_title": "Pope Leo XIV",
+  "image": "img/Q6109517.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Ricardo Stuckert",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Leo_XIV_(13_October_2025).jpg"
+ },
+ {
+  "id": "Q15081116",
+  "name": "Delcy Rodriguez",
+  "role": "head of state",
+  "birth_year": 1969,
+  "sitelinks": 60,
+  "country": "Venezuela",
+  "country_code": "VE",
+  "country_code3": "VEN",
+  "continent": "South America",
+  "capital": "Caracas",
+  "demonyms": [
+   "Venezuelan",
+   "Venezuelans"
+  ],
+  "country_aliases": [
+   "Venezuela"
+  ],
+  "wikiquote_title": "Delcy Rodríguez",
+  "image": "img/Q15081116.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "government.ru",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Delcy_Rodr%C3%ADguez_portrait.jpg"
+ },
+ {
+  "id": "Q10806940",
+  "name": "Phạm Minh Chính",
+  "role": "head of government",
+  "birth_year": 1958,
+  "sitelinks": 43,
+  "country": "Vietnam",
+  "country_code": "VN",
+  "country_code3": "VNM",
+  "continent": "Asia",
+  "capital": "Hanoi",
+  "demonyms": [
+   "Vietnamese"
+  ],
+  "country_aliases": [
+   "Vietnam"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q10806940.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Cục An toàn thông tin – Bộ Thông tin và Truyền thông",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Pham_Minh_Chinh_2021.jpg"
+ },
+ {
+  "id": "Q10831196",
+  "name": "Tô Lâm",
+  "role": "head of state",
+  "birth_year": 1957,
+  "sitelinks": 51,
+  "country": "Vietnam",
+  "country_code": "VN",
+  "country_code3": "VNM",
+  "continent": "Asia",
+  "capital": "Hanoi",
+  "demonyms": [
+   "Vietnamese"
+  ],
+  "country_aliases": [
+   "Vietnam"
+  ],
+  "wikiquote_title": "Tô Lâm",
+  "image": "img/Q10831196.jpg",
+  "image_license": "CC BY-SA 3.0",
+  "image_artist": "Stanislav Krasilnikov",
+  "image_page": "https://commons.wikimedia.org/wiki/File:To_Lam_May_2025.jpg"
+ },
+ {
+  "id": "Q68837007",
+  "name": "Salem Saleh bin Braik",
+  "role": "head of government",
+  "birth_year": 1965,
+  "sitelinks": 12,
+  "country": "Yemen",
+  "country_code": "YE",
+  "country_code3": "YEM",
+  "continent": "Asia",
+  "capital": "Aden",
+  "demonyms": [
+   "Yemeni"
+  ],
+  "country_aliases": [
+   "Yemen"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q68837007.jpg",
+  "image_license": "Public domain",
+  "image_artist": "U.S. Embassy Yemen",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Fagin_and_bin_Braik,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q12213376",
+  "name": "Rashad al-Alimi",
+  "role": "head of state",
+  "birth_year": 1954,
+  "sitelinks": 32,
+  "country": "Yemen",
+  "country_code": "YE",
+  "country_code3": "YEM",
+  "continent": "Asia",
+  "capital": "Aden",
+  "demonyms": [
+   "Yemeni"
+  ],
+  "country_aliases": [
+   "Yemen"
+  ],
+  "wikiquote_title": null,
+  "image": "img/Q12213376.jpg",
+  "image_license": "CC BY-SA 4.0",
+  "image_artist": "Ali mamon",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Rashad_al-Alimi_-_2022.jpg"
+ },
+ {
+  "id": "Q717185",
+  "name": "Hakainde Hichilema",
+  "role": "head of state",
+  "birth_year": 1962,
+  "sitelinks": 53,
+  "country": "Zambia",
+  "country_code": "ZM",
+  "country_code3": "ZMB",
+  "continent": "Africa",
+  "capital": "Lusaka",
+  "demonyms": [
+   "Zambian",
+   "Zambians"
+  ],
+  "country_aliases": [
+   "Zambia"
+  ],
+  "wikiquote_title": "Hakainde Hichilema",
+  "image": "img/Q717185.jpg",
+  "image_license": "CC BY 4.0",
+  "image_artist": "Cabinet Public Relations Office of the Cabinet Secretariat",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Hakainde_Hichilema_in_Japan_on_February_6,_2025_(cropped).jpg"
+ },
+ {
+  "id": "Q510523",
+  "name": "Emmerson Mnangagwa",
+  "role": "head of state",
+  "birth_year": 1942,
+  "sitelinks": 78,
+  "country": "Zimbabwe",
+  "country_code": "ZW",
+  "country_code3": "ZWE",
+  "continent": "Africa",
+  "capital": "Harare",
+  "demonyms": [
+   "Zimbabwean",
+   "Zimbabweans"
+  ],
+  "country_aliases": [
+   "Zimbabwe"
+  ],
+  "wikiquote_title": "Emmerson Mnangagwa",
+  "image": "img/Q510523.jpg",
+  "image_license": "Public domain",
+  "image_artist": "Government of Zimbabwe",
+  "image_page": "https://commons.wikimedia.org/wiki/File:Emmerson_Mnangagwa_Official_Portrait_(cropped).jpg"
+ }
+]
