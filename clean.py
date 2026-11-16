@@ -32,6 +32,28 @@ MIN_ENGLISH_WORDS = 3
 # level-2 sections of a Wikiquote page that are not the leader's own words
 SKIPPED_SECTIONS = re.compile(r"about|misattributed|disputed|external|see also|references", re.IGNORECASE)
 
+MIN_QUOTES_TO_PLAY = 2
+# names people really use that Wikidata does not list, by country code
+EXTRA_COUNTRY_NAMES = {
+    "US": ["America", "United States of America", "US"],
+    "GB": ["UK", "U.K.", "Great Britain", "England"],
+    "CN": ["PRC"],
+    "KP": ["Korea"],
+    "NL": ["Holland"],
+    "CZ": ["Czechia"],
+    "TR": ["Turkiye"],
+    "TL": ["East Timor"],
+    "CI": ["Cote d'Ivoire"],
+}
+EXTRA_DEMONYMS = {
+    "UA": ["Ukrainian"],
+    "KP": ["Korean"],
+    "GB": ["English", "Brit"],
+}
+# columns of data/leaders.json, in the order of the contract with the game
+OUTPUT_COLUMNS = ["id", "name", "role", "country", "country_code", "country_code3", "continent",
+                  "image", "image_license", "image_artist", "image_page", "quotes", "quotes_original"]
+
 
 # ---------------------------------------------------------------- loading
 
@@ -58,10 +80,15 @@ def load_wikiquote() -> dict[str, dict]:
 
 # ---------------------------------------------------------------- step 1: CIA check
 
-def normalize(text: str) -> str:
-    """Lower case without accents: 'Sánchez' -> 'sanchez', 'Tô Lâm' -> 'to lam'."""
+def strip_accents(text: str) -> str:
+    """'Sánchez' -> 'Sanchez', 'Tô Lâm' -> 'To Lam'."""
     decomposed = unicodedata.normalize("NFKD", text.translate(SPECIAL_LETTERS))
-    return "".join(ch for ch in decomposed if not unicodedata.combining(ch)).lower()
+    return "".join(ch for ch in decomposed if not unicodedata.combining(ch))
+
+
+def normalize(text: str) -> str:
+    """Lower case without accents: 'Sánchez' -> 'sanchez'."""
+    return strip_accents(text).lower()
 
 
 def name_words(name: str) -> set[str]:
@@ -215,6 +242,103 @@ def add_quotes(leaders: pd.DataFrame, wikiquote: dict[str, dict]) -> pd.DataFram
     return leaders.assign(quotes_original=leaders["id"].map(quotes_of))
 
 
+# ---------------------------------------------------------------- step 3: masking
+
+def country_names(leader: pd.Series) -> list[str]:
+    """Every way the country can be named in a quote.
+
+    Adds short forms to the Wikidata names:
+    "People's Republic of China" -> 'China', 'The Gambia' -> 'Gambia'.
+    """
+    names = [leader["country"], *leader["country_aliases"]]
+    names += EXTRA_COUNTRY_NAMES.get(leader["country_code"], [])
+    short_forms = [re.sub(r"^.* of (the )?|^The ", "", name) for name in names]
+    return names + short_forms
+
+
+def people_names(leader: pd.Series) -> list[str]:
+    """Demonyms with their plurals: 'Kenyan' -> 'Kenyan', 'Kenyans'."""
+    demonyms = leader["demonyms"] + EXTRA_DEMONYMS.get(leader["country_code"], [])
+    return demonyms + [demonym + "s" for demonym in demonyms]
+
+
+def city_names(leader: pd.Series) -> list[str]:
+    """The capital, also without what follows a comma: 'Washington, D.C.' -> 'Washington'."""
+    capital = leader["capital"] or ""
+    return [capital, capital.split(",")[0]]
+
+
+def person_names(leader: pd.Series) -> list[str]:
+    """The full name and each of its capitalised words, with and without accents.
+
+    'Pedro Sánchez' -> 'Pedro Sánchez', 'Pedro', 'Sánchez', 'Pedro Sanchez', 'Sanchez'.
+    Particles ('of', 'bin') and numerals ('II') are not names, so they are left out.
+    """
+    full_name = leader["name"]
+    words = [word for word in re.findall(r"[^\W\d_]+", full_name)
+             if len(word) >= 3 and word[0].isupper() and not word.isupper()]
+    names = [full_name, *words]
+    return names + [strip_accents(name) for name in names]
+
+
+def words_pattern(words: list[str]) -> re.Pattern | None:
+    """One regex that finds any of the words as a whole word.
+
+    Longer words go first, so 'South Africa' wins over 'Africa'.
+    Abbreviations ('US', 'UAE') must match the case exactly, otherwise
+    the pronoun 'us' would be hidden; everything else ignores case.
+    """
+    words = sorted({word for word in words if word}, key=len, reverse=True)
+    if not words:
+        return None
+    alternatives = [re.escape(word) if word.isupper() else f"(?i:{re.escape(word)})"
+                    for word in words]
+    return re.compile(r"(?<!\w)(?:" + "|".join(alternatives) + r")(?!\w)")
+
+
+def mask_quote(quote: str, leader: pd.Series) -> str:
+    """Hide the words that give the answer away.
+
+    'Kenya will not fail, Kenyans know it' -> '[COUNTRY] will not fail, [PEOPLE] know it'
+    People go before the country, so 'South African' is not cut into '[COUNTRY]n'.
+    """
+    replacements = [
+        ("[PEOPLE]", people_names(leader)),
+        ("[COUNTRY]", country_names(leader)),
+        ("[CITY]", city_names(leader)),
+        ("[NAME]", person_names(leader)),
+    ]
+    for placeholder, words in replacements:
+        pattern = words_pattern(words)
+        if pattern:
+            quote = pattern.sub(placeholder, quote)
+    return quote
+
+
+def add_masked_quotes(leaders: pd.DataFrame) -> pd.DataFrame:
+    """Add the column 'quotes': 'quotes_original' with the giveaway words hidden."""
+    def masked(leader: pd.Series) -> list[str]:
+        return [mask_quote(quote, leader) for quote in leader["quotes_original"]]
+
+    return leaders.assign(quotes=leaders.apply(masked, axis=1))
+
+
+# ---------------------------------------------------------------- step 4: output
+
+def keep_playable(leaders: pd.DataFrame) -> pd.DataFrame:
+    """Leaders the game can show: enough quotes and a photo on disk."""
+    enough_quotes = leaders["quotes"].str.len() >= MIN_QUOTES_TO_PLAY
+    has_photo = leaders["image"].map(lambda image: (DATA_DIR / image).is_file())
+    return leaders[enough_quotes & has_photo].reset_index(drop=True)
+
+
+def save_leaders(leaders: pd.DataFrame) -> None:
+    """Write data/leaders.json in the format the game expects."""
+    records = leaders[OUTPUT_COLUMNS].to_dict(orient="records")
+    with open(DATA_DIR / "leaders.json", "w", encoding="utf-8") as file:
+        json.dump(records, file, ensure_ascii=False, indent=1)
+
+
 # ---------------------------------------------------------------- main
 
 def main() -> None:
@@ -228,6 +352,10 @@ def main() -> None:
     quote_counts = leaders["quotes_original"].str.len()
     print(f"with any quote:    {(quote_counts > 0).sum()}")
     print(f"with 2+ quotes:    {(quote_counts >= 2).sum()}")
+
+    leaders = keep_playable(add_masked_quotes(leaders))
+    save_leaders(leaders)
+    print(f"playable leaders:  {len(leaders)}  ->  data/leaders.json")
 
 
 if __name__ == "__main__":
